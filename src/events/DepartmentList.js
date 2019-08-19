@@ -22,7 +22,7 @@ class DepartmentList extends React.Component{
 					alt={""}
 				  />
 
-				<h6 style={{color:"#ff9800",marginTop:"5%"}}>Departments</h6>
+				<h6 style={{color:"#ff9800",marginTop:"3%"}}>Departments</h6>
 				</div>
 				<div className="card-set">
 				{Object.keys(department).map((x) => (
