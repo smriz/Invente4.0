@@ -1,0 +1,35 @@
+{
+	"cse":{
+		"fullName":"Computer Science & Engineering",
+		"displayName":"CSE"
+	},
+	"it":{
+		"fullName":"Information Technology",
+		"displayName":"IT"
+	},
+	"civil":{
+		"fullName":"Civil Engineering",
+		"displayName":"CIVIL"
+	},
+	"chem":{
+		"fullName":"Chemical Engineering",
+		"displayName":"CHEMICAL"
+	},
+	"mech":{
+		"fullName":"Mechanical Engineering",
+		"displayName":"MECHANICAL"
+	},
+	"eee":{
+		"fullName":"Electrical & Electronics Engineering",
+		"displayName":"EEE"
+	},
+	"ece":{
+		"fullName":"Electrical & Communcation Engineering",
+		"displayName":"ECE"
+	},
+	"bme":{
+		"fullName":"Bio Medical Engineering",
+		"displayName":"BME"
+	}
+
+}

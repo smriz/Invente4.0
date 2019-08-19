@@ -1,0 +1,51 @@
+{
+	"founder": {
+		"name": "Dr. Shiv Nadar",
+		"pos": "The Founder",
+		"desc": [
+			"The SSN Institutions are the outcome of the vision and ",
+			"initiative of Dr. Shiv Nadar, a pioneer in the field of ",
+			"information Technology. As the chairman of HCL Technologies ",
+			"Ltd., Dr. Shiv Nadar has played a pivotal role in the rise of ",
+			"India as a formidable power in Information Technology. His ",
+			"commitment to professional excellence and global vision is today ",
+			"a benchmark in the corporate world. Dr. Shiv Nadar has been ",
+			"conferred the prestigious Padma Bhushan award in 2008 by the ",
+			"Government of India. Recently, he has been recognized as one of ",
+			"the 48 Heroes of Philanthropy by Forbes for his long standing ",
+			"association with many NGOs."
+		]
+	},
+	"president": {
+		"name": "Ms. Kala Vijayakumar",
+		"pos": "The President",
+		"desc": [
+			" Ms. Kala Vijayakumar, the president of SSN INSTITUTIONS, has a ",
+			"mix of Entrepreneur, IT profession and Academic Management ",
+			"experience. She worked in the software development projects in ",
+			" HCL technologies, playing roles like programmer and team leader. ",
+			" Ms. Kala Vijayakumar has been associated with SSN Institutions ",
+			"from the inception. The objectives of the institutions are to ",
+			"provide world className education, create the right type of ",
+			"learning ambience and make the education affordable to the ",
+			"meritorious students through large number of scholarships. She ",
+			"implements the vision of the founder, Dr. Shiv Nadar by ",
+			"providing day-to-day management and guidance in running the ",
+			"institutions."
+		]
+	},
+	"principal": {
+		"name": "Dr. S. Salivahanan",
+		"pos": "The Principal",
+		"desc": [
+			"With 28 years of experience in teaching, research and industrial ",
+			"experience, Dr. Salivahanan brings an ideal mix of capabilities ",
+			"to the post of principal. Dr. Salivahanan has taught at NIT - ",
+			"Trichy, RVCE - Bangalore and ACCET - Karaikudi, among other ",
+			"places. During his distinguished career, Dr. Salivahanan has ",
+			"also been a scientist at ISRO, authored numerous books and ",
+			"papers, guided many students for their Ph.D.’s and received many ",
+			"honours and awards."
+		]
+	}
+}

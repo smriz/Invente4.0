@@ -1,0 +1,117 @@
+﻿/* @import url("../GillSans-Light.ttf"); */
+/*.aboutus .line{
+	width:50%; 
+	height: 1px; 
+	background: #fff; 
+	padding: 0; 
+	margin-top: 1px;
+}*/
+
+.aboutus h6 {
+  padding-top: 5%;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+  color: whitesmoke;
+}
+
+.aboutus .caption {
+  display: inline-block;
+  width: 250px;
+  text-align: center;
+  margin-top: 0;
+  font-weight: bold;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.aboutus .container {
+  /* color: brown; */
+  justify-content: center;
+  position: relative;
+  max-width: 79%;
+  padding-left: 10px;
+  padding-right: 10px;
+  /*margin-left: 80px;
+	margin-right: 50px;
+	margin-top: 30px;*/
+  text-align: justify;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: column;
+}
+.aboutus .image {
+  opacity: 1;
+  display: inline;
+  padding-bottom: 0.5em;
+  border-radius: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.aboutus svg {
+  width: 250px;
+  height: 215px;
+}
+.aboutus image:hover {
+  width: 255px;
+  height: 225px;
+}
+
+.aboutus .container .text {
+  line-height: 25px;
+  color: whitesmoke;
+  text-align: justify;
+  font-size: 16px;
+}
+.aboutus .pos {
+  font-size: 16px;
+  color: #ff9800;
+  margin-top: 6px;
+  padding: 0px, 0px, 0px, 0px;
+}
+.aboutus .name {
+  font-size: 18px;
+  color: white;
+  margin-top: 0px;
+  padding: 0px, 0px, 0px, 0px;
+}
+
+.aboutus .forhome {
+  margin-top: -20%;
+}
+.aboutus .textforhome {
+  font-size: 18px;
+  line-height: 35px;
+  width: 70%;
+  margin-left:auto;
+  margin-right:auto
+}
+@media screen and (orientation: portrait) {
+  .aboutus h6 {
+    padding-top: 10%;
+    font-size: 16px;
+  }
+
+  .aboutus .name {
+    font-size: 15px;
+  }
+
+  .aboutus .pos {
+    font-size: 14px;
+  }
+  .aboutus .container .text {
+    font-size: 14px;
+  }
+
+  .aboutus .forhome {
+    margin-top: -30%;
+  }
+  .aboutus .textforhome {
+  line-height: 30px;
+    width:100% }
+}
+
+

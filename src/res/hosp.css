@@ -1,0 +1,76 @@
+.hosp{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.hosp .content{
+	padding-left: 2px;
+	padding-right: 2px;
+	max-width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+	justify-content: center;
+}
+.hosp .content h2{
+	text-align: center;
+}
+.hosp hr{
+	width:50%; 
+	height: 1px; 
+	background: #fff; 
+	padding: 0; 
+	/*margin-top: 0.5px;*/
+}
+.hosp .content h4{
+	text-align: center;
+	color: grey;
+}
+.hosp .content table{
+	width: 70%;
+}
+.hosp .content table, th, td, tr{
+	border: 1px solid black;
+	text-align: center;
+	padding: 2px;
+	border-collapse: collapse;
+}
+.hosp .content .caption{
+	width: 70%;
+	height: 50%;
+	text-align: center;
+	margin-top: 30px;
+	font-weight: bold;
+	margin-left: auto;
+	margin-right: auto;
+}
+/*.hosp .content img{
+	border-radius: 100%;
+}*/
+.hosp .content p{
+	text-align: center;
+}
+.hosp .content .note{
+	font-weight: bold;
+}
+.hosp .content ul{
+	text-align: center;
+}
+.hosp .content li{
+	text-align: justify;
+}
+.hosp .content .caption img{
+	width: 400px;
+	height: 400px;
+}
+  
+  
+@media screen and (orientation:portrait){
+    .hosp .content .caption img{
+        width:280px;
+        height:400px;
+    }
+}
+

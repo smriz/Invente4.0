@@ -1,0 +1,169 @@
+
+.flagship {
+    justify-content: center;
+    position: relative;
+    text-align: justify;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+    padding-left: 10px;
+    max-width: 70%;
+    padding-right: 10px;
+  }
+  
+  .flagship h6 {
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    color: whitesmoke;
+  }
+  
+  .flagship .card-set {
+    display: flex;
+    width: 100%;
+    flex: 50% 1;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  .flagship .card-set .card-set-child {
+    align-content: center;
+    display: inline-block;
+    width: 25%;
+    margin: 0 0;
+  }
+  .flagship .card-set .card-set-child img {
+    width: 130px;
+    height: 130px;
+    margin-top: 5px;
+    position: relative;
+  }
+  .flagship .card-set .card-set-child .customdiv {
+    width: 130px;
+    height: 200px;
+    margin-top: 5px;
+    position: relative;
+    overflow: hidden
+  }
+  .flagship .card-set .card-set-child .customdiv .seemore {
+    width: 130px;
+    height: 60px;
+    position: relative;
+  }
+  @media only screen and (orientation: portrait) {
+    .flagship {
+        margin-top: 10%;
+      max-width: 90%;
+  
+    }
+
+    .flagship .card-set .card-set-child {
+      display: flex;
+      flex-direction: column;
+      width: 25%;
+    }
+  
+    .flagship h6 {
+      font-size: 15px;
+    }
+  
+    .flagship .card-set .card-set-child .dept-name {
+      font-size: 14px;
+      margin-top: -10%;
+    }
+    .flagship .card-set .card-set-child .customdiv {
+        position: relative;
+        width: 160px;
+        height: 160px;
+      }
+  
+    .flagship .card-set .card-set-child .customdiv img {
+      position: relative;
+      width: 160px;
+      height: 160px;
+    }
+    .flagship .card-set .card-set-child .customdiv .seemore {
+        height: 20px;
+      }
+    .flagship {
+      margin-top: 0;
+    }
+
+  }
+  
+  @media only screen and (max-width: 1130px) {
+    .flagship .card-set .card-set-child {
+      align-content: center;
+      display: inline-block;
+      width: 30%;
+      margin: 0 0;
+    }
+  }
+  
+  @media only screen and (max-width: 920px) {
+    .flagship .card-set .card-set-child {
+      align-content: center;
+      display: inline-block;
+      width: 40%;
+      margin: 0 0;
+    }
+  }
+  @media only screen and (max-width: 650px) {
+ 
+    .flagship .card-set .card-set-child .dept-name {
+      margin: 0px;
+    }
+    .flagship .card-set .card-set-child .customdiv {
+      width: 130px;
+      height: 150px;
+      margin-top: 0;
+      position: relative;
+    }
+  
+  
+  }
+  @media only screen and (max-width: 680px) {
+    .flagship .card-set .card-set-child {
+      align-content: center;
+      display: inline-block;
+      width: 50%;
+      margin: 0 0;
+    }
+    .flagship .card-set .card-set-child .customdiv .seemore {
+        width: 100px;
+        height: 40px; 
+  
+      }
+     
+    
+  }
+  @media only screen and (max-width: 375px) {
+    
+    .flagship{
+      height: 90%;
+    }
+    .flagship .card-set .card-set-child .customdiv {
+      width: 140px;
+      height: 110px;
+      margin-top: -10%;
+      position: relative;
+    }
+    .flagship .card-set .card-set-child .customdiv .img {
+      width: 70px;
+      height: 80px;
+      margin-top: -5%;
+    }
+    .flagship .card-set .card-set-child .customdiv .seemore {
+      width: 100px;
+      height: 20px;    
+        margin-top: -8%;
+
+    }
+   
+  
+    .flagship .card-set .card-set-child {
+      height: 100px;
+    }
+  }

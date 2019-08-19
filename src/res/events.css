@@ -1,0 +1,230 @@
+.events {
+  justify-content: center;
+  position: relative;
+  text-align: justify;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: column;
+  padding-left: 10px;
+  max-width: 70%;
+  padding-right: 10px;
+}
+.events .card {
+  display: inline-block;
+  width: 44%;
+  margin-top: 25px;
+  text-align: center;
+  margin-left: 27%;
+}
+
+.events h6 {
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  color: whitesmoke;
+}
+
+#staff-coordinator,
+#student-coordinator {
+  margin-top: 20px;
+}
+
+.events .card-set {
+  display: flex;
+  width: 100%;
+  flex: 50% 1;
+  justify-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.events .card-set .card-set-child {
+  align-content: center;
+  display: inline-block;
+  width: 25%;
+  margin: 0 0;
+}
+.events .card-set .card-set-child img {
+  width: 200px;
+  height: 200px;
+  margin-top: 5px;
+  position: relative;
+}
+.events .card-set .card-set-child .customdiv {
+  width: 210px;
+  height: 210px;
+  margin-top: 5px;
+  position: relative;
+}
+.events .card-set .card-set-child .customdiv img {
+  width: 200px;
+  height: 200px;
+  position: relative;
+}
+.events .card-set .card-set-child .customdiv img:hover {
+    width: 207px;
+    height: 207px;
+  }
+  
+.events .title-name {
+  font-size: 18px;
+  text-align: center;
+  color: white;
+  margin-top: 6px;
+  padding: 0px, 0px, 0px, 0px;
+}
+.events .card-set .card-set-child .dept-name {
+  font-size: 16px;
+  margin-top: -7%;
+  letter-spacing: 4px;
+  padding: 0px, 0px, 0px, 0px;
+}
+.marginTop{
+    margin-top: 1%;
+}
+
+.events .tagline{
+    color: #ff9800;
+     margin-top: 1%;
+     font-size:15px;
+     letter-spacing:0px;
+     text-transform:initial
+}
+
+.events .description{
+     margin-top: 5%;
+     font-size:16px;
+     letter-spacing:0px;
+     line-height: 15px;
+     text-transform:initial
+}
+.events .card-set .card-set-child .roundimg{
+width: 170px;
+height: 170px;
+margin-top: 5px;
+margin-left: -1%;
+border:3px solid  #ff9800;
+border-radius: 50%;
+position: relative;
+}
+@media only screen and (orientation: portrait) {
+  .events {
+    max-width: 90%;
+  }
+  .events h6 {
+   font-size: 16px;
+  }
+  .events .card-set {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .events .card-set .card-set-child {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+  }
+
+  .events h6 {
+    font-size: 15px;
+  }
+
+  .events .card-set .card-set-child .dept-name {
+    font-size: 13px;
+    margin-top: -10%
+  }
+
+  .events .card-set .card-set-child .customdiv img {
+    position: relative;
+    width: 180px;
+    height: 180px;
+  }
+  .marginTop{
+    margin-top: 0;
+}
+.events .card-set .card-set-child .customdiv img:hover {
+    width: 190px;
+    height: 190px;
+  }
+  .events .roundimg{
+    width: 100px;
+    height: 100px;
+    }
+    .events .card-set .card-set-child .roundimg{
+        width: 120px;
+        height: 120px;
+        margin-top: 4%;
+        }
+}
+
+@media only screen and (max-width: 1130px) {
+    .events .card-set .card-set-child {
+        align-content: center;
+        display: inline-block;
+        width: 30%;
+        margin: 0 0;
+      }
+  }
+
+
+@media only screen and (max-width: 920px) {
+    .events .card-set .card-set-child {
+        align-content: center;
+        display: inline-block;
+        width: 40%;
+        margin: 0 0;
+      }
+
+      
+  }
+
+  @media only screen and (max-width:650px){
+    .events .card-set .card-set-child .dept-name  {
+      margin: 0px;
+    }
+    .events .card-set .card-set-child .customdiv {
+          width: 150px;
+          height: 165px;
+          margin-top: 0;
+          position: relative;
+        }
+  }
+  @media only screen and (max-width: 680px) {
+    .events .card-set .card-set-child {
+        align-content: center;
+        display: inline-block;
+        width: 50%;
+        margin: 0 0;
+      }
+  
+      .events .card-set .card-set-child .roundimg{
+        width: 100px;
+        height: 100px;
+        margin-top: 5px;
+        margin-left: -1%;
+        border:3px solid  #ff9800;
+        border-radius: 50%;
+        position: relative;
+        }
+    }  
+    @media only screen and (max-width: 375px) {
+      .events .card-set .card-set-child img{
+        width: 80px;
+        height: 80px;
+
+        }
+        .events .card-set .card-set-child .customdiv {
+          width: 140px;
+          height: 160px;
+          margin-top: 0;
+          position: relative;
+        }
+        .events .card-set .card-set-child .customdiv .img {
+          width: 80px;
+          height: 80px;
+        }
+
+        .events .card-set .card-set-child{
+        height:190px;
+        }
+      }
