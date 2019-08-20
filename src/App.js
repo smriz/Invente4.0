@@ -8,12 +8,15 @@ import Footer from './components/Footer'
 import Hospitality from './components/Hospitality'
 import Registration from './components/Registration';
 import Workshop from './components/Workshop';
+import Sidebar from './components/sidebar';
 
 class App extends Component {
   render(){
     return (
-        <BrowserRouter>
+       <BrowserRouter>
           <div className="App">
+        <Sidebar/>  
+
             <Route exact path='/' component={Home}/>
             <Route path='/events' component={Events}/>
             <Route path='/about-us' component={Aboutus}/>
@@ -24,6 +27,8 @@ class App extends Component {
             <Footer/>
           </div>
         </BrowserRouter>
+
+
     );
   }
 }

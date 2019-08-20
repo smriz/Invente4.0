@@ -136,7 +136,7 @@ class Animation extends React.Component {
                     id="lball"/>
                 <img src={require("../images/Logo_bulb.svg")} alt="logo" id="bulb"/>
                 <img
-                    src={require("../images/logo_text_with_tagline.svg")}
+                    src={require("../images/logo_with_tagline.svg")}
                     alt="title"
                     id="title"/>
                 <div className="herosplash1">

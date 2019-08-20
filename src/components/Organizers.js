@@ -1,5 +1,5 @@
 import React from "react";
-import Navigator from "./Navigator";
+import Sidebar from "./Navigator";
 import { Helmet } from "react-helmet";
 import Flip from "react-reveal/Flip";
 class Organizers extends React.Component {
@@ -111,11 +111,15 @@ class Organizers extends React.Component {
   render() {
     return (
       <div>
+        <div style={{display:"none"}}>
+        <Sidebar/>
+
+        </div>
         <Helmet>
           <title>Organizers | Invente 4.0 </title>
         </Helmet>
-        <Navigator title={"Invente"} />
         <div  className="organisers top">
+
       <Flip  cascade> 
      
 
