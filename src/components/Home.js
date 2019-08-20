@@ -23,7 +23,6 @@ class Home extends React.Component {
     );
     if (origin.index === 0) {
       this.setState({ show: false });
-
     }
     if (origin.index === 1 && destination.index === 0) {
       this.setState({ show: true });
@@ -42,12 +41,8 @@ class Home extends React.Component {
     if (this.state) {
       return (
         <div>
-          <div>
-       
-          <Sidebar />
-               
-          </div>
-          <div style={{position:"absolute"}}>
+          <Sidebar/>
+          <div style={{position:"fixed"}}>
           <ReactFullpage
             scrollOverflow={true}
             sectionsColor={["", "", ""]}
@@ -93,13 +88,12 @@ class Home extends React.Component {
                   </button>
                 </div> */}
                 </div>
-              
               );
             }}
           />
-        </div></div>
+          </div>
+        </div>
       );
-
     } else {
       return <p>hello</p>;
     }

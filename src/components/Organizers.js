@@ -42,15 +42,15 @@ class Organizers extends React.Component {
     ];
     this.student = [
       {
-        name: "Rahul Sriram",
+        name: " ",
         img: "IT"
       },
       {
-        name: "Sharan Sundar",
+        name: "Logesh B",
         img: "CSE"
       },
       {
-        name: "Meyyappan",
+        name: "",
         img: "EEE"
       },
       {
@@ -58,20 +58,20 @@ class Organizers extends React.Component {
         img: "ECE"
       },
       {
-        name: "Dharmasekaran",
-        img: "Civil"
+        name: "",
+        img: "CIVIL"
       },
       {
-        name: "Jerome Jayakar",
+        name: " ",
         img: "BME"
       },
       {
-        name: "Yashaswin Harathi",
-        img: "Mechanical"
+        name: " ",
+        img: "MECH"
       },
       {
-        name: "Sudarsan",
-        img: "Chemical"
+        name: " ",
+        img: "CHEM"
       }
     ];
     this.hod = [
