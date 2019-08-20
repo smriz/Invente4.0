@@ -1,23 +1,28 @@
 import React from "react";
 import "../res/about.css";
 class Aboutinvente extends React.Component {
+  componentDidMount(){
+    setTimeout(() => {
+      document
+          .querySelector('#headline')
+          .style = " animation: createBox 0.7s;";
+  }, 1)
+  }
   render() {
+    let show = true;
     return (
       <div className="aboutus " align="center">
 
         <h6 className="forhome">About Us</h6>
+        
        <img
-          className="headline anime"
+          className="headline "
+          id="headline"
           src={require("../images/Heading_Line.svg")}
           alt={""}
         />
 
-        {/* <div
-          data-aos="fade-zoom-in"
-          data-aos-offset="100"
-          data-aos-easing="ease-in-sine"
-          data-aos-duration="600"
-        > */}
+        
           <div className="container" align="center">
             <p className="textforhome" >
             <br/>  SSN unveils Invente, a two-day techfest built around encouraging
@@ -32,7 +37,7 @@ class Aboutinvente extends React.Component {
               September and take a trip down to Kalavakkam. It's time for you to
               Invente.
             </p>
-          {/* </div> */}
+
         </div>{" "}
       </div>
     );

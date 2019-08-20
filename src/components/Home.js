@@ -35,7 +35,8 @@ class Home extends React.Component {
   }
 
   componentDidMount() {
-    this.setState({ isLoading: false });
+    this.setState({ isLoading: true });
+    console.log(this.state.isLoading)
   }
   render() {
     if (this.state) {
@@ -59,7 +60,7 @@ class Home extends React.Component {
                     <Ring />
                   </div>
                   <div className="section section1">
-                    <Aboutinvente />
+                    <Aboutinvente show={this.state.show}/>
                   </div>
 
                   <div className="section section1">

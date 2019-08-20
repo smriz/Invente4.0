@@ -8,10 +8,12 @@
   } */
 @font-face {
   font-family: myFancyFont;
-  font-weight: lighter;
   src: url("./GillSans-Light-08.ttf"), url("./GillSans-Light-08.ttf");
 }
+*{
+  font-weight: 100;
 
+}
 body {
   color: white;
   background: #ff9800;
@@ -24,7 +26,7 @@ body {
   margin: 0px;
   padding: 0px;
   margin-top: 5%;
-  font-family: "myfancyfont", "sans-serif";
+  font-family: "myFancyFont",sans-serif;
   -webkit-user-select: none;
   -moz-user-select: -moz-none;
   -ms-user-select: none;

@@ -11,13 +11,19 @@ import Workshop from './components/Workshop';
 import Sidebar from './components/sidebar';
 
 class App extends Component {
+  constructor(props) {
+    super(props);
+    this.state = { isLoading: true };
+  }
+  componentDidMount() {
+    this.setState({isLoading: false})
+}
   render(){
     return (
        <BrowserRouter>
         <Sidebar/>  
 
           <div className="App">
-
             <Route exact path='/' component={Home}/>
             <Route path='/events' component={Events}/>
             <Route path='/about-us' component={Aboutus}/>
