@@ -52,57 +52,78 @@ class EventList extends React.Component {
             <h6 style={{ color: "#ff9800", marginTop: "3%" }}>Technical</h6>
           </div>
           <div className="card-set">
-            {Object.keys(eventdetail[dept])
-              .map(x => (
-				eventdetail[dept][x].isTechnical === true ? (
+            {Object.keys(eventdetail[dept]).map(x =>
+              eventdetail[dept][x].isTechnical === true ? (
                 <Link to={`/events/${dept}/${x}`} className="card-set-child">
-					
                   <div align="center">
                     <div className="customdiv">
-                      <img src={require("../images/Capsule.svg")} alt={x} />
+                      <img
+                        src={require("../images/events/"+dept+"_"+
+                        eventlist[dept][x] +
+                        ".svg")} 
+                      // src={require("../images/Capsule.svg")}
+                       alt={x} />
                     </div>
-                    <p className="dept-name" style={{ textAlign: "center",letterSpacing:"1px" }}>
-                      {eventlist[dept][x]}
-                    </p>
-                  </div> 
-				</Link>)
-				: "" 
-              ))}
-          </div>
-		<br/>
-		<br/>
-		<br/>
-		<br/>
-		<br/>
-
-     <h6 style={{ color: "#ff9800", marginTop: "1%" }} className="">Non - Technical</h6>
-	 <div className="card-set">
-            {Object.keys(eventdetail[dept])
-              .sort(this.sort)
-              .map(x => (
-				eventdetail[dept][x].isTechnical === false ? (
-                <Link to={`/events/${dept}/${x}`} className="card-set-child">
-					
-                  <div align="center">
-                    <div className="customdiv">
-                      <img src={require("../images/Capsule.svg")} alt={x}/>
-                    </div>
-                    <p className="dept-name" style={{ textAlign: "center" }}>
+                    <p
+                      className="dept-name"
+                      style={{
+                        textAlign: "center",
+                        letterSpacing: "1px",
+                        textTransform: "initial"
+                      }}
+                    >
                       {eventlist[dept][x]}
                     </p>
                   </div>
                 </Link>
-				) :""
-              ))}
+              ) : (
+                ""
+              )
+            )}
           </div>
-          </div>
+          <br />
+          <br />
+          <br />
+          <br />
+          <br />
 
-		<br></br>
-		<br></br>
-		<br></br>
-		<br></br>
-		<br></br>
-		<br></br>
+          <h6 style={{ color: "#ff9800", marginTop: "1%" }} className="">
+            Non - Technical
+          </h6>
+          <div className="card-set">
+            {Object.keys(eventdetail[dept])
+              .sort(this.sort)
+              .map(x =>
+                eventdetail[dept][x].isTechnical === false ? (
+                  <Link to={`/events/${dept}/${x}`} className="card-set-child">
+                    <div align="center">
+                      <div className="customdiv">
+                        <img
+                          src={require("../images/events/"+dept+"_"+
+                            eventlist[dept][x] +
+                            ".svg")}
+                          // src={require("../images/Capsule.svg")}
+                          alt={x}
+                        />
+                      </div>
+                      <p className="dept-name" style={{ textAlign: "center" }}>
+                        {eventlist[dept][x]}
+                      </p>
+                    </div>
+                  </Link>
+                ) : (
+                  ""
+                )
+              )}
+          </div>
+        </div>
+
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
       </div>
     );
   }

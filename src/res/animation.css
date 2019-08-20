@@ -449,22 +449,22 @@
   } */
   .lball {
     /* animation: inleft 1s; */
-    transform: scale(1.1);
+    transform: scale(2);
     position: absolute;
-    top: 0%;
+    top: -10%;
     left: -30%;
     width: 78%;
-    height: 100%;
+    height: 120%;
     overflow: hidden;
   }
   .rball {
     /* animation: inright 1s; */
-    transform: scale(1.1);
+    transform: scale(1.2);
     position: absolute;
-    top: 0%;
+    top: -10%;
     left: 54%;
     width: 78%;
-    height: 100%;
+    height: 120%;
     overflow: hidden;
   }
   .bulb {
@@ -477,19 +477,62 @@
   }
   
   @media only screen and (orientation: portrait) {
-    .rball {
+    /* .rball {
       transform: scale(2);
     }
     .lball {
       transform: scale(2);
-    }
+    } */
     .scale {
       transform: scale(0.5);
+    }
+
+    .lball {
+      /* animation: inleft 1s; */
+      /* transform: scale(2);
+      /* position: absolute; */
+      /* top: -10%;
+      left: -30%;
+      width: 78%;
+      width: 300px;
+      height: 120%;
+      overflow: hidden; */
+    }
+    .rball {
+      /* animation: inright 1s; */
+      /* transform: scale(1.2); */
+      /* position: absolute; */
+      /* top: -10%;
+      left: 54%; */
+      /* width: 78%; */
+      /* height: 120%; */
+      /* overflow: hidden; */
     }
   }
   
   /* Smartphones (landscape) ----------- */
   @media only screen and (max-width: 360px) {
+    .lball {
+      /* animation: inleft 1s; */
+       transform: scale(2);
+      /* position: absolute; */
+      /* top: -10%;
+      left: -30%;
+      width: 78%;
+      width: 300px;
+      height: 120%;
+      overflow: hidden; */
+    }
+    .rball {
+      /* animation: inright 1s; */
+      transform: scale(2);
+      /* position: absolute; */
+      /* top: -10%;
+      left: 54%; */
+      /* width: 78%; */
+      /* height: 120%; */
+      /* overflow: hidden; */
+    }
   }
   /* Smartphones (portrait) ----------- */
   @media only screen and (max-width: 320px) {

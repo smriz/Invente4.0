@@ -8,7 +8,7 @@ class Animation extends React.Component {
         if (this.props.scrollup === true) {
             document
                 .querySelector('#lball')
-                .style = "animation:inleft 1s;position:absolute;top:-10vh;left:54vw;width:78vw;height:72vw" +
+                .style = "animation:inleft 1s;position:absolute;top:-10vh;left:54vw;width:78vw;height:vw" +
                     ";overflow:hidden;"
             document
                 .querySelector("#rball")

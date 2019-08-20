@@ -216,7 +216,7 @@ a {
 }
 
 .top {
-  padding-top: 5%;
+  padding-top: 7%;
 }
 #staff-coordinator,
 #student-coordinator {
@@ -310,11 +310,24 @@ a {
   padding: 5%;
   border: 2px solid #ff9800;
 }
+.register-area .align-center {
+  padding:0 30%;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
 
 @media screen and (orientation: portrait) {
   .register-area .register-instructions {
     padding: 10%;
     padding: 10px 0px;
+
+  }
+  .register-area .align-center {
+  padding:0 5%;
+  margin-left: auto;
+  margin-right: auto;
   }
 }
 .register-area .main-register #formdata {
@@ -876,6 +889,8 @@ a {
 }
 
 .headline {
+  height: 3px;
+  width: 100%;
   animation: createBox 0.7s;
 }
 @keyframes createBox {

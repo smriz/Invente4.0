@@ -39,7 +39,6 @@
     "code-relay": {
       "last_updated": "14/8/2019 12:20:05",
       "isTechnical": true,
-      "isFlagship": true,
       "eventtype": "Technical",
       "dept": "cse",
       "slug": "code-relay",
@@ -82,7 +81,6 @@
       "last_updated": "14/8/2019",
       "isTechnical": true,
       "eventtype": "Technical",
-      "isFlagship": true,
       "dept": "cse",
       "slug": "code-inverse",
       "venue": "CSE Department",
@@ -90,7 +88,7 @@
       "displayName": "Code Inverse",
       "description": "This is going to be a team event, consisting of two rounds.",
       "tagline": "Shift your coding gear to reverse!",
-      "eventname": "code-inverse",
+      "eventname": "Code Inverse",
       "notes": "",
       "prize": "SumOfWinnings(1,2,3) = (6.5K)",
       "intesnship": null,
@@ -117,7 +115,6 @@
       "last_updated": "14/8/2019",
       "isTechnical": true,
       "eventtype": "Technical",
-      "isFlagship": true,
       "dept": "cse",
       "slug": "u-n-i",
       "venue": "CSE Department",
@@ -159,7 +156,6 @@
       "last_updated": "14/8/2019",
       "isTechnical": false,
       "eventtype": "Non-Technical",
-      "isFlagship": true,
       "dept": "cse",
       "slug": "quiz",
       "venue": "CSE Department",
@@ -190,19 +186,18 @@
         ["Top 6/8 teams in finals"]
       ]
     },
-    "yesqeueluck": {
+    "yesqueueluck": {
       "last_updated": "14/8/2019 12:55:39",
       "isTechnical": true,
       "eventtype": "Technical",
-      "isFlagship": true,
       "dept": "cse",
-      "slug": "yesqeueluck",
+      "slug": "yesqueueluck",
       "venue": "CSE Department",
       "timing": "Sept 7, 2019\n10 AM",
-      "displayName": "YeSqeueLuck",
+      "displayName": "YesQueueLuck",
       "description": "If you're one of those people that can handle data, this is for you. Normalise those tables and add them constraints!\nIts time to sequelize.",
       "tagline": "Query your luck!",
-      "eventname": "YeSqeueLuck",
+      "eventname": "YesQueueLuck",
       "notes": "",
       "prize": "SumOfWinnings(1,2,3) = 6.5K",
       "intesnship": null,
@@ -238,15 +233,14 @@
       "last_updated": "9/10/2018 21:19:20",
       "isTechnical": true,
       "eventtype": "Technical",
-      "isFlagship": true,
       "dept": "cse",
       "slug": "paper-presentation",
       "venue": "CSE Seminar Hall",
       "timing": "Sept 6, 2019\n10 AM",
-      "displayName": "Paper presentation",
+      "displayName": "Paper Presentation",
       "description": "Be still when you have nothing to say;when genuine passion moves you,say what you have got to say and say it HOT \n- D.H.Lawrence\n Take an advantage of presenting your paper/research on site to a panel of fellow researchers and academicians in the field of education and research.",
       "tagline": "A paper has the title , A presenter has the people.",
-      "eventname": "Paper presentation",
+      "eventname": "Paper Presentation",
       "notes": "If you have other ideas that fit into the prominent domains of COMPUTER SCIENCE,don’t hesitate to send in your entries as well.",
       "prize": "SumOfWinnings(1,2,3) = 7.5K",
       "intesnship": null,
@@ -297,7 +291,6 @@
       "last_updated": "9/10/2018 21:19:20",
       "isTechnical": true,
       "eventtype": "Technical",
-      "isFlagship": true,
       "dept": "cse",
       "slug": "techathlon",
       "venue": "CSE Department",
@@ -334,9 +327,8 @@
       "last_updated": "9/10/2018 21:19:20",
       "isTechnical": true,
       "eventtype": "Technical",
-      "isFlagship": true,
       "dept": "cse",
-      "slug": "hacker's asylum",
+      "slug": "hackers-asylum",
       "venue": "CSE Department",
       "timing": "Sept 7, 2019\n10 AM",
       "displayName": "Hacker's Asylum",
@@ -371,7 +363,6 @@
       "last_updated": "9/10/2018 21:19:20",
       "isTechnical": false,
       "eventtype": "Non-Technical",
-      "isFlagship": true,
       "dept": "cse",
       "slug": "meme-time",
       "venue": "CSE Department",
@@ -414,7 +405,7 @@
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "it",
-      "slug": "paperpresentation",
+      "slug": "paper-presentation",
       "venue": "It dept",
       "timing": "September 6th,10 AM",
       "displayName": "Paper Presentation",
@@ -449,13 +440,13 @@
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "it",
-      "slug": "androiderandroider",
+      "slug": "androider",
       "venue": "Lab and classroom(IT dept and CDC)",
       "timing": "September 6th,",
-      "displayName": "ANDROIDER",
+      "displayName": "Androider",
       "description": "",
       "tagline": "Take our test and try out your chances of getting placed in your dream company",
-      "eventname": "ANDROIDER",
+      "eventname": "Androider",
       "notes": "",
       "prize": "First prize-2000,second prize-1500,third prize-1000",
       "intesnship": "TournamentOS(Top 3)",
@@ -499,10 +490,10 @@
       "slug": "cryptit",
       "venue": "IT Department Lab",
       "timing": "September 6th (10 am)",
-      "displayName": "CRYPTIT",
+      "displayName": "Cryptit",
       "description": "",
       "tagline": null,
-      "eventname": "CRYPTIT",
+      "eventname": "Cryptit",
       "notes": "",
       "prize": null,
       "intesnship": null,
@@ -535,18 +526,18 @@
         ]
       ]
     },
-    "web development": {
+    "web-development": {
       "isTechnical": true,
       "eventtype": "Technical",
-
+      "isFlagship":true,
       "dept": "it",
-      "slug": "web development",
+      "slug": "web-development",
       "venue": "Alan Turing Lab",
       "timing": "11:00 AM",
-      "displayName": "WEB DEVELOPMENT",
+      "displayName": "Web Development",
       "description": "",
       "tagline": null,
-      "eventname": "WEB DEVELOPMENT",
+      "eventname": "Web Development",
       "notes": "",
       "prize": "10000",
       "intesnship": null,
@@ -581,11 +572,11 @@
         ]
       ]
     },
-    "Code Obfuscation": {
+    "code-obfuscation": {
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "it",
-      "slug": "Code Obfuscation",
+      "slug": "code-obfuscation",
       "venue": "4G communication lab",
       "timing": "September 6th",
       "displayName": "Code Obfuscation",
@@ -623,17 +614,17 @@
         ]
       ]
     },
-    "data analytics": {
+    "data-analytics": {
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "it",
       "slug": "data analytics",
       "venue": "September 6th",
       "timing": "10:00 am",
-      "displayName": "data analytics",
+      "displayName": "Data Analytics",
       "description": "",
       "tagline": null,
-      "eventname": "data analytics",
+      "eventname": "Data Analytics",
       "notes": "",
       "prize": null,
       "intesnship": "SPI Cinemas",
@@ -666,17 +657,17 @@
         ]
       ]
     },
-    "mock recruitment": {
+    "mock-recruitment": {
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "it",
       "slug": "",
       "venue": "IT seminar hall",
       "timing": "September 6th",
-      "displayName": "mock recruitment",
+      "displayName": "Mock Recruitment",
       "description": "",
       "tagline": "Knowledge is power",
-      "eventname": "mock recruitment",
+      "eventname": "Mock Recruitment",
       "notes": "",
       "prize": null,
       "intesnship": null,
@@ -707,17 +698,17 @@
         ["Round 3:", "Technical interview for the short listed candidates."]
       ]
     },
-    "data structures and algorithms": {
+    "data-structures": {
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "it",
-      "slug": "data structures and algorithms",
+      "slug": "data-structures",
       "venue": "IT and CSE department",
       "timing": "September 6th",
-      "displayName": "data structures and algorithms",
+      "displayName": "Data Structures and Algorithms",
       "description": "A technical event testing the data structures and algorithms knowledge of participants.",
       "tagline": null,
-      "eventname": "data structures and algorithms",
+      "eventname": "Data Structures and Algorithms",
       "notes": "",
       "prize": null,
       "intesnship": null,
@@ -751,6 +742,35 @@
           "● Use of electronic gadgets such as mobile phones, tablets, pendrives,etc…are not allowed."
         ]
       ]
+    },
+    "data-analytics": {
+      "last_updated": "8/20/2019 10:00:00",
+      "isTechnical": false,
+      "eventtype": "Workshop",
+      "dept": "it",
+      "slug": "data-analytics",
+      "venue": "IT Block",
+      "timing": null,
+      "displayName": "Data Analytics",
+      "description": "It's almost 2020! Yes, we still aren't in the stone age to travel in petrol and diesel engine driven vehicles...the time has come to step up to build a sustainable and renewable future for the forthcoming generations. And the next big thing which is happening in and around us is the “Electric Revolution in the Automobile sector”. Yes.... An electric revolution in the automobile sector. Interested? Want to know about it? Here is the best platform to enlighten your minds. Presenting you ​Toyota Kirloskar Motors – the automobile giants who are fast accelerating in the market of Hybrid Vehicles and E- Vehicles. Toyota in association with ​Invente 4.0 is staging a talk on the technological advancements and the technical and industrial aspects required for the field of E-Vehicles and Hybrid Vehicles​ here in SSN College of Engineering. Grab your seats, as this is one opportunity where you can directly come across the Giants in person. Get ready to explore the infinity, be there at the ​Justice Pratap Singh Auditorium​ in ​SSN College of Engineering​. On spot registrations are also available.",
+      "tagline": "",
+      "eventname": "Data Analytics",
+      "notes": "",
+      "prize": null,
+      "intesnship": null,
+      "registrationFee": null,
+      "eventHeads": [
+        {
+          "name": "ARSHAD MOHAMED M.A",
+          "contact": "9944479416"
+        },
+        {
+          "name": "DINESH RAM KUMAR M",
+          "contact": "9629470915"
+        }
+      ],
+      "attachments": [],
+      "rules": []
     }
   },
   "civil": {
@@ -759,13 +779,13 @@
       "isTechnical": false,
       "eventtype": "Non-Technical",
       "dept": "civil",
-      "slug": "gullu-cricket",
+      "slug": "gully-cricket",
       "venue": "Gents hostel-2 (Opp)",
       "timing": "14th september 2019",
-      "displayName": "THE GULLY CRICKET",
+      "displayName": "The Gully Cricket",
       "description": "The cricket fever is just getting bigger and better this season. This time, it's not the Lord's and Ashes that alone matter, as Invente now gives you the chance for your squad to get some cricketing fun, and of course take home some cash prizes too. So be there, to play and relive our childhood 'BOX CRICKET'. (Don't worry, no: of boundaries don't decide the winner here)",
       "tagline": null,
-      "eventname": "THE GULLY CRICKET",
+      "eventname": "The Gully Cricket",
       "notes": "",
       "prize": "Entry 50 winning 70",
       "intesnship": null,
@@ -804,7 +824,7 @@
       "displayName": "Quote r Quit",
       "description": "Estimation for a project is no child's play, but we have the most simplified version for all you beginners out there! Attention to all you bidders, Department of Civil Engineering provides you with a live arena to learn, realize and reflect some important lessons in construction estimation. So be seated in the most important chair of a construction firm, and make the best use of your street-smartness and analytics",
       "tagline": null,
-      "eventname": "Quote or Quit",
+      "eventname": "Quote r Quit",
       "notes": "Participants can form a group of maximum 2 people. Individual participation is also encouraged",
       "prize": null,
       "intesnship": null,
@@ -840,10 +860,10 @@
       "slug": "arCADe",
       "venue": "Civil Engineering Department",
       "timing": "13th September 2019,10 AM",
-      "displayName": "arCADe",
+      "displayName": "Arcade",
       "description": "Be it an ordinary apartment building or an amazing structure, Design decides everything. So, we present you the arCADe, an opportunity to groom your ingenious design skills.",
       "tagline": "Every existing structure was once a design.",
-      "eventname": "arCADe ",
+      "eventname": "Arcade ",
       "notes": "",
       "prize": null,
       "intesnship": "No",
@@ -933,10 +953,10 @@
       "slug": "clash-of-claims",
       "venue": "Civil engineering department",
       "timing": "13th September 2019,10 AM",
-      "displayName": "CLASH OF CLAIMS",
+      "displayName": "Clash of Claims",
       "description": "Department of Civil Engineering presents its flagship 'Engineering debate' event, tailor-made for those who wish to present their perspectives and talk about matters that matter. This event tests your logical thinking ability, technical knowledge, factual accuracy and spontaneity to answer and counter your opponent's question. It is open for all departments.",
       "tagline": "DE-SHUTTERING YOUR BRAIN!!!",
-      "eventname": "CLASH OF CLAIMS",
+      "eventname": "Clash of Claims",
       "notes": "",
       "prize": null,
       "intesnship": null,
@@ -983,10 +1003,10 @@
       "slug": "word-rush",
       "venue": "Civil Department",
       "timing": "14th September 2019, 10 AM",
-      "displayName": "WORD RUSH",
+      "displayName": "Word Rush",
       "description": "If you are interested in word games, then this event is exclusively for you.\n This event is going to test your love for word games along with your exposure to technical terms of various engineering disciplines.",
       "tagline": "Hey there, It’s time for your brain to train!",
-      "eventname": "WORD RUSH",
+      "eventname": "Word Rush",
       "notes": "",
       "prize": null,
       "intesnship": null,
@@ -1093,10 +1113,10 @@
       "slug": "qureka",
       "venue": "Civil Department",
       "timing": "September 13th,2019, 10 AM",
-      "displayName": "Qureka!(Quiz) ",
+      "displayName": "Qureka!(Quiz)",
       "description": "The Q! in Qureka is about Quickness, Quirks, and of course, the Quest for Quality Quizzing!\nDepartment of Civil Engineering presents the most-sought after tech quizzing event of Invente over the years. We welcome you to be part of some mind-boggling and of course, fun brain-games. We have all the questions for your inquisition, but do you have the answers?",
       "tagline": null,
-      "eventname": "Qureka!(Quiz) ",
+      "eventname": "Qureka",
       "notes": "",
       "prize": null,
       "intesnship": null,
@@ -1133,10 +1153,10 @@
       "slug": "soltiare",
       "venue": "Civil Department",
       "timing": "14th September 2019,10:00 AM",
-      "displayName": "SOLVE-IT-aire",
+      "displayName": "Solve-It-Aire",
       "description": " Hey there, are you concerned about the many crises the world faces and do you have a solution for those crises? Here is “SOLVE-IT-aire”! - An event being launched at the INVENTE 4.0. This event is a platform for all the genius to showcase their quick-wit and problem solving skills. SOLVE-IT-aire promises to serve as a testimonial for your talent!",
       "tagline": "A Challenge to Every Designer",
-      "eventname": "SOLVE-IT-aire",
+      "eventname": "Solve-It-Aire",
       "notes": "",
       "prize": null,
       "intesnship": null,
@@ -1307,10 +1327,10 @@
       "slug": "staad-pro",
       "venue": "EEE Seminar Hall",
       "timing": "10.00 am to 3.30 pm",
-      "displayName": "STAAD.Pro workshop",
+      "displayName": "Staad.Pro workshop",
       "description": "Are you a design enthusiast? Do you want to learn to work with the most widely used software in the construction industry for structural design and analysis? Here is a chance for you all to learn STAAD.Pro from the most renowned training institute, “CADD centre , PORUR”.",
       "tagline": null,
-      "eventname": "STAAD.Pro workshop",
+      "eventname": "Staad.Pro workshop",
       "notes": "Certificate will be provided",
       "prize": null,
       "intesnship": null,
@@ -1334,10 +1354,10 @@
       "slug": "pin_it_up",
       "venue": "Technical analysis laboratory \nSecond floor, chemical engineering department ",
       "timing": "10 AM",
-      "displayName": "PIN IT UP",
+      "displayName": "Pin it Up",
       "description": "Hit the metaphorical bull's eye with our poster presentation event Pin It Up because if there were to only be two truths in this world, they are these:\nCreativity is imaginative intelligence having fun and,\nDesign isn't some button on the Photoshop software but the turning of the gears in your brain to make the bells in them ding.",
       "tagline": null,
-      "eventname": "PIN IT UP",
+      "eventname": "Pin it Up",
       "notes": "No materials or prior preparation required for the event",
       "prize": "Rs. 4500",
       "intesnship": null,
@@ -1367,10 +1387,10 @@
       "slug": "breaking_bad",
       "venue": "Dept. of Chemical Engineering\n",
       "timing": "9:00 AM\n",
-      "displayName": "BREAKING BAD",
+      "displayName": "Breaking Bad",
       "description": "In a perfectly brewed mix of joy and chemical engineering, the event Breaking Bad will be conducted in two rounds.",
       "tagline": "Bored of preparing slides? This event is for you. Transform your research work into a colourful and illustrative poster adhering to the guidelines. Give a brief explanation about the content to our judges and stand a chance to win exciting prizes!.",
-      "eventname": "BREAKING BAD",
+      "eventname": "Breaking Bad",
       "notes": "",
       "prize": null,
       "intesnship": null,
@@ -1451,10 +1471,10 @@
       "slug": "autochem",
       "venue": "Chemical engineering department",
       "timing": "11:00 AM",
-      "displayName": "AutoChem",
+      "displayName": "Autochem",
       "description": "Now's your chance to find out! In our flagship event AUTOCHEM, participants will be made to build their dream car using just their imagination, a bottle, a couple of caps and a chemical reaction that is, as the academics say, 'explosive'. Since we recognise that the best scientific discoveries weren't attained in a single try, we will give our participants 3 chances to get the formula just right to run their prospective spaceship. Time allotted is 30 minutes.",
       "tagline": "Ever wondered what happens when chemical reactions meet Formula One?",
-      "eventname": "AutoChem",
+      "eventname": "Autochem",
       "notes": "",
       "prize": null,
       "intesnship": null,
@@ -1491,10 +1511,10 @@
       "slug": "stranger_things",
       "venue": "chemical dept",
       "timing": "6th Sep  12.30pm",
-      "displayName": "STRANGER THINGS",
+      "displayName": "Stranger Things",
       "description": "It is a well-known cliché that the odd one stands out - or does it? This new event demands its participants to use their (pseudo)psychokinesis abilities and channelize their inner Eleven to solve the mystery of the stranger thing amongst a set of seemingly normal pictures, all of which revolve around Chemical Engineering (don't worry, there's a bounty on its head, and a huge one at that!). So, Slurpee up and maybe emerge from a mysterious laboratory to win some exciting prizes!",
       "tagline": null,
-      "eventname": "STRANGER THINGS",
+      "eventname": "Stranger Things",
       "notes": "",
       "prize": null,
       "intesnship": null,
@@ -1553,10 +1573,10 @@
       "slug": "shadow_of_truth",
       "venue": "Chemical Engineering department",
       "timing": "9.00 to 2.30",
-      "displayName": "SHADOW OF TRUTH",
+      "displayName": "Shadow of Truth",
       "description": "Are you someone who gets intrigued by mysteries? Can't get enough of Netflix's Mystery section, perhaps? Shadow of truth is the right place for you!",
       "tagline": "Explore your Craziness",
-      "eventname": "SHADOW OF TRUTH",
+      "eventname": "Shadow of Truth",
       "notes": "",
       "prize": null,
       "intesnship": null,
@@ -1589,10 +1609,10 @@
       "slug": "house_of_cards",
       "venue": "Chemical Department",
       "timing": "6th september 2019",
-      "displayName": "HOUSE OF CARDS",
+      "displayName": "House of Cards",
       "description": "A picture speaks a thousand words, your teammates drawing them speaks thousand words, laughter, fun and exciting cash prizes. In the event House of Cards, our participants (teams of two) are required to attempt to bring to the light analytical Mr. Kevin Spacey to decipher some technical Chemical Engineering themed pictures (don't worry, not the sulphuric acid plant), and get a chance to make fun of your friend's drawing skills!",
       "tagline": "Every Little Helps",
-      "eventname": "HOUSE OF CARDS",
+      "eventname": "House of Cards",
       "notes": "",
       "prize": null,
       "intesnship": null,
@@ -1618,10 +1638,10 @@
       "slug": "tiki_taka",
       "venue": "Chemical Engineering Department",
       "timing": "6th september 2019",
-      "displayName": "TIKI TAKA",
+      "displayName": "Tiki Taka",
       "description": "Who said innovation and ideas must emerge only from the work you do? All it takes for you to be creative is a football. Tiki Taka at Invente allows you to make magic happen, through the beautiful game.",
       "tagline": null,
-      "eventname": "TIKI TAKA",
+      "eventname": "Tiki Taka",
       "notes": "This event is not a typical chemical engineering event and is open to everyone as it requires very little chemical engineering knowledge.It is all about a peep into the corporate world",
       "prize": "4500",
       "intesnship": null,
@@ -1651,10 +1671,10 @@
       "slug": "mindhunter",
       "venue": "Chemical Engineering Department",
       "timing": "6th september 2019",
-      "displayName": "MIND HUNTER",
+      "displayName": "Mind Hunter",
       "description": "In the hustle bustle of today’s mundane, boring world it is easy to forget to step into your inner child and allow them to run free. The event Mindhunter attempts to do just that for you using a series of games that will simulate happiness in you and make you glow. Come,participate, laugh and feel vicariously the sense of lush, green grass on your barefoot along with the sounds of birds chirping and the sunlight streaming your face.",
       "tagline": null,
-      "eventname": "MIND HUNTER",
+      "eventname": "Mind Hunter",
       "notes": "This event is not a typical chemical engineering event and is open to everyone as it requires very little chemical engineering knowledge.It is all about a peep into the corporate world",
       "prize": "4500",
       "intesnship": null,
@@ -1930,6 +1950,7 @@
     "outdoor-gp": {
       "last_updated": "9/14/2018 15:23:38",
       "isTechnical": true,
+      "isFlagship": true,
       "eventtype": "Technical",
       "dept": "mech",
       "slug": "outdoor-gp",
@@ -2120,255 +2141,237 @@
       ]
     }
   },
-  "eee": {
+ "eee": {
     "line-follower": {
-      "last_updated": "9/16/2018 17:58:49",
+      "last_updated": "8/20/2019 10:00:00",
       "isTechnical": true,
       "eventtype": "Technical",
+      "isFlagship":true,
       "dept": "eee",
       "slug": "line-follower",
-      "venue": "Measurements and instrumentation lab- EEE Block",
-      "timing": "8 30 AM - 4 PM",
+      "venue": "EEE Block",
+      "timing": null,
       "displayName": "Line Follower",
-      "description": "Wanna be the new Dr. Vaseegaran in town??! Come with your Chitti, get your neural schema right and show off your skills in front of Dr. Bohra and Sana.. Invente presents to you Line Follower 3.0 with lot of twists and turns..!!",
-      "tagline": "Is your team the fastest??!",
+      "description": "The clock is ticking! Beat the clock to reach the centre. The fastest bot with the smartest algorithm can only follow the time to reach the epicentre and win against the competing bots. Be ready for a race against time at this Invente and win prizes.",
+      "tagline": null,
       "eventname": "Line Follower",
-      "notes": "",
-      "prize": "6000",
-      "intesnship": null,
-      "registrationFee": null,
-      "eventHeads": [
-        {
-          "name": "Vignesh V",
-          "email": "vickyps1997@gmail.com",
-          "contact": "9962881127"
-        },
-        {
-          "name": "Krishna kumar RM",
-          "email": "kraiby30@gmail.com",
-          "contact": "7358595098"
-        }
-      ],
-      "attachments": [],
-      "rules": [
-        [
-          "BEAT THE CLOCK",
-          "• A team can consist maximum of 4 members. Students from different ",
-          "educational institutes can form a team. ",
-          "• The line to be traced (black line) is of 30mm in width.",
-          "•  The potential difference between any two points in the bot must not exceed ",
-          "12V.",
-          " • The bot must be powered only by on-board batteries.",
-          " • The maximum dimensions of the bot should be 25cm x 25cm x 20cm. ",
-          " • Ready-made bots are strictly prohibited. ",
-          "• All components should be brought by the participants. ",
-          "• Judge's decision will be final and any further arguments with the judges will ",
-          "be penalized.",
-          "• Main objective is to traverse the track as quickly as possible.",
-          "• Best of 2 tries will be considered.",
-          "• Participants can adjust their sensors and gains after the first run.",
-          "• Track will have straight lines, curves, markers and turns (90 degree, acute and ",
-          "obtuse angles).",
-          "• Top teams qualify."
-        ],
-        [
-          "BEAT THE TRACK",
-          "• Main objective is to travel the farthest. In case of a tie, winners will be ",
-          "decided based on the time taken to complete.",
-          "• Track will have straight lines, curves, markers, loops, gaps, turns (90 degree, ",
-          "acute and obtuse angles) and obstacles.",
-          "• Judges decision is final."
-        ]
-      ]
-    },
-    "do-you-know-arduino": {
-      "last_updated": "9/16/2018 12:42:52",
-      "isTechnical": true,
-      "eventtype": "Technical",
-      "dept": "eee",
-      "slug": "do-you-know-arduino",
-      "venue": "Electrical workshop lab, Ground floor, EEE department",
-      "timing": "10 AM to 3 PM",
-      "displayName": "arduino challenge",
-      "description": "This is a call out to all dabblers, amateurs and experts at Arduino. Compete with a smorgasbord of students and put your skills to the test. See you on the 22nd of September, and come prepared for a gruelling challenge and we hope to see you victorious and walking away with exciting prizes!!!!",
-      "tagline": "Do you even ardui\"know\"?",
-      "eventname": "arduino challenge",
-      "notes": "",
-      "prize": " total- 5000",
-      "intesnship": null,
-      "registrationFee": null,
-      "eventHeads": [
-        {
-          "name": "Kanna.S.V",
-          "email": "kanna15058@eee.ssn.edu.in",
-          "contact": "9003206723"
-        },
-        {
-          "name": "Mrudula Vempati",
-          "email": "mrudula15071@eee.ssn.edu.in",
-          "contact": "7358324087"
-        }
-      ],
-      "attachments": [],
-      "rules": [
-        [
-          "This will be a written round consisting of 15 questions. The test will include technical questions, basic electronics, basic arduino coding and general aptitude.",
-          "Test duration will be 30 minutes.",
-          "The top 8 teams will advance to the next round.",
-          "Each teams can comprise of a minimum of 1 person and a maximum of 4 people."
-        ],
-        [
-          "This will be the final round.",
-          "The teams are allowed to bring their arduinos if they want. Nevertheless, arduino boards and components will be provided by the hosts.",
-          "The teams will have to solve problems given by us, on their arduinos and the first three teams to solve them will be announced as winners.",
-          "As soon as two teams complete the challenge, the even will be declared as officially closed.",
-          "The time duration will be 90 minutes.",
-          "In the event that no team could solve the challenges within the stipulated time period, the top two teams with the closest answer will be declared winners.",
-          "The first two teams will be awarded cash prizes.",
-          "In case of any discrepancies, the decision of the coordinators will be final."
-        ]
-      ]
-    },
-    "bridge-balancio": {
-      "last_updated": "9/9/2018 18:13:08",
-      "isTechnical": true,
-      "eventtype": "Technical",
-      "dept": "eee",
-      "slug": "bridge-balancio",
-      "venue": "Power electronics lab,EEE Department ",
-      "timing": "22nd September 2018",
-      "displayName": "Bridge Balancio",
-      "description": "Wanna be a paradigm and do you wish to untether your skill of balancing multiple tasks in a single day? Then this event is aimed for you. Come let's converge on sept 22 and enliven our day by balancing the bridge out!!",
-      "tagline": "Balance the unbalanced and bridge your ideas for the goal...!",
-      "eventname": "Bridge Balancio",
-      "notes": "",
-      "prize": "Rs. 6500",
-      "intesnship": "No",
-      "registrationFee": null,
-      "eventHeads": [
-        {
-          "name": "Mrudhulaa PV",
-          "email": "mrudhulaa15070@eee.ssn.edu.in",
-          "contact": "9791043960"
-        },
-        {
-          "name": "Anuvarshini SR",
-          "email": "anuvarshinipriya@gmail.com",
-          "contact": "8220840534"
-        }
-      ],
-      "attachments": [],
-      "rules": [
-        [
-          "1.A team of maximum 3 members are allowed to participate.",
-          "2.First round is prelims which contains 20 MCQ type questions. ",
-          "3.Maximum of half an hour is given for each team in the preliminary round.",
-          "4.The top 5 teams are called for the finals."
-        ],
-        [
-          "1. For the final round, the participants are provided with a partial diagram of the bridge, which each team has to identify and fill in the remaining parts of the bridge and balance it theoretically.",
-          "2. Each team has to balance the bridge using the components given to them."
-        ]
-      ]
-    },
-    "sherlock-holmes": {
-      "last_updated": "9/16/2018 22:29:21",
-      "isTechnical": false,
-      "eventtype": "Non-Technical",
-      "dept": "eee",
-      "slug": "sherlock-holmes",
-      "venue": "EEE department",
-      "timing": "2 days - 9.30 am",
-      "displayName": "Sherlock Holmes",
-      "description": "Tired of technical stuffs? Give a break!!!! Here is a chance for u people to be a part of this detective game. Come along to test your logical and analytical skills and open your mind to investigate and solve as Sherlock Holmes.",
-      "tagline": "\"Brainy is the new sexy\"",
-      "eventname": "Sherlock Holmes",
-      "notes": "",
-      "prize": "2000",
-      "intesnship": null,
-      "registrationFee": null,
-      "eventHeads": [
-        {
-          "name": "Santhosh D",
-          "email": "santhoshdsan007@gmail.com",
-          "contact": "9488788589"
-        },
-        {
-          "name": "Ahamed Aashifa A",
-          "email": "ahamedaashifa@gmail.com",
-          "contact": "7667450455"
-        }
-      ],
-      "attachments": [],
-      "rules": [
-        [
-          "Fandom hub:",
-          "It consists of 15 comic, flim and series questions which are to be solved in 20 minutes."
-        ],
-        [
-          "Connexity:",
-          "Students selected from first round will be given a picture  and connection puzzle to solve within some time."
-        ],
-        [
-          "Crime Patrol:",
-          "Selected students will move on to the third round ,where you will be given a crime scene to solve."
-        ]
-      ]
-    },
-    "profitech": {
-      "last_updated": "9/16/2018 10:19:11",
-      "isTechnical": true,
-      "eventtype": "Technical",
-      "dept": "eee",
-      "slug": "profitech",
-      "venue": "3rd Year EEE - A(Ground Floor)  EEE Department",
-      "timing": "9 A.M. - 3 P.M. ",
-      "displayName": "Profitech",
-      "description": "✍\tAre you fond of numbers rather than long-running texts?\n✍\tDo terms like profits, returns and business strategy interest you?\n✍\tAre you amazed by CEOs like Elon Musk, Pichai and Nadella?\n✍\tCan you take the best decisions to puzzle out the business problems.? \n✍\tIf you have a Big \"YES\" to these questions then \"PROFITECH\" is THE event for YOU.\nCOME & UNRAVEL YOUR BUSINESS MINDS AND WIN EXCITING CASH PRIZES!!!",
-      "tagline": "\"Stay Hungry.Stay Foolish.\" - Steve Jobs",
-      "eventname": "Profitech",
       "notes": "",
       "prize": null,
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
         {
-          "name": "Daipayan Chakraborty",
-          "email": "daipayan.chakraborty95@gmail.com ",
-          "contact": "9444641707"
+          "name": "SRIRAM S",
+          "contact": "9941044430"
         },
         {
-          "name": "Bhindhiya Raja",
-          "email": "bindyaraja@gmail.com",
-          "contact": "9962212861"
+          "name": "KAASHYAP N",
+          "contact": "9962714753"
         }
       ],
       "attachments": [],
       "rules": [
         [
-          "•\tThe test consists of 20 MCQs based on statistics, profit & loss, probability & data interpretation.",
-          "•\tTest duration will be 25 minutes max for each group.",
-          "•\tThe top 6 teams with maximum marks will be selected for the second round."
+          "BEAT THE TRACK",
+          "A team can consist maximum of 4 members.",
+          "Students from different educational institutes can form a team.",
+          "The line to be traced (black line) is of 30mm in width.",
+          "The potential difference between any two points in the bot must not exceed 12V .",
+          "The bot must be powered by on-board batteries.",
+          "The maximum dimensions of the bot should be 25cm x 25cm x 20cm.",
+          "Ready-made bots are strictly prohibited. (Readymade chassis are allowed)",
+          " All components should be brought by the participants.",
+          "Judge's decision will be final and any further arguments with the judges will be penalized.",
+          "Main objective is to traverse the track as quickly as possible.",
+          "Best of 2 tries will be considered.",
+          "Participants can adjust their sensors and gains after the first run.",
+          "Track will have straight lines, curves, markers, loops, gaps and turns (90 degree, acute and obtuse).",
+          "Top 6 teams qualify for the next round."
         ],
         [
-          "•\tThis is a Pen-Paper round which has two parts.",
-          "•\tPart A consists of business-related case studies and participants are required to provide solutions for it.",
-          "•\tPart B consists of a stock market problem for which the participants are required to bring out their business intuitions and invest it in the virtual companies that will be created by us. ",
-          "•\tTotal of 60 minutes will be allotted for this round.",
-          "•\tThe teams which provide the best solutions for the business problems and obtain the maximum profit from the stock market simulation will be declared as the winner and runners-up."
+          "Beat the CLOCK",
+          "The track will be a clock.",
+          "Main objective is to travel in the clock from the start point to the stop point in the path which will be specified by the hour and minute hand of the clock.",
+          "Best of 2 tries will be considered.",
+          "Track will have straight lines, curves, markers, loops, gaps and turns (90 degree, acute and obtuse).",
+          "In case of a tie, winners will be decided based on the time taken to complete the maximum path.",
+          "JUDGES DECISION IS FINAL."
+        ]
+      ]
+    },
+    "bridge-balancio": {
+      "last_updated": "8/20/2019 10:00:00",
+      "isTechnical": true,
+      "eventtype": "Technical",
+      "dept": "eee",
+      "slug": "bridge-balancio",
+      "venue": "EEE Block",
+      "timing": null,
+      "displayName": "​Bridge Balancio",
+      "description": "Are you the kind of person who knows how to balance your life correctly? ​“Balance the bridge without weight”​. Then this event is aimed for you. Come and show your skills by balancing the bridges that will be given to you and win some exciting prizes!",
+      "tagline": "Balance the bridge without weight",
+      "eventname": "​Bridge Balancio",
+      "notes": "",
+      "prize": null,
+      "intesnship": null,
+      "registrationFee": null,
+      "eventHeads": [
+        {
+          "name": "SUBHIKSHA",
+          "contact": "9789019903"
+        },
+        {
+          "name": "ASWINKUMAR R",
+          "contact": "9597355275"
+        }
+      ],
+      "attachments": [],
+      "rules": [
+        [
+          "A Team of maximum 3 members are allowed to participate.",
+          "First round is either prelims or logic circuit designing according to the participant choice.",
+          "Maximum of half an hour is given to them in the first round.",
+          "The top 5 teams are called for the finals."
+        ],
+        [
+          "For the final round, the participants are provided with a partial diagram of the bridge, which each team has to identify and fill in the remaining parts of the bridge and balance it theoretically."
+        ]
+      ]
+    },
+    "d-sim": {
+      "last_updated": "8/20/2019 10:00:00",
+      "isTechnical": true,
+      "eventtype": "Technical",
+      "dept": "eee",
+      "slug": "d-sim",
+      "venue": "EEE Block",
+      "timing": null,
+      "displayName": "D - Sim",
+      "description": "Think binary!! Are you the kind of person who speaks binary? Do you like to play around with logic gates? Are you enlightened by the​ HIGH​s and​ LOW​s of life? Here we are with the best opportunity to fire up your neurons. Fasten your seat belts , cause the ride is gonna be an adventurous ONE.",
+      "tagline": null,
+      "eventname": "D - Sim",
+      "notes": "",
+      "prize": null,
+      "intesnship": null,
+      "registrationFee": null,
+      "eventHeads": [
+        {
+          "name": "JOSEPH",
+          "contact": "7708247645"
+        },
+        {
+          "name": "SUBASH K",
+          "contact": "8903761900"
+        }
+      ],
+      "attachments": [],
+      "rules": [
+        [
+          "Consists of 15 MCQ’s.",
+          "Modelling logic circuits for given output equations"
+        ],
+        [
+          "Reducing logical equations (using simulation) ​OR ​debugging logical circuit (with constraints in number of elements and wire connections).",
+          "Design logical simulation for the given problem statement.",
+          "Maximum participants in a team : 2"
+        ]
+      ]
+    },
+    "electronic-maze": {
+      "last_updated": "8/20/2019 10:00:00",
+      "isTechnical": true,
+      "eventtype": "Technical",
+      "dept": "eee",
+      "slug": "electronic-maze",
+      "venue": "EEE Block",
+      "timing": null,
+      "displayName": "Electronic Maze",
+      "description": "Ever watched Maze Runner movie or played maze game on a computer? Wanna experience something similar? Discover new paths and win exciting prizes!!!",
+      "tagline": "\"Brainy is the new sexy\"",
+      "eventname": "Electronic Maze",
+      "notes": "",
+      "prize": null,
+      "intesnship": null,
+      "registrationFee": null,
+      "eventHeads": [
+        {
+          "name": "HARIPRASATH V",
+          "contact": " 9944550922"
+        },
+        {
+          "name": "VEENA",
+          "contact": "9962686519"
+        }
+      ],
+      "attachments": [],
+      "rules": [
+        [
+          "Maximum 3 members in a team.",
+          "No electronic gadgets.",
+          "Multiple choice questions. Answer some basic questions on electronics and aptitude. Simple!!"
+        ],
+        [
+          "​Navigate and find your way",
+          "Also conquer obstacles in your path. Challenging enough?? On encountering an obstacle, either solve the question and move forward or take an alternate route."
+        ]
+      ]
+    },
+    "pandora-box": {
+      "last_updated": "8/20/2019 10:00:00",
+      "isTechnical": true,
+      "eventtype": "Technical",
+      "dept": "eee",
+      "slug": "pandora-box",
+      "venue": "EEE Block",
+      "timing": null,
+      "displayName": "Pandora Box",
+      "description": "Like how the Pandora Box contains the different sins, our box will have different sets of components. Unleash the components within to overcome the gruelling challenges and get rewarded for your innovative ideas.",
+      "tagline": "Arduino geeks, ASSEMBLE!!",
+      "eventname": "Pandora Box",
+      "notes": "",
+      "prize": null,
+      "intesnship": null,
+      "registrationFee": null,
+      "eventHeads": [
+        {
+          "name": "VIKRAM",
+          "contact": "8838744678"
+        },
+        {
+          "name": "Akshaya M.K",
+          "contact": "9444114443"
+        }
+      ],
+      "attachments": [],
+      "rules": [
+        [
+          "There will be two rounds.",
+          "A team of maximum 4 members can participate in the event.",
+          "The top 3 teams will be awarded cash prizes.",
+          "Judges decision is final.",
+          "The first round will be a preliminary round which consists of 15 MCQ type questions and 2 coding questions based on Electronics and Arduino.",
+          "A maximum time limit of 30 minutes will be provided for each team to complete the preliminary round.",
+          "The 5 top scoring teams in this round will advance to the final round."
+        ],
+        [
+          "The selected teams are allowed to bring their Arduinos and laptops if they so desire; nevertheless, they will be provided for the final round.",
+          "Each team will be given 100 points from which the teams have to choose the components in the box worth the given points.",
+          "The teams have to interface the selected components with Arduino and come up with an innovative solution with the least points used.",
+          "The maximum time given is 90 minutes.",
+          "If any 3 teams of 5 manage to come up with the solution within the stipulated time, then they will be declared winners."
         ]
       ]
     },
     "project-display": {
-      "last_updated": "9/15/2018 22:15:09",
+      "last_updated": "8/20/2019 10:00:00",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "eee",
       "slug": "project-display",
-      "venue": "Electrical Machines Lab, EEE Department.",
-      "timing": "21st SEPTEMBER AT 10 AM",
+      "venue": "EEE Block",
+      "timing": null,
       "displayName": "Project Display",
-      "description": " Are you someone who spells out scientific formulae like magic incantations?Are you the maven that cannot tolerate a question to remain as a question?If you are this eccentrically insatiable Creator and have a project that is a marvel and will make bystanders look at awe,then your event is“PROJECT DISPLAY”. It is all about bringing to spot light your novel ideas that will stand as testimony to your technical intelligence and being given a well-deserved pat on the back. !!",
+      "description": "Are you looking for a platform to showcase your invention? Do you have a project that is a wonder and will make heads turn in admiration? Then, PROJECT DISPLAY is the right platform for you. This is your opportunity to steal the spotlight and make some good money! Flaunt your project.",
       "tagline": "Get to light up!",
       "eventname": "Project Display",
       "notes": "",
@@ -2377,44 +2380,47 @@
       "registrationFee": null,
       "eventHeads": [
         {
-          "name": "Thavam L D",
-          "email": "thavam15118@eee.ssn.edu.in",
-          "contact": "8056764427"
+          "name": "PRATYUSHA RAVI",
+          "contact": "9962602807"
         },
         {
-          "name": "Ashwin R",
-          "email": "ashwinr1998@gmail.com",
-          "contact": "9176951512"
+          "name": "INDHRA POOJA",
+          "contact": "7339167091"
         }
       ],
       "attachments": [],
       "rules": [
         [
-          "•\tThe project  should pertain to Electrical and Electronics Engineering.",
-          "•\tProject title should be legitimate. It should not have a title copied from IEEE or any other existing   project.",
-          "•\tThe abstract should not contain more than 50 words and the project  should be a working model.",
-          "•\tMaximum number of  people  in a team is 4.",
-          "•\t15 teams are shortlisted based on the uniqueness of their abstract..",
-          "•\tRequired components should be brought by the respective teams and the components will not be provided at any cost.",
-          "•\tA mail with following details has to be sent:",
-          "a.\tProject  title and abstract.",
-          "b.\tProject  member’s details: Name, College name, Phone number, E-Mail address.",
-          "•\tMail ID:  projectdisplay2k18@gmail.com",
-          "•\tRegistration should  be done online.",
-          "•\tThe projects will be evaluated by 3 faculty members  of the EEE department. Team with the most creative and unique ideas will be named as the winners."
+          "A team can consist of a maximum of 4 members.",
+          "The project must be within the realm of Electrical and Electronics engineering.",
+          "Must be original.",
+          "Should have a legitimate title. Titles copied from existing projects will not be allowed.",
+          "Must be a ​working model​.",
+          "Required components are to be brought by the participants. No components will be provided.",
+          "Registration must be done online.",
+          "Late entries will not be entertained.",
+          "An abstract of around 150 words with an apt project title is to be sent as a pdf attachment to the mail.",
+          "The mail must consist of the following details of each team member: Name, Phone number, email ID, College name",
+          "Abstracts must be mailed to ​projectdisplay2k19@gmail.com",
+          "The abstracts will be scrutinised by a panel and the shortlisted teams will be notified."
+        ],
+        [
+          "The working model is to be displayed during Invente 2019.",
+          "Each project will be judged by a panel of experienced judges.",
+          "The decision of the judges will be final."
         ]
       ]
     },
     "paper-presentation": {
-      "last_updated": "8/29/2018 14:51:30",
+      "last_updated": "8/20/2019 10:00:00",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "eee",
       "slug": "paper-presentation",
-      "venue": "EEE Department PG classroom ",
-      "timing": "10:30 AM",
+      "venue": "EEE Block",
+      "timing": null,
       "displayName": "Paper Presentation",
-      "description": "Ideas are the beginning for Inventions. Unleash your research ideas. ",
+      "description": "What makes innovative thinking happen? We think it’s really a mindset. Let your mind write the paper, not your hand.",
       "tagline": null,
       "eventname": "Paper Presentation",
       "notes": "",
@@ -2423,172 +2429,178 @@
       "registrationFee": null,
       "eventHeads": [
         {
-          "name": "Akash R",
-          "email": "ramlatha20@gmail.com",
-          "contact": "9629321371"
+          "name": "MEENAKSHI P",
+          "contact": "7548800771"
         },
         {
-          "name": "Tarrani S",
-          "email": "tarrani1997@gmail.com",
-          "contact": "7373792905"
+          "name": "ROOPINI A",
+          "contact": "9566491537"
         }
       ],
       "attachments": [],
       "rules": [
         [
           "The participants should send their papers in IEEE format without exceeding 8 pages.",
-          "The paper should be sent to the mail id: inventeppeee@gmail.com. ",
-          "The review of papers will be done and only the selected papers have to be presented on the event day."
+          "The papers should be sent to the mail id: invente2019paperpresentation@gmail.com​.",
+          "The papers will be evaluated and the selected teams will be intimated through mail."
         ],
         [
-          "The selected candidates should bring their powerpoint presentation and the soft copy of their paper in the pendrive. The presentations are 7 minutes in length with an additional 4 minutes for discussions. The best paper will be chosen through weighing criterions like Novelty, Similarity level, Style of writing, Presentation and Discussion"
+          "The selected teams should bring the soft copy of the paper and powerpoint presentation in the pen drive for presenting on the day of the event.",
+          "The presentation time should not exceed the length of 10 minutes.",
+          "The paper will be judged based on the criteria like plagiarism, style of writing, presentation and discussion."
         ]
       ]
     },
     "ipl-bidding": {
-      "last_updated": "9/16/2018 20:42:11",
+      "last_updated": "8/20/2019 10:00:00",
       "isTechnical": false,
       "eventtype": "Non-Technical",
       "dept": "eee",
       "slug": "ipl-bidding",
-      "venue": "EEE department  ( 2nd year A Section )",
-      "timing": "Sept 5,22( 9.00 A.M)",
+      "venue": "EEE Block",
+      "timing": null,
       "displayName": "IPL Bidding",
-      "description": "An Auction comprising of the best cricket players in the world participating in the Indian Premier League. Every aspiring cricketer with a good mind for management should try their hand at auction.",
-      "tagline": "Just Bid It",
+      "description": "It’s time to recover from WC hangover and get into our IPL madness. Who wants to Don the ​Yellove​ Jersey? Is cricket your Jaan? Wanna lift your first cup without choking? Let’s don’t mess it up being unpredictable. This season let’s see who’s gonna win it with the perfect squad. The Lions vs The Paltans. Srini Mama vs Ambani. And to be honest, RCB vs Ashish Nehra. Make your favorite teams win by bidding the right players. Be there, participate and win exciting prizes this September.",
+      "tagline": null,
       "eventname": "IPL Bidding",
-      "notes": "Action based Auction..Be ready face it..",
-      "prize": "1000",
+      "notes": "",
+      "prize": null,
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
         {
-          "name": "C.Yazhisairaja",
-          "email": "yazhisairaja1997@gmail.com",
-          "contact": "8610249984"
+          "name": "PRAVEEN",
+          "contact": "9962751673"
         },
         {
-          "name": "K.R.Mahalakshmi",
-          "email": "mahalakshmi191293.mkr@gmail.com",
-          "contact": "9677145132"
+          "name": "ARUN K",
+          "contact": "9047305560"
         }
       ],
       "attachments": [],
       "rules": [
         [
-          "Initial round consists of quiz and puzzles about .Only cricket CRICKET ANDDD CRICKETTTT!!! a try and get indulged in the circle of cricket before you become the bearers of hoardings!!"
+          "Online quiz will be conducted for two days. At the end of each day one winner will be chosen so two teams will be selected for the final round directly from the online quiz.",
+          "The Online quiz consists of questions from IPL and some important international matches. The online quiz link will be active only for two hours, the date and timing will be announced soon.",
+          "Participants have to finish the online quiz before the timer ends.",
+          "Hit it in the crowd. Answer the saucy quiz and puzzles and get into the Final round."
         ],
-        ["Final Auction "]
+        [
+      "Bid it cheap and watch them weep. Bid your favorite players and win the game with a perfect squad."
+    ]
+      ]
+    },
+    "tentkotta": {
+      "last_updated": "8/20/2019 10:00:00",
+      "isTechnical": false,
+      "eventtype": "Non-Technical",
+      "dept": "eee",
+      "slug": "tentkotta",
+      "venue": "EEE BLock",
+      "timing": null,
+      "displayName": "Tentkotta",
+      "description": "IN A SYMPOSIUM FILLED WITH TECHNICAL EVENTS, TENTKOTTA COMES ACROSS AS THE TEA BREAK OF INVENTE. IF YOU ARE A VETERAN OF MOVIES, OR EVEN JUST A CASUAL COMPETITOR, THIS EVENT IS FOR YOU! MOVIE BASED BANTS, SCENES, OR JUST SONG LYRICS. THIS IS ALL YOU NEED TO COMPETE IN THIS TWO DAY EVENT.",
+      "tagline": null,
+      "eventname": "Tentkotta",
+      "notes": "",
+      "prize": null,
+      "intesnship": null,
+      "registrationFee": null,
+      "eventHeads": [
+        {
+          "name": "CHANDRU B",
+          "contact": "9787275518"
+        },
+        {
+          "name": "SUREKHA",
+          "contact": "8072444199"
+        }
+      ],
+      "attachments": [],
+      "rules": [
+        [
+          "​The first round of the new cine-based event, Tentkotta is MCQs and Puzzles of anything related to movies",
+          "Only 2 or 3 members per team",
+          "No usage of mobile phones or other devices during the event"
+        ],
+        [
+          "The final round of the event consists of a variety of competitions",
+          "Dumb Charades​: 1. Be the dumb one 2. Act out the title 3. Profit.",
+          "Connections​: Others may think these are a random arrangement of pictures, but this could be your key to winning!",
+          "Mono act​: Showcase your acting skills by acting out two characters at the same time to get the win!",
+          "Lyrics Finder​: Been memorizing lyrics instead of studying for the semesters? This stage is yours to own!"
+
+        ]
       ]
     },
     "tech-quiz": {
-      "last_updated": "9/15/2018 22:40:32",
+      "last_updated": "8/20/2019 10:00:00",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "eee",
       "slug": "tech-quiz",
-      "venue": "Electronics and Devices Lab,EEE department.",
-      "timing": "9am to 4pm; 22nd september",
+      "venue": "EEE Block",
+      "timing": null,
       "displayName": "Tech Quiz",
-      "description": "At Invente 3.0,  Genius is indeed the new sexy! Time to charge your grey cells up with energy as we're back with the much awaited Tech Quiz! Gear up to enter the intense world of techno quizzing and unleash the genius within you. \n\nSSN awaits the crowning of the next tech geeks as we pit your tech know-how against some of the best minds across chennai.\n",
-      "tagline": null,
+      "description": "At Invente 4.0, see if you can win one piece, the treasure left by the king of the pirate. But behold you are not alone in the quest and will have to compete with fellow pirate. Be careful though the battle is not physical but one of technological knowledge. Enter if you dare.",
+      "tagline": "",
       "eventname": "Tech Quiz",
       "notes": "",
-      "prize": "3000, 2000, 1500",
-      "intesnship": "none",
+      "prize": null,
+      "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
         {
-          "name": "Priyadharshini R",
-          "email": "priyadharshinirnpa@gmail.com",
-          "contact": "9600125930"
+          "name": "N.DIVYASRI",
+          "contact": "9787922792"
         },
         {
-          "name": "Anirudh S Suresh",
-          "email": "anirudh19698@gmail.com",
-          "contact": "9840418698"
+          "name": "PRANAV MOORTHY",
+          "contact": "8190005700"
         }
       ],
       "attachments": [],
       "rules": [
         [
-          "MCQ test on various fields including English, logic,aptitude, electrical and electronics. "
+          "Maximum 3 per team",
+          "No electronic devices are allowed during the event",
+          "Multiple choice questions. You will have to face 20 questions in the domain of electrical and electronics and mathematics."
+          
         ],
         [
-          "Quiz Round",
-          "A multistage event that tests the participants' ability to answer difficult questions under pressure. The teams with the highest points at the end wins amazing cash prizes."
+          "This round is split up into two:",
+          "The round will have two set of questions. One from your field of choice and the other will be decided by chances.",
+          "Next will be the buzzer round."
         ]
       ]
     },
-    "electronic-maze": {
-      "last_updated": "9/9/2018 17:35:38",
-      "isTechnical": true,
-      "eventtype": "Technical",
-      "dept": "eee",
-      "slug": "electronic-maze",
-      "venue": "EEE Department, 3rd year B section. ",
-      "timing": "22/09/2018 - 8.30 am to 5 pm. ",
-      "displayName": "Electronic Maze",
-      "description": "Round 1: Prove your intellect\n Answer MCQ questions related to electronics\n\nRound 2: Navigate the maze\nThe maze will be populated by various obstacles which the teams have to overcome.\n\nThe team encountering an obstacle, could choose to try and solve the question, else they could continue to proceed towards the center via an alternate route. First team who navigates to the center of the maze will win exciting cash prizes. \n\nRules:\n▪Maximum 4 players per team. \n▪No electronic gadgets are allowed. \n\nDate : 22 September, 2018\n\nVenue : EEE Department\n\n",
-      "tagline": "Remember the \"TRIWIZARD MAZE\" from harry potter? Ever wanted to experience something similar? Then here is a chance to use your intellect and experience the maze effect!   Come and solve the\"Maze\" surrounded by few basic technical stuffs, and win exciting cash prices💰💰!!! ",
-      "eventname": "Electronic Maze",
-      "notes": "",
-      "prize": "First prize - Rs. 3,000/-, Second Prize -Rs. 2,000/-, Thirsld Prize - Rs. 1,500/-",
-      "intesnship": "No",
-      "registrationFee": null,
-      "eventHeads": [
-        {
-          "name": "Vignesh. R",
-          "email": "vignesh6198@gmail.com",
-          "contact": "8056133895"
-        },
-        {
-          "name": "Ayshvarya laxmi. K",
-          "email": "aysh.laxmi@gmail.com",
-          "contact": "9094163338"
-        }
-      ],
-      "attachments": ["http://www.facebook.com/ssninvente"],
-      "rules": [
-        [
-          "1.Maximum 4 players per team.",
-          "2. No electronic gadgets are allowed. ",
-          "3. Should submit their answers within prescribed time. "
-        ],
-        ["To solve the maze correctly."]
-      ]
-    },
-    "3d-printing": {
-      "last_updated": "9/15/2018 17:59:16",
+    "e-vehicles-and-hybrid-vehicles-workshop": {
+      "last_updated": "8/20/2019 10:00:00",
       "isTechnical": false,
       "eventtype": "Workshop",
       "dept": "eee",
-      "slug": "3d-printing",
-      "venue": "Main Auditorium",
-      "timing": "September 21, 2018 ",
-      "displayName": "3D Printing",
-      "description": "Want to make something that you just conceived?  \nDo you have some idea but can't fabricate it?\n\"According to IEEE, 35% of Engineering Jobs today require 3D Printing Skills\"\n\nHere's the best platform for you to accomplish your desires. Presenting to you 3D'ing- A leading company in 3D printing assisting huge companies \n\nHaving conducted workshops all across India, 3D'ing in association with Invente 3.0 brings 3D Printing workshop here in SSN College of Engineering.\n\nABOUT THE ORGANISERS (3Ding) :\n\n3D’ing is the largest manufacturer of 3D Printers in India. Established in 2013, 3Ding manufactures & deals with a wide variety of 3D Printers ranging from Domestic to Industrial to large format 3D Printers. 3Ding is also an Advisory Partner for Additive Manufacturing for quite a few Large Corporates like Deloitte, PWC, Samsung etc.\n\n3Ding’s parent company, REDD (formerly known as Redd Robotics) is a 5 year old organization with industrial expertise across multiple hardware domains like Robotics, Automation, Embedded Systems, IoT, Mixed Reality, Computer vision, Consumer Electronics, Green Tech, Bio-Medical & Drones.\n\nNow, the only thing left to do is imagine. Be there at SSN on 21 Sep 2018 at the Main Auditorium. Registrations are held at on spot as well.\n",
-      "tagline": "Translating your imagination into reality",
-      "eventname": "3D Printing",
-      "notes": "NO PREREQUISITES REQUIRED. OPEN TO ALL BRANCHES",
+      "slug": "e-vehicles-and-hybrid-vehicles-workshop",
+      "venue": "EEE Block",
+      "timing": null,
+      "displayName": "E- Vehicles and Hybrid Vehicles Workshop",
+      "description": "It's almost 2020! Yes, we still aren't in the stone age to travel in petrol and diesel engine driven vehicles...the time has come to step up to build a sustainable and renewable future for the forthcoming generations. And the next big thing which is happening in and around us is the “Electric Revolution in the Automobile sector”. Yes.... An electric revolution in the automobile sector. Interested? Want to know about it? Here is the best platform to enlighten your minds. Presenting you ​Toyota Kirloskar Motors – the automobile giants who are fast accelerating in the market of Hybrid Vehicles and E- Vehicles. Toyota in association with ​Invente 4.0 is staging a talk on the technological advancements and the technical and industrial aspects required for the field of E-Vehicles and Hybrid Vehicles​ here in SSN College of Engineering. Grab your seats, as this is one opportunity where you can directly come across the Giants in person. Get ready to explore the infinity, be there at the ​Justice Pratap Singh Auditorium​ in ​SSN College of Engineering​. On spot registrations are also available.",
+      "tagline": "",
+      "eventname": "E- Vehicles and Hybrid Vehicles Workshop",
+      "notes": "",
       "prize": null,
       "intesnship": null,
-      "registrationFee": "300",
+      "registrationFee": null,
       "eventHeads": [
         {
-          "name": "Jyothiraditya",
-          "email": "rjyothir15090@eee.ssn.edu.in",
-          "contact": "9445388391"
+          "name": "ARSHAD MOHAMED M.A",
+          "contact": "9944479416"
         },
         {
-          "name": "Sudharshan",
-          "email": "sudharshan.tamil007@gmail.com",
-          "contact": "9789326335"
+          "name": "DINESH RAM KUMAR M",
+          "contact": "9629470915"
         }
       ],
-      "attachments": [
-        "https://drive.google.com/file/d/1Yym-2Ytn70qckjnlDCJGuQzxTU-FYgJC/view?usp=sharing"
-      ],
+      "attachments": [],
       "rules": []
     }
   },
@@ -2647,10 +2659,10 @@
       "slug": "think-d",
       "venue": "Prelims:\n2A, First Floor, Annexure Block, Dept. of ECE\nFinals:\nMicroprocessor & Microcontroller Lab, Dept. of ECE",
       "timing": "21st September, 2018\nPrelims: 10:30 - 13:30\nFinals: 14:00 - 16:00",
-      "displayName": "THINK D",
+      "displayName": "Think D",
       "description": "Design is a dangerously obscure term. Especially in the Age of Design in which “good design” mark might be a highway to success for any product and “bad design” may doom anything.Diving deep into the nature of design can give us some kind of clear view for the matter, so here comes the perfect chance for you to showcase your creativity here at INVENTE.There are three round in think D",
       "tagline": null,
-      "eventname": "THINK D",
+      "eventname": "Think D",
       "notes": "Participants are not required to have the knowledge to use photoshop or illustrator.We make up our mark purely based on your creativity",
       "prize": null,
       "intesnship": null,
@@ -2767,10 +2779,10 @@
       "slug": "enigma",
       "venue": "Digital Signal Processing lab,ECE department ",
       "timing": "September 22,2018",
-      "displayName": "ENIGMA",
+      "displayName": "Enigma",
       "description": "You are up against a serial killer who has confined you to shackles in a techno-savvy environment filled with riddles. Race against the clock to crack the code and escape from them before it’s too late!",
       "tagline": null,
-      "eventname": "ENIGMA",
+      "eventname": "Enigma",
       "notes": "(A team can consist of maximum of 3 people)",
       "prize": "First and second prize",
       "intesnship": null,
@@ -2965,10 +2977,10 @@
       "slug": "trump_the_aces",
       "venue": "Digital Communication lab",
       "timing": "prelims - 9:30am  to 12:30pm\nfinals - 1pm  to 3 pm",
-      "displayName": "TRUMP THE ACES",
+      "displayName": "Trump the Aces",
       "description": "Luck can determine the winner but knowledge can beat all odds. “Trump the Ace” is a fun technical event where the individuals’ holistic knowledge of engineering is tested.",
       "tagline": null,
-      "eventname": "TRUMP THE ACES",
+      "eventname": "Trump the Aces",
       "notes": "",
       "prize": null,
       "intesnship": null,
@@ -2992,37 +3004,6 @@
           "The second round is an application-oriented one. In this round, each qualified team will be tested on their conceptual and analytical skills. The teams will have to draw a card once again. Based on the card obtained, they will be presented with different engineering-related situations. If the card is an ace, the teams can boost their score by choosing to solve a situation given to any other team. If the team pointed to, has picked a face card, it can pass a question of its own choice. The teams have to analyze the given situations and come up with ideas to solve the issues in the situation. All the teams are expected to deliver their solutions in front of other teams and the organizers. Analyzing their ideas and their excellence in delivering the idea, a winner and runner will be chosen. In order to make the event more enjoyable and interactive,other rules will be strategized."
         ]
       ]
-    },
-    "ai-4-good-hackathon": {
-      "last_updated": "9/13/2018 22:40:02",
-      "isTechnical": false,
-      "eventtype": "Hackathon",
-      "dept": "ece",
-      "slug": "ai-4-good-hackathon",
-      "venue": "",
-      "timing": "21st September 1:00 pm to 22nd September 6:00 pm",
-      "displayName": "AI 4 GOOD  - Hackathon",
-      "description": "IBM OpenPower and Tech Club SSN present to you, #AI4Good hackathon as a part of SSN Invente 2018!\nThis is an open themed hackathon that urges participants to create innovative AI solutions that can impact society for the greater good.The challenge will be for people who already have experience working or studying about Deep Learning, they’ll have to solve the challenge taking advantage of the computational power of the IBM Power Systems Platform.\n\nThe challenge: Using Deep Learning and the IBM Power platform, participants must develop a solution that enhances society in one of the following domains: \n1. Healthcare\n2. Governance\n3. Safety\n\nRecommended background for the challenge:\n1. Experience programming with python\n2. Basic knowledge of machine learning and deep learning\n3. Basic knowledge of the framework Tensorflow\n\nA workshop will be held before the hackathon. \n\nDuration: 24 Hours\nParticipants per team: 3 (Max)\n\nAgenda:\nFriday, 21st \n● 1.00 pm to 5.00 pm: Welcoming the Participants and PowerAI workshop\n● 5.00 pm:  Hackathon Commencement\n      \nSaturday, 22nd\n● 4:00 pm: Demonstration of the prototypes!\n● 5:30 pm: Awards\n",
-      "tagline": "#AI4Good",
-      "eventname": "AI 4 GOOD  - Hackathon",
-      "notes": "",
-      "prize": null,
-      "intesnship": null,
-      "registrationFee": "750₹ per team",
-      "eventHeads": [
-        {
-          "name": "Bharath Raj",
-          "email": "bharathrajn98@gmail.com",
-          "contact": "9841069732"
-        },
-        {
-          "name": "Rakesh V",
-          "email": "rakeshvivek97@gmail.com",
-          "contact": "9884706702"
-        }
-      ],
-      "attachments": ["bit.ly/ai4hack"],
-      "rules": []
     }
   },
   "bme": {
@@ -3034,10 +3015,10 @@
       "slug": "biogonize",
       "venue": "BME department,III year classroom",
       "timing": "22nd,9am",
-      "displayName": "BIOGONIZE",
+      "displayName": "Biogonize",
       "description": "Totally 3 rounds.\n1.Takku takku takkunu- a fast video clip of pictures related to engineering and u have to identify them.\n2 Innovation out of waste- making models out of miscellaneous items.\n3.Oru kadha solta sir-Should create a story with the given biological words.\nAnd a team of 2 should participate",
       "tagline": "It's not just your brains that need to play!",
-      "eventname": "BIOGONIZE",
+      "eventname": "Biogonize",
       "notes": "",
       "prize": "1st-1000,2nd-750,3rd-500",
       "intesnship": null,
@@ -3073,10 +3054,10 @@
       "slug": "scintelligence-3.0",
       "venue": "BME seminar hall",
       "timing": "Prelims \nRound 1 :9:00 to 10:00 am\n\nSemi finals\nRound 2 : 10:00 to 11:00 am\nRound 3 : 11:00 to 12:00 am\n\nFinals\nRound 4 : 1:00 to 2:00 pm\nRound 5 : 2:00 to 3:00 pm\n\nPrize distribution : 3:00 to 3:30 pm",
-      "displayName": "SCINTELLIGENCE 3.0",
+      "displayName": "Scintelligence 3.0",
       "description": "Leggo again!!!!!Expose The scrumdelicious… The hard earned thirst!!\nBecause engineering is complicated enough, we make it much more complicated. Come as good as it gets! To the resurging SCINTELLIGENCE 3.0 bundled up with newer better and bigger rounds.\n\nPrelims:\n1) Bounce OFF.\n\nSem finals:\n1) Tap to cap.\n2) Where do i kept my bits?\n\nFinals\n1) Cap yourself Sherlock.\n2) Wolf of the wall street.",
       "tagline": "Tighten!! the power is on your side and Don’t leave the house without prize. ",
-      "eventname": "SCINTELLIGENCE 3.0",
+      "eventname": "Scintelligence 3.0",
       "notes": "",
       "prize": "5000rs",
       "intesnship": null,
@@ -3137,10 +3118,10 @@
       "slug": "tellurians",
       "venue": "III year class room -BME department",
       "timing": "September 21",
-      "displayName": "TELLURIANS",
+      "displayName": "Tellurians",
       "description": "Explore, learn and have fun by flying to various planets and decipher the various zestful and intriguing quizzes and puzzles to complete your mission.",
       "tagline": "TELLURIANS-READY FOR TAKEOFF??",
-      "eventname": "TELLURIANS",
+      "eventname": "Tellurians",
       "notes": "",
       "prize": "1st prize-Rs 1500   2nd prize-Rs 1000",
       "intesnship": null,
@@ -3187,10 +3168,10 @@
       "slug": "paper-presentation",
       "venue": "BME Conference Hall",
       "timing": "Day 1",
-      "displayName": "PAPER PRESENTATION",
+      "displayName": "Paper Presentation",
       "description": "Express your enthusiasm for the biomedical field by presenting your innovations and ideas.",
       "tagline": null,
-      "eventname": "PAPER PRESENTATION",
+      "eventname": "Paper Presentation",
       "notes": "",
       "prize": "4500",
       "intesnship": null,
@@ -3220,10 +3201,10 @@
       "slug": "matalino",
       "venue": "Biomedical department, 1st Floor, LS 04 ( final year class room) ",
       "timing": "9:30 am",
-      "displayName": "MATALINO",
+      "displayName": "Matalino",
       "description": "4 rounds, 2 members per team\n1.high on volume ( find the word amidst the high volume) \n2.fire the five (Q&A) \n3.music trivia ( musical chair kindof thing) \n4.mathoscience ( equation solving and Bio related Q&A) \n",
       "tagline": null,
-      "eventname": "MATALINO",
+      "eventname": "Matalino",
       "notes": "",
       "prize": "1st 🏆 =1500 & 2nd 🏆 =1000",
       "intesnship": null,
@@ -3352,10 +3333,10 @@
       "slug": "sapiens-washout",
       "venue": "BME DEPARTMENT ",
       "timing": "11:00am-3:00pm",
-      "displayName": "SAPIENS WASHOUT",
+      "displayName": "Sapiens Washout",
       "description": "You may not control all the events that happen to you, but you can decide not to be reduced by them, so shoe yourself and spruce up to show your skills and win exciting prizes",
       "tagline": null,
-      "eventname": "SAPIENS WASHOUT",
+      "eventname": "Sapiens Washout",
       "notes": "",
       "prize": "Rs.20-30 per event",
       "intesnship": null,
@@ -3436,10 +3417,10 @@
       "slug": "pubg-mobile-tournament",
       "venue": "BME department DTE lab",
       "timing": "21st and 22nd September 10am onwards",
-      "displayName": "PUBG MOBILE TOURNAMENT ",
+      "displayName": "PUBG Mobile Tournament ",
       "description": "Classic TPP Squad tournament",
       "tagline": "Do you have what it takes to be the last man standing? Come battle it out with us at SSNCE!",
-      "eventname": "PUBG MOBILE TOURNAMENT ",
+      "eventname": "PUBG Mobile Tournament ",
       "notes": "Pre-Register for the tournament through the above link. ",
       "prize": "Prizes upto RS.4000",
       "intesnship": null,
@@ -3497,247 +3478,6 @@
       ],
       "attachments": [],
       "rules": []
-    }
-  },
-  "maths": {
-    "as-you-like-it": {
-      "last_updated": "9/10/2018 21:03:47",
-      "isTechnical": true,
-      "eventtype": "Technical",
-      "dept": "maths",
-      "slug": "as-you-like-it",
-      "venue": "EH-4 EEE block third floor",
-      "timing": "22nd September\n10.00 am to 2.30 pm",
-      "displayName": "As you like it",
-      "description": "As you like it is an event with fun oriented mathematical games. It need not be conceptually intricate to involve deeper computational underpinnings. This event differ sharply from mathematical quiz in that mathematical quiz require specific mathematical expertise to complete, whereas it do not require a deep knowledge of mathematics to play. They are of deep interest in the field of recreational mathematics. These games have simple rules and match procedures with logic and recreation. If you and your team think that you deserve the honour, then this is your opportunity. Come and grab it! \n",
-      "tagline": null,
-      "eventname": "As you like it",
-      "notes": "",
-      "prize": "4500",
-      "intesnship": null,
-      "registrationFee": null,
-      "eventHeads": [
-        {
-          "name": "Anjana",
-          "email": "kranja97@gmail.com",
-          "contact": "8903271623"
-        },
-        {
-          "name": "Suvetha G",
-          "email": "suvethag1603@gmail.com",
-          "contact": "7397381783"
-        }
-      ],
-      "attachments": [],
-      "rules": [
-        [
-          "Team consists of maximum of three members. There will be ten event with recreational mathematics. Each event has separate points based on the performance. Final points will be the cumulative score of whole event."
-        ]
-      ]
-    },
-    "math-quiz": {
-      "last_updated": "8/24/2018 23:45:57",
-      "isTechnical": true,
-      "eventtype": "Technical",
-      "dept": "maths",
-      "slug": "math-quiz",
-      "venue": "           Prelims:EH-5 EEE third floor\n           Finals :ECE central seminar hall\n",
-      "timing": "Prelims :10.00 am to 12.30 pm\nFinals : 1.30 pm to 2.30 pm\n",
-      "displayName": "Math quiz",
-      "description": "This event will test both your aptitude and general knowledge about the mathematical world. It's a 2 round event comprising of a pen-paper and a quiz style round",
-      "tagline": null,
-      "eventname": "Math quiz",
-      "notes": "",
-      "prize": "3000",
-      "intesnship": null,
-      "registrationFee": null,
-      "eventHeads": [
-        {
-          "name": " Moulieeshwar ",
-          "email": "ssnexlog@gmail.com",
-          "contact": "8939180153"
-        },
-        {
-          "name": " Edwin ",
-          "email": "",
-          "contact": "8056081627"
-        }
-      ],
-      "attachments": [],
-      "rules": [
-        [
-          "PRELIMS",
-          "•\t20 questions in total",
-          "•\tTime limit : 30 minutes",
-          "•\t10 questions from aptitude and 10 from general plus a bonus question. All questions carry multiple choice except the bonus question.",
-          "•\tEach correct answer earns your team 2 points. Aptitude section carries negative marking.",
-          "•\tMaximum possible score :45",
-          "•\tTop 6-8 teams will qualify for the finals.",
-          "•\tQuiz master's decision is final and binding"
-        ],
-        [
-          "FINALS",
-          "•\tThe Final round will consist of 6 rounds containing 2 rounds each from general and aptitude section and 2 special rounds.",
-          "•\tother rules will be intimated on the spot."
-        ]
-      ]
-    },
-    "bigg-boss": {
-      "last_updated": "9/10/2018 21:22:28",
-      "isTechnical": true,
-      "eventtype": "Technical",
-      "dept": "maths",
-      "slug": "bigg-boss",
-      "venue": "Prelims : EH-6 EEE block third floor\nFinals : First year block",
-      "timing": "22nd September\n Prelims : 10.00 am to 12.30 pm\n Finals : 1.00 pm to 2.40 pm",
-      "displayName": "Bigg Boss",
-      "description": "As the name says \"Bigg Boss\" is an event that tests your adaptability along with your mathematical knowledge. Prelims will be conducted which include mathematical related technical and aptitude questions. Top 20 will be entering the biggboss house. It is a challenge to stay inside the house for 100 minutes. Tasks will be given periodically and eviction for every 10 minutes. Contestants should follow the instructions given by the secret judge and will be eliminated if they failed to do so.",
-      "tagline": null,
-      "eventname": "Bigg Boss",
-      "notes": "",
-      "prize": "3000",
-      "intesnship": null,
-      "registrationFee": null,
-      "eventHeads": [
-        {
-          "name": "Anu Harshini             ",
-          "email": "anukarnan@gmail.com",
-          "contact": "9843270987"
-        },
-        {
-          "name": "Avudainayagi M",
-          "email": "avudainayagi99@gmail.com",
-          "contact": "8681858569"
-        }
-      ],
-      "attachments": [],
-      "rules": [
-        [
-          "Prelims:total 30 questions (technical 15 questions and aptitude 15 questions)",
-          "No electronic gadgets should be brought inside during the game."
-        ],
-        [
-          "Tasks will be given periodically.",
-          "Contestants should follow the rules inside the biggboss house.",
-          "No electronic gadgets should be brought inside during the game."
-        ]
-      ]
-    },
-    "paper-presentation": {
-      "last_updated": "9/11/2018 10:35:57",
-      "isTechnical": true,
-      "eventtype": "Technical",
-      "dept": "maths",
-      "slug": "paper-presentation",
-      "venue": "ECE central seminar hall",
-      "timing": "22nd September\n10.00am to 1.00 pm",
-      "displayName": "Paper presentation ",
-      "description": "AREAS & TOPICS FOR PRESENTATION :\nMECHANICAL ENGINEERING :\n1.Mathematics in supply chain management.\n2.Scheduling problem using operation research.\n3.Game theory.\nELECTRONICS AND COMMUNICATION ENGINEERING:\nSignal processing :\n1.Usage of linear algebra\n2.Transforms ( Fourier, Laplace)\nCOMPUTER SCIENCE ENGINEERING:\nNetworking :\n1.Graph theory\n2.Probability and statistics\nBIOMEDICAL ENGINEERING:\nBrain network, signals using Graph theory and stochastic process",
-      "tagline": null,
-      "eventname": "Paper presentation ",
-      "notes": "",
-      "prize": "5500",
-      "intesnship": null,
-      "registrationFee": null,
-      "eventHeads": [
-        {
-          "name": "Hema priya  ",
-          "email": "hemasrisha97@gmail.com",
-          "contact": "9445826410"
-        },
-        {
-          "name": "Eshwar",
-          "email": "eshwarkrishnan99@gmail.com",
-          "contact": "9962022236"
-        }
-      ],
-      "attachments": [],
-      "rules": [
-        [
-          "Candidates should send their paper in soft copy to the e-mail address ssnexlog@gmail.com before the LAST DATE (19/09/2018). PAPERS MAILED AFTER 19/09/2018, 08.00PM WILL NOT BE CONSIDERED. Can be a team of two members. Spot entries are not allowed. Accepted papers will be intimated through their mail id on or before 20/09/2018."
-        ],
-        [
-          "The presentation time is 8 minutes and the queries for 2 minutes for each paper. Selected candidates should bring 2 hard copies at the time of presentation. 2 copies of abstract for the presentation in hardcopy required on the day of presentation, not exceeding 300 words. Judges decision will be final and will not be further entertained."
-        ]
-      ]
-    },
-    "dumb-c": {
-      "last_updated": "9/10/2018 21:18:06",
-      "isTechnical": true,
-      "eventtype": "Technical",
-      "dept": "maths",
-      "slug": "dumb-c",
-      "venue": "EH-5 EEE block third floor",
-      "timing": "22nd September\nPrelims: 10.00 am to 12.00 pm\nFinals :1 .00 pm to 2.30 pm",
-      "displayName": "Dumb-C",
-      "description": "Are you a math wiz who's tired of conventional competitions? Or are you someone who loves express oneself with a myriad of expressions and actions? Do people say that you're great at understanding others with no words being spoken? Or are you simply someone who's looking for some fun? Well look no more! Here's an event that's sure to entertain all of you! Come, participate in the Dumb-C event at Exlog 2018, the national level technical symposium organised by the department of Mathematics at SSN College of Engineering. This isn't just your everyday charades game. It's got different rounds of exciting variations of Dumb-C, each with a Mathematical twist. You don't want to miss this one. Participate to enjoy the fun. ",
-      "tagline": null,
-      "eventname": "Dumb-C",
-      "notes": "",
-      "prize": "4500",
-      "intesnship": null,
-      "registrationFee": null,
-      "eventHeads": [
-        {
-          "name": "Arun V",
-          "email": "7amarivu777@gmail.com",
-          "contact": "8531919708"
-        },
-        {
-          "name": "Subhashini S",
-          "email": "hasiniraj99@gmail.com",
-          "contact": "8056924790"
-        }
-      ],
-      "attachments": [],
-      "rules": [
-        [
-          "Maximum of 3 per team and minimum of 2. An aptitude test to test your talent."
-        ],
-        [
-          " A mathematical term enacted by a team mate and guessed by the others on the team. Team that takes the least time wins."
-        ],
-        [
-          " Connect the pictures or Guess the word. 4 pictures will be given and contestants have to understand the similarity shared among them and guess the word. Else one of the contestants will be given a word and 4 relevant terms should be said to guess the word."
-        ]
-      ]
-    },
-    "creodel": {
-      "last_updated": "9/10/2018 21:47:39",
-      "isTechnical": true,
-      "eventtype": "Technical",
-      "dept": "maths",
-      "slug": "creodel",
-      "venue": "Humanities block",
-      "timing": "22nd September\n10.00 am to 2.00 pm",
-      "displayName": "Creodel ",
-      "description": "Aren’t you tired with the technical equations last for several pages? Wanna convert your observations into a visual model? ‘CREODEL’ gives you the opportunity to simplify your observed phenomenon and to arrive at a computationally tractable model.",
-      "tagline": null,
-      "eventname": "Creodel ",
-      "notes": "",
-      "prize": "4500",
-      "intesnship": null,
-      "registrationFee": null,
-      "eventHeads": [
-        {
-          "name": "Swaanika",
-          "email": "swaanika@gmail.com",
-          "contact": "9444322230"
-        },
-        {
-          "name": "Priyadarshini",
-          "email": "priyadarshini16042@chemical.ssn.edu.in",
-          "contact": "9600139852"
-        }
-      ],
-      "attachments": [],
-      "rules": [
-        [
-          "Problems based on area and volume calculations (time bound and no use of electronic gadgets)"
-        ],
-        ["Geometric and trigonometric application based problems"],
-        ["Equations are to be solved and accordingly models have to be made"]
-      ]
     }
   }
 }

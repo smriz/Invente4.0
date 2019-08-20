@@ -6,7 +6,8 @@ class Hospitality extends React.Component{
 
     render(){
         return <div>
-            <Sidebar/><div className="hosp">
+            <Sidebar/>
+            <div className="hosp">
         <Helmet>
           <title>Hospitality | Invente 4.0</title>
         </Helmet>

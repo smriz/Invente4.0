@@ -12,12 +12,13 @@ class Registration extends React.Component{
                      <title>Registration | Invente 4.0</title>
                  </Helmet>
                  <br/><br/><br/><br/>
-               <div align="center" className="register-instructions">
+               <div align="center" className="register-instructions" style={{alignContent:"center"}}>
                  <span style={{fontSize:"20px",color:"#ff9800"}}> Instructions to be followed:</span> 
                    <ul className="register-points">
                        <br/>
                      <li>All Students must bring their college ID Card</li>
                      <li>The entry fee for different events are as follows:
+                       <div algin="center" className="align-center" style={{textAlign:"left"}}>
                      <ul >
                      <br/>
                         <li>• General registration – 120 / person</li>
@@ -29,7 +30,7 @@ class Registration extends React.Component{
                         <li>• Ex log – 200 / team of 3 </li>
                       </ul>
                       <br/>
-
+                      </div>
                       <li>Payment must be made on spot </li>
                       <li> Workshop participants must be at the venue 30 mins prior the scheduled time.</li>
                       <li> Students who have registered can take part in the events on both days, 21</li>

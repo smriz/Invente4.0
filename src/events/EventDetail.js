@@ -55,7 +55,7 @@ class EventDetail extends React.Component {
             {event.tagline && <h6 className="tagline">{event.tagline}</h6>}
           </div>
           <div className="description">
-            {event.description.split("\n").map(x => (
+            {event.description && event.description.split("\n").map(x => (
               <div>{x}</div>
             ))}
           </div>

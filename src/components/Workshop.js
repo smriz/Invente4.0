@@ -23,10 +23,10 @@ class Workshop extends React.Component {
   render() {
     return (
       <div className="">
+          <Sidebar />
           <Stars />
           <div className="stars-overlay">
         <div className="events ">
-          <Sidebar />
           <Helmet>
             <title>Workshops | Invente 4.0</title>
           </Helmet>

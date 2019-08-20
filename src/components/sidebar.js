@@ -18,15 +18,16 @@ class Sidebar extends React.Component {
         Hospitality: '/hospitality'
       }
     };
-    
+      
   }
+  
   render() {
     return (
       <Menu right>
         {Object.keys(this.routeMap.main).map(key => (
           <a
             className="menu-item"
-            onfocus="this.blur()"
+            // onFocus={blur()}
             style={{ border: '3px solid #ff9800' }}
             href={this.routeMap.main[key]}
           >
