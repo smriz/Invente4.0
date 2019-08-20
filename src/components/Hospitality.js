@@ -10,13 +10,23 @@ class Hospitality extends React.Component{
         <Helmet>
           <title>Hospitality | Invente 4.0</title>
         </Helmet>
-      
+        <div align="center">
+            <h6 className="top">
+            HOW TO REACH SSN?              
+            </h6>
+            {/* <h6>Events > {dept}</h6> */}
+            <img
+              className="headline"
+              style={{ width: "80%" }}
+              src={require("../images/Heading_Line.svg")}
+              alt={""}
+            />
+        </div>
         <div className ="content">
-            <h2>HOW TO REACH SSN?</h2>
-            <hr/>
             <h4>Route 1: Tamabaram to SSN</h4>
+            <br/>
             <div align="center">
-            <table align="center">
+            <table align="center" border="none">
             <thead>
                     <tr>
                         <th>Route No.</th>
@@ -43,6 +53,7 @@ class Hospitality extends React.Component{
             </div>
             <br/>
             <h4>Route 2: Koyambedu to SSN</h4>
+            <br/>
             <table align="center">
             <thead>
                     <tr>
@@ -70,6 +81,8 @@ class Hospitality extends React.Component{
             </div>
             <br/>
             <h4>Route 3: Central to SSN</h4>
+            <br/>
+
             <table align="center">
             <thead>
                     <tr>
@@ -102,9 +115,24 @@ class Hospitality extends React.Component{
             </div>
             <br/><br/><br/><br/>
             <p className = "note">Note: From Kelambakkam to SSN board any share auto or bus going to Thiruporur</p>
-            <br/><br/><br/><h2>ACCOMODATION</h2>
-            <hr/>
+      
+            
+            <div align="center">
+            <h6 className="top">
+            ACCOMODATION              
+            </h6>
+            {/* <h6>Events > {dept}</h6> */}
+            <img
+              className="headline"
+              style={{ width: "80%" }}
+              src={require("../images/Heading_Line.svg")}
+              alt={""}
+            />
+        </div>
+            
             <p>Participants looking for accomodation please make note of the following:</p>
+
+            <br/>
             <ul style={{margin:'0px 1%'}}>
                 <li>Participants must bring their ID card or a copy of the college ID Card while availing accomodation. Without the copy, accomodation cannot be provided</li>
                 <li>Accomodation Fees of Rs.150/- per day per person</li>
@@ -112,7 +140,8 @@ class Hospitality extends React.Component{
                 <li>Rooms will be allocated on shared basis only, with 2 people in a room</li>
                 <li>For rooms with beds, the charges are separate.</li>
             </ul>
-            <p className = "note">Contacts for accomodation</p>
+            <p className = "note" style={{marginTop:"3%"}}>Contacts for accomodation</p>
+            <br/>
             <table align="center">
             <thead>
                 <tr>
@@ -130,6 +159,11 @@ class Hospitality extends React.Component{
                           <td>8870062937</td>
                       </tr>
                     </tbody>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
+                    <br/>
             </table>
 
             </div>

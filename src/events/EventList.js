@@ -61,7 +61,7 @@ class EventList extends React.Component {
                     <div className="customdiv">
                       <img src={require("../images/Capsule.svg")} alt={x} />
                     </div>
-                    <p className="dept-name" style={{ textAlign: "center" }}>
+                    <p className="dept-name" style={{ textAlign: "center",letterSpacing:"1px" }}>
                       {eventlist[dept][x]}
                     </p>
                   </div> 

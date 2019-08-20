@@ -7,6 +7,7 @@
 	margin-right: auto;
 }
 .hosp .content{
+	padding-top: 3%;
 	padding-left: 2px;
 	padding-right: 2px;
 	max-width: 960px;
@@ -14,8 +15,12 @@
 	margin-right: auto;
 	justify-content: center;
 }
-.hosp .content h2{
-	text-align: center;
+.hosp h6{
+  text-transform: uppercase;
+  font-size: 20px;
+  text-align: center;
+	color: whitesmoke;
+
 }
 .hosp hr{
 	width:50%; 
@@ -26,7 +31,7 @@
 }
 .hosp .content h4{
 	text-align: center;
-	color: grey;
+	color:#ff9800;
 }
 .hosp .content table{
 	width: 70%;
@@ -65,8 +70,13 @@
 	width: 400px;
 	height: 400px;
 }
-  
-  
+  th{
+	  color:#ff9800;
+  }
+  table, th, td {
+  border: 1px solid white;
+  padding: 3px;
+}
 @media screen and (orientation:portrait){
     .hosp .content .caption img{
         width:280px;
