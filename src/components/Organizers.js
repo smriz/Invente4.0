@@ -1,5 +1,6 @@
 import React from "react";
 import Sidebar from "./Navigator";
+// import Sidebar from "./sidebar";
 import { Helmet } from "react-helmet";
 import Flip from "react-reveal/Flip";
 class Organizers extends React.Component {

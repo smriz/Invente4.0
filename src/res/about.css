@@ -115,3 +115,15 @@
 }
 
 
+@media only screen and (max-width: 360px) {
+  .aboutus h6 {
+    padding-top: 10%;
+    font-size: 15px;
+  }
+  .aboutus .textforhome {
+    font-size: 14px;
+    line-height: 20px;
+      width:100% 
+  }
+  
+}

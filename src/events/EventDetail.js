@@ -78,7 +78,7 @@ class EventDetail extends React.Component {
             </a>
           )}
 
-          <div style={{marginTop:"5%"}}>
+          <div style={{marginTop:"3%"}}>
             {event.registrationFee && (
               <Fielder
 			  field="rupee-sign"
@@ -111,7 +111,7 @@ class EventDetail extends React.Component {
             )}
           </p>
 
-          <div style={{marginTop:"5%"}}>
+          <div style={{marginTop:"3%"}}>
             <div className={"row rules-tab-holder"}>
               {event.rules.map((x, i) => (
                 <div

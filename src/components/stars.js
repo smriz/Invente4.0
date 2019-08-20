@@ -4,7 +4,7 @@ class Stars extends React.Component{
     render(){
         return (
             <Particles 
-            height="800px"
+            height="600px"
              params={{
                 "particles": {
                     "number": {
