@@ -25,7 +25,7 @@ class Events extends React.Component {
         > */}
           <Stars />
           <div
-          className=".stars-overlay"
+          className="stars-overlay"
           >
              <Route exact path="/about-us" component={AboutusList} />
         <Route exact path="/about-us/:about" component={AboutusDetails} />

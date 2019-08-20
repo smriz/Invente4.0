@@ -18,6 +18,7 @@ class Sidebar extends React.Component {
         Hospitality: '/hospitality'
       }
     };
+    
   }
   render() {
     return (
