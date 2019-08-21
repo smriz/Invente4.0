@@ -1,6 +1,7 @@
 import React from "react";
 import Sidebar from "./Navigator";
 // import Sidebar from "./sidebar";
+ import Stars from "./stars";
 import { Helmet } from "react-helmet";
 import Flip from "react-reveal/Flip";
 class Organizers extends React.Component {
@@ -112,13 +113,24 @@ class Organizers extends React.Component {
   render() {
     return (
       <div>
+
         <div style={{ display: "none" }}>
           <Sidebar />
         </div>
         <Helmet>
           <title>Organizers | Invente 4.0 </title>
         </Helmet>
-        <div className="organisers top">
+        <div
+          style={{
+			position: "fixed",
+            top: 0,
+            left: 0,
+            width: "100%",
+            height: "100%"
+          }}
+        > <Stars/>
+        <div className="stars-overlay">
+        <div className="organisers ">
           {/* <Flip  cascade>  */}
 
           <div
@@ -127,14 +139,10 @@ class Organizers extends React.Component {
             data-aos-easing="ease-in-sine"
             data-aos-duration="1000"
           >
-            <div
-              data-aos="fade-zoom-in"
-              data-aos-offset="100"
-              data-aos-easing="ease-in-sine"
-              data-aos-duration="1000"
-            >
+           
               <div>
-                <h6>Advisor of Student Affairs</h6>
+                <h6>
+                <br/><br/><br/><br/>Advisor of Student Affairs</h6>
                 <img
                   className="headline"
                   style={{ width: "80%" }}
@@ -151,7 +159,6 @@ class Organizers extends React.Component {
                   <p style={{}}>Sunita Nair</p>
                 </div>
               </div>
-            </div>
 
 
 
@@ -188,13 +195,7 @@ class Organizers extends React.Component {
                 ))}
               </div>
             </div>
-          </div>
-          <div
-            data-aos="fade-zoom-in"
-            data-aos-offset="100"
-            data-aos-easing="ease-in-sine"
-            data-aos-duration="1000"
-          >
+         
             <div id="staff-coordinator" className="top">
               <div>
                 <h6>Faculty Co-ordinators</h6>
@@ -227,14 +228,7 @@ class Organizers extends React.Component {
                 ))}
               </div>
             </div>
-          </div>
-
-          <div
-            data-aos="fade-zoom-in"
-            data-aos-offset="100"
-            data-aos-easing="ease-in-sine"
-            data-aos-duration="1000"
-          >
+          
             <div id="student-coordinator" className="top">
               <div>
                 <h6>Association Presidents</h6>
@@ -273,6 +267,9 @@ class Organizers extends React.Component {
           {/* </Flip> */}
         </div>
       </div>
+      </div>
+      </div>
+
     );
   }
 }

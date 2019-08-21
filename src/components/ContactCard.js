@@ -7,7 +7,7 @@ class ContactCard extends React.Component {
           <div className="card-set-child" align="center" key={"hod-"}>
 			<img 
 			className="roundimg"
-              src={require("../images/organisers/hod-BME.jpg")}
+              src={require("../images/organisers/Placeholder.svg")}
               alt={name}
             />
             <p className="title-name">

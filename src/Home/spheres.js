@@ -64,14 +64,14 @@ class Animation extends React.Component {
     let show = this.props.show;
     return (
       <div>
-        <div>
+        <div></div>
         <Fade  right when={show}>
           <img src={require("../images/Right_ball.svg")} className="rball" />
         </Fade>
         <Fade left when={show}>
           <img src={require("../images/Left_ball.svg")} className="lball" />
         </Fade>
-        </div>
+        
         <div
           style={{
             position: "fixed",

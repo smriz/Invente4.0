@@ -8,16 +8,17 @@
   } */
 @font-face {
   font-family: myFancyFont;
-  src: url("./GillSans-Light-08.ttf"), url("./GillSans-Light-08.ttf");
+  src: url('./GillSans-Light-08.ttf'), url('./GillSans-Light-08.ttf');
 }
-*{
+* {
   font-weight: 100;
-
 }
+
 body {
   color: white;
   background: #ff9800;
-  background: url("../images/bg2.svg");
+  background: url('../images/bg2.svg');
+  /* background:black; */
   background-repeat: no-repeat;
   background-position: 0 0;
   background-attachment: fixed;
@@ -26,14 +27,16 @@ body {
   margin: 0px;
   padding: 0px;
   margin-top: 5%;
-  font-family: "myFancyFont",sans-serif;
+  font-family: 'myFancyFont', sans-serif;
   -webkit-user-select: none;
   -moz-user-select: -moz-none;
   -ms-user-select: none;
   user-select: none;
   -webkit-tap-highlight-color: transparent;
 }
-
+.home{
+  background: url('../images/bgg.svg');
+}
 .headline {
   margin: 10px 0;
   width: 60%;
@@ -145,6 +148,7 @@ a {
 }
 .rules-tab-holder .rules-tab {
   /* border: 1px solid #888; */
+  font-size: 18px;
   margin: auto 0px;
   padding: 8px 16px;
   z-index: 1;
@@ -161,6 +165,7 @@ a {
 }
 
 .rules-pane {
+  font-size: 18px;
   border: 1px solid #ff9800;
   padding: 30px 20px;
   min-height: 150px;
@@ -313,23 +318,20 @@ a {
   border: 2px solid #ff9800;
 }
 .register-area .align-center {
-  padding:0 30%;
+  padding: 0 30%;
   margin-left: auto;
   margin-right: auto;
-
 }
-
 
 @media screen and (orientation: portrait) {
   .register-area .register-instructions {
     padding: 10%;
     padding: 10px 0px;
-
   }
   .register-area .align-center {
-  padding:0 30%;
-  margin-left: auto;
-  margin-right: auto;
+    padding: 0 30%;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 .register-area .main-register #formdata {
@@ -881,8 +883,11 @@ a {
   }
 }
 .stars-overlay {
-  position: absolute;
-  scroll-behavior: auto;
+  position: fixed;
+  /* scroll-behavior: auto; */
+
+  -ms-overflow-style: none;
+  -webkit-overflow-style: none;
   overflow-y: auto;
   top: 0;
   left: 0;

@@ -11,7 +11,7 @@ class Sidebar extends React.Component {
         Home: '/',
         Events: '/events',
         Workshops: '/workshops',
-        Hackathon: '/events/ece/ai-4-good-hackathon',
+        Hackathon: '/events/ece/hack-hackathon',
         Registration: '/register',
         Organizers: '/organizers',
         AboutUs: '/about-us',

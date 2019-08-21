@@ -389,7 +389,6 @@
             transform: rotate(359.99deg);
         }
     }
-
     @keyframes outright {
         0% {}
     
@@ -449,7 +448,7 @@
 } */
 .lball {
   /* animation: inleft 1s; */
-  transform: scale(1.2);
+  transform: scale(1);
   position: absolute;
   top: -10%;
   left: -30%;
@@ -459,7 +458,7 @@
 }
 .rball {
   /* animation: inright 1s; */
-  transform: scale(1.2);
+  transform: scale(1);
   position: absolute;
   top: -10%;
   left: 54%;
@@ -478,10 +477,12 @@
 
 @media only screen and (orientation: portrait) {
   .rball {
-    transform: scale(2);
+    /* transform: scale(2); */
+    /* display: none; */
   }
   .lball {
-    transform: scale(2);
+    /* transform: scale(2); */
+    
   }
   .scale {
     transform: scale(0.5);

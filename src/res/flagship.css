@@ -46,6 +46,8 @@
     margin-top: 5px;
     position: relative;
     overflow: hidden
+  }.flagship .card-set .card-set-child .customdiv img {
+   transform: scale(1.5);
   }
   .flagship .card-set .card-set-child .customdiv .seemore {
     width: 130px;

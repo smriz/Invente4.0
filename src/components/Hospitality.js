@@ -136,7 +136,7 @@ class Hospitality extends React.Component{
             />
         </div>
             
-            <p>Participants looking for accomodation please make note of the following:</p>
+            <p><b>Participants looking for accomodation please make note of the following:</b></p>
 
             <br/>
             <ul style={{margin:'0px 1%'}}>

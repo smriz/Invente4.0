@@ -24,6 +24,15 @@ class Workshop extends React.Component {
     return (
       <div className="">
           <Sidebar />
+          <div
+          style={{
+			position: "fixed",
+            top: 0,
+            left: 0,
+            width: "100%",
+            height: "100%"
+          }}
+        > 
           <Stars />
           <div className="stars-overlay">
         <div className="events ">
@@ -45,7 +54,7 @@ class Workshop extends React.Component {
             <img
               className="headline"
               style={{ width: "80%" }}
-              src={require("../images/Heading_Line.svg")}
+              src={require("../images/heading_line_thin.svg")}
               alt={""}
             />
 
@@ -59,9 +68,14 @@ class Workshop extends React.Component {
               >
                 <div align="center">
                   <div className="customdiv">
-                    <img src={require("../images/Capsule.svg")} alt={x.event} />
+                  <img
+					  src={require("../images/events/"+x.dept+"_"+x.event+".svg")} 
+					   //   src={require("../images/Capsule.svg")}
+                        alt={x}
+                      />
+                    {/* <img src={require("../images/Capsule.svg")} alt={x.event} /> */}
                   </div>
-                  <p className="dept-name" style={{ textAlign: "center" }}>
+                  <p className="dept-name" style={{ textAlign: "center",letterSpacing:"1px" }}>
                     {eventlist[x.dept][x.event]}
                   </p>
                 </div>
@@ -81,6 +95,7 @@ class Workshop extends React.Component {
           <br />
           <br />
           </div>
+        </div>
         </div>
       </div>
     );
