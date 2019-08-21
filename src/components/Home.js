@@ -15,7 +15,6 @@ class Home extends React.Component {
     super(props);
 
     this.state = { show: true };
-    this.state = { isLoading: false };
   }
   onLeave(origin, destination, direction) {
     console.log(

@@ -1256,7 +1256,7 @@
       "prize": null,
       "intesnship": null,
       "registrationFee": null,
-      "eventHeads": [{ "name": "Annal A S", "contact": "" }],
+      "eventHeads": [{ "name": "Annal A S", "contact": "0000000000" }],
       "attachments": [],
       "rules": [],
       "isFlagship": false
@@ -3077,6 +3077,7 @@
       ],
       "attachments": [],
       "rules": [
+        [
         "Prior knowledge:",
         "Basic knowledge of electrical engineering is sufficient, no programming knowledge is required.",
         "Tools Provided (for the session):",
@@ -3093,6 +3094,7 @@
         "• Fee: Rs. 250/- per head.",
         "• Computer systems will be provided with software pre-installed.",
         "• Click this link to register: https://forms.gle/42oKm2Kk2RUtMBtB7"
+        ]
       ],
       "isFlagship": false
     }

@@ -149,10 +149,9 @@ class EventDetail extends React.Component {
 			)}
 		
         <div className="card-set" align="center" style={{marginTop:"5%"}}>
-              <ContactCard contact={event.eventHeads[0]} />
-              <ContactCard contact={event.eventHeads[1]} />
-				{event.eventHeads[2] &&
-				<ContactCard contact={event.eventHeads[2]} />}
+          {event.eventHeads.map(heads => (
+            <ContactCard contact={heads} />
+          ))}
             </div>
 				
 		<br/>
