@@ -16,7 +16,7 @@ class Events extends React.Component {
           <title> Events | Invente 4.0</title>
         </Helmet>
 
-        {/* <div
+         <div
           style={{
             position: "fixed",
             top: 0,
@@ -24,7 +24,7 @@ class Events extends React.Component {
             width: "100%",
             height: "100%"
           }}
-        > */}
+        > 
           <Stars />
           <div
            className="stars-overlay"
@@ -33,7 +33,7 @@ class Events extends React.Component {
             <Route exact path="/events/:dept" component={EventList} />
             <Route exact path="/events/:dept/:slug" component={EventDetail} />
           </div>
-        {/* </div> */}
+        </div> 
       </div>
     );
   }
