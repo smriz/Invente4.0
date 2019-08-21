@@ -1,18 +1,23 @@
 import React from 'react'
 import '../res/hosp.css'
 import Sidebar from './sidebar'
+import Stars from './stars'
 import {Helmet} from 'react-helmet';
 class Hospitality extends React.Component{
 
     render(){
         return <div>
             <Sidebar/>
+            <Stars/>
+            <div className="stars-overlay">
             <div className="hosp">
         <Helmet>
           <title>Hospitality | Invente 4.0</title>
         </Helmet>
         <div align="center">
-            <h6 className="top">
+            <h6 >
+                <br/>
+                <br/>
             HOW TO REACH SSN?              
             </h6>
             {/* <h6>Events > {dept}</h6> */}
@@ -167,7 +172,7 @@ class Hospitality extends React.Component{
                     <br/>
             </table>
 
-            </div>
+            </div></div>
         </div>
     </div>
     </div>

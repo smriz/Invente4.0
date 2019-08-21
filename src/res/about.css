@@ -55,10 +55,10 @@
   width: 250px;
   height: 215px;
 }
-.aboutus image:hover {
+/* .aboutus image:hover {
   width: 255px;
   height: 225px;
-}
+} */
 
 .aboutus .container .text {
   line-height: 25px;

@@ -40,9 +40,8 @@ class Aboutus extends React.Component {
               <div className="caption row">
                             {" "}
                 {Object.keys(about).map(x => (
-                  <Link to={`/about-us/${x}`}>
-                                {" "}
-                    <div className="column1">
+                  // <Link to={`/about-us/${x}`}>
+<div>                    <div className="column1">
                     <svg>
                       <defs>
                         <clipPath id="circleView">
@@ -59,7 +58,7 @@ class Aboutus extends React.Component {
                     
                     <div className="name">{about[x].name}</div>
                     <div className="pos">{about[x].pos}</div>
-                         {" "}
+
                     </div>
                     <div className="column2">
                     <p className="text" style={{ width: "auto" }}>
@@ -69,8 +68,11 @@ class Aboutus extends React.Component {
                             </div>       
                     <br/>                         
                     <br/>                         
-                    <br/>                         
-                  </Link>
+                    <br/>   
+                    </div>
+                      
+                  // </Link>
+                  
                 ))}
               </div>
             </div>
