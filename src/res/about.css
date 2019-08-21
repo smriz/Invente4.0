@@ -18,7 +18,7 @@
 
 .aboutus .caption {
   display: inline-block;
-  width: 250px;
+  width: 100%;
   text-align: center;
   margin-top: 0;
   font-weight: bold;
@@ -28,7 +28,7 @@
 
 .aboutus .container {
   /* color: brown; */
-  justify-content: center;
+  /* justify-content: center; */
   position: relative;
   max-width: 79%;
   padding-left: 10px;
@@ -86,9 +86,28 @@
   font-size: 18px;
   line-height: 35px;
   width: 70%;
-  margin-left:auto;
-  margin-right:auto
+  margin-left: auto;
+  margin-right: auto;
 }
+
+.column1 {
+  float: left;
+  width: 30%;
+  height: 250px;
+}
+.column2 {
+  float: left;
+  height: 250px;
+  width: 70%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
 @media screen and (orientation: portrait) {
   .aboutus h6 {
     padding-top: 10%;
@@ -110,10 +129,10 @@
     margin-top: -30%;
   }
   .aboutus .textforhome {
-  line-height: 30px;
-    width:100% }
+    line-height: 30px;
+    width: 100%;
+  }
 }
-
 
 @media only screen and (max-width: 360px) {
   .aboutus h6 {
@@ -123,7 +142,25 @@
   .aboutus .textforhome {
     font-size: 14px;
     line-height: 20px;
-      width:100% 
+    width: 100%;
   }
-  
+}
+@media only screen and (max-width:1110px){
+  .column1 {
+  height: auto;
+  width: 100%;
+  }
+  .column2 {
+  height: auto;
+  width: 100%;
+  }
+}@media only screen and (orientation: portrait){
+  .column1 {
+  height: auto;
+  width: 100%;
+  }
+  .column2 {
+  height: auto;
+  width: 100%;
+  }
 }

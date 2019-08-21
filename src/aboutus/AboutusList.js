@@ -37,11 +37,12 @@ class Aboutus extends React.Component {
             data-aos-duration="1000"
           >
             <div className="container">
-              <div className="caption">
+              <div className="caption row">
                             {" "}
                 {Object.keys(about).map(x => (
                   <Link to={`/about-us/${x}`}>
                                 {" "}
+                    <div className="column1">
                     <svg>
                       <defs>
                         <clipPath id="circleView">
@@ -55,9 +56,20 @@ class Aboutus extends React.Component {
                         clip-path="url(#circleView)"
                       />
                     </svg>
+                    
                     <div className="name">{about[x].name}</div>
                     <div className="pos">{about[x].pos}</div>
-                                                                 
+                         {" "}
+                    </div>
+                    <div className="column2">
+                    <p className="text" style={{ width: "auto" }}>
+                      <br />
+                      {about[x].desc}
+                    </p>
+                            </div>       
+                    <br/>                         
+                    <br/>                         
+                    <br/>                         
                   </Link>
                 ))}
               </div>
