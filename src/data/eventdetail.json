@@ -1256,7 +1256,7 @@
       "prize": null,
       "intesnship": null,
       "registrationFee": null,
-      "eventHeads": [{ "name": "Annal A S", "contact": "" }],
+      "eventHeads": [{ "name": "Annal A S", "contact": "0000000000" }],
       "attachments": [],
       "rules": [],
       "isFlagship": false
@@ -3078,6 +3078,7 @@
       "attachments": [],
       "rules": [
         [
+<<<<<<< HEAD
           "Prior knowledge:",
           "Basic knowledge of electrical engineering is sufficient, no programming knowledge is required.",
           "Tools Provided (for the session):",
@@ -3094,6 +3095,24 @@
           "• Fee: Rs. 250/- per head.",
           "• Computer systems will be provided with software pre-installed.",
           "• Click this link to register: https://forms.gle/42oKm2Kk2RUtMBtB7"
+=======
+        "Prior knowledge:",
+        "Basic knowledge of electrical engineering is sufficient, no programming knowledge is required.",
+        "Tools Provided (for the session):",
+        "Reference Materials, PCB Fabrication Materials",
+        "Concepts:",
+        "Circuit Designing, Simulation, PCB Design Structure, Component Placement and Design, Testing, Board Analysis, Fabrication output generation.",
+        "Projects:-",
+        "Create a desired Printed circuit board structure Design, Testing and Analysis of Electronic circuit board ",
+        "Agenda:",
+        "Session 1- Computerized capture of electronic designs",
+        "Session 2- Introduction to PCB Layout",
+        "Session 3- Library creation",
+        "Important points:",
+        "• Fee: Rs. 250/- per head.",
+        "• Computer systems will be provided with software pre-installed.",
+        "• Click this link to register: https://forms.gle/42oKm2Kk2RUtMBtB7"
+>>>>>>> 8b8245ad510e6d40d60c27e8e359afa743f7e286
         ]
       ],
       "isFlagship": false
