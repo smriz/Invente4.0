@@ -57,12 +57,15 @@ class EventList extends React.Component {
                 <Link to={`/events/${dept}/${x}`} className="card-set-child">
                   <div align="center">
                     <div className="customdiv">
+                    {require("../images/events/"+dept+"_"+
+                            eventlist[dept][x] +
+                            ".svg") ?
                       <img
                         src={require("../images/events/"+dept+"_"+
                         eventlist[dept][x] +
                         ".svg")} 
                       // src={require("../images/Capsule.svg")}
-                       alt={x} />
+                       alt={x} /> : null}
                     </div>
                     <p
                       className="dept-name"
@@ -98,13 +101,15 @@ class EventList extends React.Component {
                   <Link to={`/events/${dept}/${x}`} className="card-set-child">
                     <div align="center">
                       <div className="customdiv">
+                       {require("../images/events/"+dept+"_"+
+                            eventlist[dept][x] +
+                            ".svg") ?
                         <img
                           src={require("../images/events/"+dept+"_"+
                             eventlist[dept][x] +
                             ".svg")}
-                          // src={require("../images/Capsule.svg")}
                           alt={x}
-                        />
+                        />: null }
                       </div>
                       <p className="dept-name" style={{ textAlign: "center" }}>
                         {eventlist[dept][x]}

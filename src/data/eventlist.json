@@ -20,8 +20,9 @@
     "data-analytics": "Data Analytics",
     "code-obfuscation": "Code Obfuscation",
     "paper-presentation": "Paper Presentation",
+    "data-analytics-workshop": "Data Analytics Workshop",
     "call-of-duty": "Call of Duty",
-    "nfs-most-wanted": "NFS - Most Wanted",
+    "smackdown": "SmackDown",
     "fifa": "FIFA"
   },
   "chem": {
@@ -72,19 +73,17 @@
     "junkyard-jumble": "Junkyard Jumble",
     "triwizard-tournament": "Triwizard Tournament",
     "trump_the_aces": "Trump the Aces",
-    "ai-4-good-hackathon": "AI 4 Good  - Hackathon"
+    "hack-hackathon": "Hackinfinity"
   },
   "bme": {
     "biogonize": "Biogonize",
-    "scintelligence-3.0": "Scintelligence 3.0",
+    "scintelligence": "Scintelligence",
+    "biomart": "BIOMART",
     "paper-presentation": "Paper Presentation",
-    "matalino": "Matalino",
-    "demaxxon": "Demaxxon",
-    "hospital-hustle": "Biomart",
-    "sapiens-washout": "Sapiens Washout",
-    "misterioso": "Misterioso",
-    "pubg-mobile-tournament": "PUBG Mobile Tournament",
-    "augmented-reality-and-virtual-reality": "Augmented Reality and Virtual Reality"
+    "game-over": "GAME OVER",
+    "gizmo-wizard": "Gizmo Wizard",
+    "multiverse": "MULTIVERSE",
+    "WORKSHOP ON PCB DESIGNING USING ALTIUM DESIGNER": "WORKSHOP ON PCB DESIGNING USING ALTIUM DESIGNER"
   },
   "civil": {
     "word-rush": "Word Rush",
@@ -93,7 +92,8 @@
     "arCADe": "Arcade",
     "clash-of-claims": "Clash of Claims",
     "paper-presentation": "Paper Presentation",
-    "qureka": "Qureka",
+    "qureka": "qureka",
+   
     "quote-or-quit": "Quote r Quit",
     "gully-cricket": "The Gully Cricket",
     "soltiare": "Solve-IT-Aire",

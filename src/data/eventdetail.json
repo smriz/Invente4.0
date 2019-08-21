@@ -18,14 +18,8 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "K Sundar Rajan",
-          "contact": "9500141644"
-        },
-        {
-          "name": "A Vishal",
-          "contact": "8754589030"
-        }
+        { "name": "K Sundar Rajan", "contact": "9500141644" },
+        { "name": "A Vishal", "contact": "8754589030" }
       ],
       "attachments": [],
       "rules": [
@@ -38,7 +32,8 @@
     },
     "code-relay": {
       "last_updated": "14/8/2019 12:20:05",
-      "isTechnical": true,
+      "isTechnical":true,
+      "isFlagship": false,
       "eventtype": "Technical",
       "dept": "cse",
       "slug": "code-relay",
@@ -53,18 +48,9 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Eshwar Krishnan S",
-          "contact": "9962022236"
-        },
-        {
-          "name": "Antony Mevin",
-          "contact": "8754835574"
-        },
-        {
-          "name": "Kevin Shelton",
-          "contact": "8056103882"
-        }
+        { "name": "Eshwar Krishnan S", "contact": "9962022236" },
+        { "name": "Antony Mevin", "contact": "8754835574" },
+        { "name": "Kevin Shelton", "contact": "8056103882" }
       ],
       "attachments": [],
       "rules": [
@@ -81,6 +67,7 @@
       "last_updated": "14/8/2019",
       "isTechnical": true,
       "eventtype": "Technical",
+      "isFlagship": false,
       "dept": "cse",
       "slug": "code-inverse",
       "venue": "CSE Department",
@@ -94,14 +81,8 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Rakesh M",
-          "contact": "7358095505"
-        },
-        {
-          "name": "Vivek Y",
-          "contact": "9791180697"
-        }
+        { "name": "Rakesh M", "contact": "7358095505" },
+        { "name": "Vivek Y", "contact": "9791180697" }
       ],
       "attachments": [],
       "rules": [
@@ -115,12 +96,13 @@
       "last_updated": "14/8/2019",
       "isTechnical": true,
       "eventtype": "Technical",
+      "isFlagship": false,
       "dept": "cse",
       "slug": "u-n-i",
       "venue": "CSE Department",
       "timing": "Sept 6, 2019\n10 AM",
       "displayName": "U 'n' I",
-      "description": "Are you passionate about UI designing? Do you love bringing your designs to life? Then U ‘n’ I is ready to challenge your creativity! This event is one of a kind and all you need to win is the love to think, design and create. Well, what are you waiting for, get, set, design!",
+      "description": "Are you passionate about UI designing? Do you love bringing your designs to life? Then U \u2018n\u2019 I is ready to challenge your creativity! This event is one of a kind and all you need to win is the love to think, design and create. Well, what are you waiting for, get, set, design!",
       "tagline": "Get, set, design!",
       "eventname": "U 'n' I",
       "notes": "",
@@ -128,26 +110,20 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Dharani",
-          "contact": "9952030149"
-        },
-        {
-          "name": "Janani",
-          "contact": "7598654711"
-        }
+        { "name": "Dharani", "contact": "9952030149" },
+        { "name": "Janani", "contact": "7598654711" }
       ],
       "attachments": [],
       "rules": [
         [
           "A number of exciting and creative app scenarios will be presented from which participants can choose one.",
           "For the app scenario of their choice, participants should design the UI of the \nfollowing two pages :",
-          "\t● Home page of the app [Mandatory]",
-          "\t ● Any other page that brings out a feature of the app [Example.: Chat page,",
+          "\t\u25cf Home page of the app [Mandatory]",
+          "\t \u25cf Any other page that brings out a feature of the app [Example.: Chat page,",
           "Newsfeed, Profile page, etc]",
           "Participants can use only the following software for design:",
-          "\t● Adobe Illustrator",
-          "\t● Adobe Photoshop",
+          "\t\u25cf Adobe Illustrator",
+          "\t\u25cf Adobe Photoshop",
           "Computers with the above mentioned software will be provided at the venue."
         ]
       ]
@@ -156,12 +132,13 @@
       "last_updated": "14/8/2019",
       "isTechnical": false,
       "eventtype": "Non-Technical",
+      "isFlagship": false,
       "dept": "cse",
       "slug": "quiz",
       "venue": "CSE Department",
       "timing": "Sept 6, 2019\n10 AM",
       "displayName": "Quiz",
-      "description": "Get your minds whirring and your pounce sheets ready, and gear up for the third annual Inventé CSE quiz! Do you think you have what it takes to answer challenging questions about the past, present and future of computer science?",
+      "description": "Get your minds whirring and your pounce sheets ready, and gear up for the third annual Invent\u00e9 CSE quiz! Do you think you have what it takes to answer challenging questions about the past, present and future of computer science?",
       "tagline": null,
       "eventname": "Quiz",
       "notes": "",
@@ -169,14 +146,8 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Tejas Sivan",
-          "contact": "9884189899"
-        },
-        {
-          "name": "Santhosh ",
-          "contact": null
-        }
+        { "name": "Tejas Sivan", "contact": "9884189899" },
+        { "name": "Santhosh ", "contact": null }
       ],
       "attachments": [],
       "rules": [
@@ -190,6 +161,7 @@
       "last_updated": "14/8/2019 12:55:39",
       "isTechnical": true,
       "eventtype": "Technical",
+      "isFlagship": false,
       "dept": "cse",
       "slug": "yesqueueluck",
       "venue": "CSE Department",
@@ -203,18 +175,9 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Rizwan",
-          "contact": "9444943440"
-        },
-        {
-          "name": "Chandramouli",
-          "contact": "9566208519"
-        },
-        {
-          "name": "Dinesh V B",
-          "contact": "8939136596"
-        }
+        { "name": "Rizwan", "contact": "9444943440" },
+        { "name": "Chandramouli", "contact": "9566208519" },
+        { "name": "Dinesh V B", "contact": "8939136596" }
       ],
       "attachments": [],
       "rules": [
@@ -241,51 +204,43 @@
       "description": "Be still when you have nothing to say;when genuine passion moves you,say what you have got to say and say it HOT \n- D.H.Lawrence\n Take an advantage of presenting your paper/research on site to a panel of fellow researchers and academicians in the field of education and research.",
       "tagline": "A paper has the title , A presenter has the people.",
       "eventname": "Paper Presentation",
-      "notes": "If you have other ideas that fit into the prominent domains of COMPUTER SCIENCE,don’t hesitate to send in your entries as well.",
+      "notes": "If you have other ideas that fit into the prominent domains of COMPUTER SCIENCE,don\u2019t hesitate to send in your entries as well.",
       "prize": "SumOfWinnings(1,2,3) = 7.5K",
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Mourina M",
-          "contact": "7358606288"
-        },
-        {
-          "name": "Keerthana K S",
-          "contact": "9176638547"
-        },
-        {
-          "name": "Keerthana R",
-          "contact": "9043197080"
-        }
+        { "name": "Mourina M", "contact": "7358606288" },
+        { "name": "Keerthana K S", "contact": "9176638547" },
+        { "name": "Keerthana R", "contact": "9043197080" }
       ],
       "attachments": [],
       "rules": [
         [
           "TOPICS:",
-          "\t● Internet of Things and Machine Learning",
-          "\t● Blue Eye Technology",
-          "\t● Cyber Crime and Security",
-          "\t● Artificial Intelligence",
-          "\t● Block Chain Technology",
-          "\t● Augmented and Virtual Reality"
+          "\t\u25cf Internet of Things and Machine Learning",
+          "\t\u25cf Blue Eye Technology",
+          "\t\u25cf Cyber Crime and Security",
+          "\t\u25cf Artificial Intelligence",
+          "\t\u25cf Block Chain Technology",
+          "\t\u25cf Augmented and Virtual Reality"
         ],
         [
           "The received entries from participants will be evaluated based on the following criterias.",
-          "\t● Innovation ",
-          "\t● Scope of the paper",
-          "\t● Plagiarism",
-          "\t● Format of the paper",
+          "\t\u25cf Innovation ",
+          "\t\u25cf Scope of the paper",
+          "\t\u25cf Plagiarism",
+          "\t\u25cf Format of the paper",
           "Those who are shortlisted will receive an email from the organising team by September 1,2019."
         ],
         [
           "The shortlisted participants will be entitled to attend the Innovative Mind event to be held on September 13,2019(tentatively).They must carry the following:",
-          "\t●  Identity Card of each participant in a team",
-          "\t●  Hardcopies of their paper – 2nos",
-          "\t●  Powerpoint of their presentation",
+          "\t\u25cf  Identity Card of each participant in a team",
+          "\t\u25cf  Hardcopies of their paper \u2013 2nos",
+          "\t\u25cf  Powerpoint of their presentation",
           "Each team will be judged by a panel of experienced academicians and researchers.The decision of the panel is final."
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "techathlon": {
       "last_updated": "9/10/2018 21:19:20",
@@ -296,7 +251,7 @@
       "venue": "CSE Department",
       "timing": "Sept 7, 2019\n10 AM",
       "displayName": "Techathlon",
-      "description": "It’s that time of the year, to have some fun with technical skills. Automata, Networks, OS and 5 other domains where you can get your hands dirty. Lets Techathlon.",
+      "description": "It\u2019s that time of the year, to have some fun with technical skills. Automata, Networks, OS and 5 other domains where you can get your hands dirty. Lets Techathlon.",
       "tagline": "Run Codes, Not Races",
       "eventname": "Techathlon",
       "notes": "",
@@ -304,14 +259,8 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Geetika B",
-          "contact": "9791164858"
-        },
-        {
-          "name": "Edison M",
-          "contact": "8124790193"
-        }
+        { "name": "Geetika B", "contact": "9791164858" },
+        { "name": "Edison M", "contact": "8124790193" }
       ],
       "attachments": [],
       "rules": [
@@ -321,7 +270,8 @@
         [
           "Qualified Teams must choose one set from the available three. Each set will have two coding question from 2 different domains."
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "hackers-asylum": {
       "last_updated": "9/10/2018 21:19:20",
@@ -332,7 +282,7 @@
       "venue": "CSE Department",
       "timing": "Sept 7, 2019\n10 AM",
       "displayName": "Hacker's Asylum",
-      "description": "People in a group of two can team-up together and participate in this event. You don’t need to have any prior knowledge in cyber security or CTFs to participate. Come with an open mind to learn and explore.",
+      "description": "People in a group of two can team-up together and participate in this event. You don\u2019t need to have any prior knowledge in cyber security or CTFs to participate. Come with an open mind to learn and explore.",
       "tagline": "Run Codes, Not Races",
       "eventname": "Hacker's Asylum",
       "notes": "",
@@ -340,14 +290,8 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Tarun ganesh K",
-          "contact": "8056285357"
-        },
-        {
-          "name": "Omprakash R",
-          "contact": "9551788692"
-        }
+        { "name": "Tarun ganesh K", "contact": "8056285357" },
+        { "name": "Omprakash R", "contact": "9551788692" }
       ],
       "attachments": [],
       "rules": [
@@ -357,7 +301,8 @@
         [
           "This is going to be a Capture the Flag (CTF) challenge, in which all the teams will be given with a multi stage digital puzzle to solve. Each team will be assigned with 2 systems, one with internet connection can use it to refer any online resource to solve our challenge."
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "meme-time": {
       "last_updated": "9/10/2018 21:19:20",
@@ -368,7 +313,7 @@
       "venue": "CSE Department",
       "timing": "Sept 7, 2019\n10 AM",
       "displayName": "Meme Time",
-      "description": "People in a group of two can team-up together and participate in this event. You don’t need to have any prior knowledge in cyber security or CTFs to participate. Come with an open mind to learn and explore.",
+      "description": "People in a group of two can team-up together and participate in this event. You don\u2019t need to have any prior knowledge in cyber security or CTFs to participate. Come with an open mind to learn and explore.",
       "tagline": "Meme with the theme",
       "eventname": "Meme Time",
       "notes": "",
@@ -376,18 +321,9 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Nishanthi K",
-          "contact": "9952155570"
-        },
-        {
-          "name": "Swetha K",
-          "contact": "8870597714"
-        },
-        {
-          "name": "Yamini L",
-          "contact": "9445184876"
-        }
+        { "name": "Nishanthi K", "contact": "9952155570" },
+        { "name": "Swetha K", "contact": "8870597714" },
+        { "name": "Yamini L", "contact": "9445184876" }
       ],
       "attachments": [],
       "rules": [
@@ -397,7 +333,8 @@
         [
           "This is going to be a Capture the Flag (CTF) challenge, in which all the teams will be given with a multi stage digital puzzle to solve. Each team will be assigned with 2 systems, one with internet connection can use it to refer any online resource to solve our challenge."
         ]
-      ]
+      ],
+      "isFlagship": false
     }
   },
   "it": {
@@ -409,7 +346,7 @@
       "venue": "It dept",
       "timing": "September 6th,10 AM",
       "displayName": "Paper Presentation",
-      "description": "'Everything begins With an Idea' – Earl Nightengale.Are you a group of budding innovators who come up with creative ideas but not provided with a platform to showcase your ideas ?Join us in presenting your ideas at Paper Presentation and getting your ideas recognized which paves way for creating a better tomorrow.",
+      "description": "'Everything begins With an Idea' \u2013 Earl Nightengale.Are you a group of budding innovators who come up with creative ideas but not provided with a platform to showcase your ideas ?Join us in presenting your ideas at Paper Presentation and getting your ideas recognized which paves way for creating a better tomorrow.",
       "tagline": null,
       "eventname": "Paper Presentation",
       "notes": "",
@@ -417,14 +354,8 @@
       "intesnship": "null",
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Ishwarya R",
-          "contact": "9176631098"
-        },
-        {
-          "name": "Aishwarya V",
-          "contact": "9840613892"
-        }
+        { "name": "Ishwarya R", "contact": "9176631098" },
+        { "name": "Aishwarya V", "contact": "9840613892" }
       ],
       "attachments": [],
       "rules": [
@@ -432,9 +363,10 @@
           "1. Paper must be original and there must be atleast one person to present the paper.",
           "2. Each team should comprise of atmost 3 people and will get time of 10-12 minutes to present the paper and answer the judges questions.",
           "3. The selection criteria will be decided by the judges and the winners will be announced depending upon the consensus of the jury members.",
-          "Last date for submission – 26 th August 2019"
+          "Last date for submission \u2013 26 th August 2019"
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "androider": {
       "isTechnical": true,
@@ -452,14 +384,8 @@
       "intesnship": "TournamentOS(Top 3)",
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Harini M",
-          "contact": "8778854659"
-        },
-        {
-          "name": "Akash B A",
-          "contact": "9443427107"
-        }
+        { "name": "Harini M", "contact": "8778854659" },
+        { "name": "Akash B A", "contact": "9443427107" }
       ],
       "attachments": [],
       "rules": [
@@ -471,17 +397,18 @@
         ],
         [
           "Round 1: Prelims",
-          "▪ Pen and paper test",
-          "▪ Duration - 30 minutes maximum",
-          "▪ 20 MCQs with negative marking related to Android Application Development",
-          "▪ Bonus question to break ties"
+          "\u25aa Pen and paper test",
+          "\u25aa Duration - 30 minutes maximum",
+          "\u25aa 20 MCQs with negative marking related to Android Application Development",
+          "\u25aa Bonus question to break ties"
         ],
         [
           "Round 2: Finals",
-          "▪ Duration - 2 hours",
-          "▪ Problem statement will be given on the spot, and the teams must develop a suitable app, using Android Studio Judging will be based on UI/UX , efficiency, features and innovation."
+          "\u25aa Duration - 2 hours",
+          "\u25aa Problem statement will be given on the spot, and the teams must develop a suitable app, using Android Studio Judging will be based on UI/UX , efficiency, features and innovation."
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "cryptit": {
       "isTechnical": true,
@@ -499,23 +426,17 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Sasikiran",
-          "contact": "9677298294"
-        },
-        {
-          "name": "Anirudh",
-          "contact": "9003295585"
-        }
+        { "name": "Sasikiran", "contact": "9677298294" },
+        { "name": "Anirudh", "contact": "9003295585" }
       ],
       "attachments": [],
       "rules": [
         [
-          "● Round 1:",
+          "\u25cf Round 1:",
           "Each individual will be given a set of questions with given directions for the respective question. Both correctness and time taken will be considered as a criteria for going to second round."
         ],
         [
-          "● Round 2:",
+          "\u25cf Round 2:",
           "Find the relation between the text and the encrypted text and write a proper code for the same in the stipulated"
         ],
         [
@@ -524,12 +445,13 @@
           "2. First round is pen and paper test. Second round will conducted on PC.",
           "3. 10-15 members will be selected for the next round."
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "web-development": {
       "isTechnical": true,
       "eventtype": "Technical",
-      "isFlagship":true,
+      "isFlagship": false,
       "dept": "it",
       "slug": "web-development",
       "venue": "Alan Turing Lab",
@@ -543,14 +465,8 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Gowtham K",
-          "contact": "9976172929"
-        },
-        {
-          "name": "Sasidharan SD",
-          "contact": "9994043772"
-        }
+        { "name": "Gowtham K", "contact": "9976172929" },
+        { "name": "Sasidharan SD", "contact": "9994043772" }
       ],
       "attachments": [],
       "rules": [
@@ -564,11 +480,11 @@
         ],
         [
           "Round 1:",
-          "● Paper Pen Round consisting of 20 MCQs and 5 Subjective Questions about Web Technologies. Each team be given 1 hour for the same."
+          "\u25cf Paper Pen Round consisting of 20 MCQs and 5 Subjective Questions about Web Technologies. Each team be given 1 hour for the same."
         ],
         [
           "Round 2:",
-          "● Top 5 teams will be selected for Development round which demands a web app where each team should choose 1 topic of the three given topics on spot. 3 hours will be given to each team and 10 mins to explain their product."
+          "\u25cf Top 5 teams will be selected for Development round which demands a web app where each team should choose 1 topic of the three given topics on spot. 3 hours will be given to each team and 10 mins to explain their product."
         ]
       ]
     },
@@ -588,31 +504,26 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Preethi S",
-          "contact": " 8220563575"
-        },
-        {
-          "name": "Ramya L",
-          "contact": "9884512499"
-        }
+        { "name": "Preethi S", "contact": " 8220563575" },
+        { "name": "Ramya L", "contact": "9884512499" }
       ],
       "attachments": [],
       "rules": [
-        ["Rules:", "● Maximum of 2 members in a team"],
+        ["Rules:", "\u25cf Maximum of 2 members in a team"],
         [
           "Round 1:",
           "Preliminary round:",
-          "● 40 minutes Pen and Paper Round.",
-          "● 5 code Deobfuscation questions + Reverse Coding MCQs.",
-          "● Top 10 teams qualify for the final round."
+          "\u25cf 40 minutes Pen and Paper Round.",
+          "\u25cf 5 code Deobfuscation questions + Reverse Coding MCQs.",
+          "\u25cf Top 10 teams qualify for the final round."
         ],
         [
           "Round 2:",
           "Final Round:",
-          "● Code Obfuscation + 1 Reverse Coding Task for each team"
+          "\u25cf Code Obfuscation + 1 Reverse Coding Task for each team"
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "data-analytics": {
       "isTechnical": true,
@@ -630,14 +541,8 @@
       "intesnship": "SPI Cinemas",
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Richikesh",
-          "contact": "9840377927"
-        },
-        {
-          "name": "Skandh",
-          "contact": "7550052755"
-        }
+        { "name": "Richikesh", "contact": "9840377927" },
+        { "name": "Skandh", "contact": "7550052755" }
       ],
       "attachments": [],
       "rules": [
@@ -655,7 +560,8 @@
           "Round 2 (Hulk Smash Of Data):",
           "A dataset will be provided to the participants and they are required to perform a basic analysis of the data. The final output should be close to the expected result."
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "mock-recruitment": {
       "isTechnical": true,
@@ -673,14 +579,8 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Nivedhaa",
-          "contact": "8344090383"
-        },
-        {
-          "name": "Sridevi M",
-          "contact": "8220543448"
-        }
+        { "name": "Nivedhaa", "contact": "8344090383" },
+        { "name": "Sridevi M", "contact": "8220543448" }
       ],
       "attachments": [],
       "rules": [
@@ -696,7 +596,8 @@
         ],
         ["Round 2:", "Comprises of one coding question."],
         ["Round 3:", "Technical interview for the short listed candidates."]
-      ]
+      ],
+      "isFlagship": false
     },
     "data-structures": {
       "isTechnical": true,
@@ -714,63 +615,154 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Padmapriya M",
-          "contact": "8015006638"
-        },
-        {
-          "name": "Kalaimathi A",
-          "contact": "7538842677"
-        }
+        { "name": "Padmapriya M", "contact": "8015006638" },
+        { "name": "Kalaimathi A", "contact": "7538842677" }
       ],
       "attachments": [],
       "rules": [
         [
           "Round 1:",
-          "● Pen and paper MCQ round(Programming logic)",
-          "● 30 MCQs in 30 mins."
+          "\u25cf Pen and paper MCQ round(Programming logic)",
+          "\u25cf 30 MCQs in 30 mins."
         ],
         [
           "Round 2:Finals",
-          "● Data structures and algorithm contest in an online Judge(Hacker Rank)",
-          "● 90 minutes round with 3 programming questions."
+          "\u25cf Data structures and algorithm contest in an online Judge(Hacker Rank)",
+          "\u25cf 90 minutes round with 3 programming questions."
         ],
         [
           "Rules:",
-          "● Maximum of 2 members in a team.",
-          "● No tab switching is allowed.",
-          "● Use of electronic gadgets such as mobile phones, tablets, pendrives,etc…are not allowed."
+          "\u25cf Maximum of 2 members in a team.",
+          "\u25cf No tab switching is allowed.",
+          "\u25cf Use of electronic gadgets such as mobile phones, tablets, pendrives,etc\u2026are not allowed."
         ]
-      ]
+      ],
+      "isFlagship": true
     },
-    "data-analytics": {
+    "data-analytics-workshop": {
       "last_updated": "8/20/2019 10:00:00",
       "isTechnical": false,
       "eventtype": "Workshop",
       "dept": "it",
-      "slug": "data-analytics",
+      "slug": "data-analytics-workshop",
       "venue": "IT Block",
       "timing": null,
-      "displayName": "Data Analytics",
-      "description": "It's almost 2020! Yes, we still aren't in the stone age to travel in petrol and diesel engine driven vehicles...the time has come to step up to build a sustainable and renewable future for the forthcoming generations. And the next big thing which is happening in and around us is the “Electric Revolution in the Automobile sector”. Yes.... An electric revolution in the automobile sector. Interested? Want to know about it? Here is the best platform to enlighten your minds. Presenting you ​Toyota Kirloskar Motors – the automobile giants who are fast accelerating in the market of Hybrid Vehicles and E- Vehicles. Toyota in association with ​Invente 4.0 is staging a talk on the technological advancements and the technical and industrial aspects required for the field of E-Vehicles and Hybrid Vehicles​ here in SSN College of Engineering. Grab your seats, as this is one opportunity where you can directly come across the Giants in person. Get ready to explore the infinity, be there at the ​Justice Pratap Singh Auditorium​ in ​SSN College of Engineering​. On spot registrations are also available.",
+      "displayName": "Data Analytics Workshop",
+      "description": "It's almost 2020! Yes, we still aren't in the stone age to travel in petrol and diesel engine driven vehicles...the time has come to step up to build a sustainable and renewable future for the forthcoming generations. And the next big thing which is happening in and around us is the \u201cElectric Revolution in the Automobile sector\u201d. Yes.... An electric revolution in the automobile sector. Interested? Want to know about it? Here is the best platform to enlighten your minds. Presenting you \u200bToyota Kirloskar Motors \u2013 the automobile giants who are fast accelerating in the market of Hybrid Vehicles and E- Vehicles. Toyota in association with \u200bInvente 4.0 is staging a talk on the technological advancements and the technical and industrial aspects required for the field of E-Vehicles and Hybrid Vehicles\u200b here in SSN College of Engineering. Grab your seats, as this is one opportunity where you can directly come across the Giants in person. Get ready to explore the infinity, be there at the \u200bJustice Pratap Singh Auditorium\u200b in \u200bSSN College of Engineering\u200b. On spot registrations are also available.",
       "tagline": "",
-      "eventname": "Data Analytics",
+      "eventname": "Data Analytics Workshop",
       "notes": "",
       "prize": null,
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "ARSHAD MOHAMED M.A",
-          "contact": "9944479416"
-        },
-        {
-          "name": "DINESH RAM KUMAR M",
-          "contact": "9629470915"
-        }
+        { "name": "ARSHAD MOHAMED M.A", "contact": "9944479416" },
+        { "name": "DINESH RAM KUMAR M", "contact": "9629470915" }
       ],
       "attachments": [],
-      "rules": []
+      "rules": [],
+      "isFlagship": false
+    },
+    "call-of-duty": {
+      "isTechnical": false,
+      "eventtype": "Non-Technical",
+      "dept": "it",
+      "slug": "call-of-duty",
+      "venue": "Von Neumann Lab - IT Department",
+      "timing": "6th and 7th September",
+      "displayName": "Call of Duty",
+      "description": "A technical event testing the Call of Duty knowledge of participants.",
+      "tagline": null,
+      "eventname": "Call of Duty",
+      "notes": "",
+      "prize": null,
+      "intesnship": null,
+      "registrationFee": "Registration Fee: Rs.200 per team",
+      "eventHeads": [],
+      "attachments": [],
+      "rules": [
+        [
+          "\u25cf The first match will be a team deathmatch between two teams and the timing will be 10 minutes.",
+          "\u25cf The teams will be filtered according to the highest point basis i.e., the 4 teams which scored the highest score in deathmatch will move forward for the next round."
+        ],
+        [
+          "\u25cf The 4 teams will clash with any other team in a sabotage match for 2 points i.e., the team which scores 2 points in the sabotage match wins (the timing will be 10 minutes)"
+        ],
+        [
+          "This is the final round.",
+          "\u25cf The final round will also be a sabotage match with 10 min timing and the first team which scores 2 points win."
+        ],
+        [
+          "Rules:",
+          "\u25cf Each team should contain 4 members",
+          "\u25cf The match will contain three rounds."
+        ]
+      ],
+      "isFlagship": false
+    },
+    "fifa": {
+      "isTechnical": false,
+      "eventtype": "Non-Technical",
+      "dept": "it",
+      "slug": "fifa",
+      "venue": "OS Lab - IT Department",
+      "timing": "6th and 7th September",
+      "displayName": "FIFA 19",
+      "description": "Organizers reserve the right to modify the rules at any time.",
+      "tagline": null,
+      "eventname": "FIFA 19",
+      "notes": "",
+      "prize": null,
+      "intesnship": null,
+      "registrationFee": "Rs.60 per head",
+      "eventHeads": [
+        { "name": "Darshan Kumar R", "contact": "9791815679" },
+        { "name": "Lakshman R", "contact": "9551567920" }
+      ],
+      "attachments": [],
+      "rules": [
+        [
+          "Keyboards will be available. Players are strongly advised to bring their own joysticks.",
+          "• Only Default gameplay settings are allowed.",
+          "• Only tactical defending is allowed."
+        ],
+        [
+          "• A player will clash with any other available random player (not with the computer).",
+          "• Halftime duration - 4 minutes.",
+          "• Each round will be based on a knockout basis."
+        ]
+      ],
+      "isFlagship": false
+    },
+    "smackdown": {
+      "isTechnical": false,
+      "eventtype": "Non-Technical",
+      "dept": "it",
+      "slug": "smackdown",
+      "venue": " LH30 - IT Department",
+      "timing": "6th and 7th September",
+      "displayName": "SmackDown",
+      "description": "Organizers reserve the right to modify the rules at any time. There may be one or more rounds in between round 1 and final round.Players are strongly advised to bring their own PS2 joysticks.",
+      "tagline": null,
+      "eventname": "SmackDown",
+      "notes": "",
+      "prize": null,
+      "intesnship": null,
+      "registrationFee": "Rs.60 per head",
+      "eventHeads": [
+        { "name": "Darshan Kumar R", "contact": "9791815679" },
+        { "name": "Lakshman R", "contact": "9551567920" }
+      ],
+      "attachments": [],
+      "rules": [
+        [
+          "Each player will be put in the ring alongside 5-7 players and the top two will qualify to the next round."
+        ],
+        [
+          "Qualified players from round 1 will clash against each other and the winner will be decided."
+        ]
+      ],
+      "isFlagship": false
     }
   },
   "civil": {
@@ -791,18 +783,9 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "V.HEMANTH",
-          "contact": "7358686965"
-        },
-        {
-          "name": "A.KRISHNA KHUMAAR",
-          "contact": "8122912216"
-        },
-        {
-          "name": "K.UDHAYA PRABHU",
-          "contact": "7448313886"
-        }
+        { "name": "V.HEMANTH", "contact": "7358686965" },
+        { "name": "A.KRISHNA KHUMAAR", "contact": "8122912216" },
+        { "name": "K.UDHAYA PRABHU", "contact": "7448313886" }
       ],
       "attachments": [],
       "rules": [
@@ -811,7 +794,8 @@
           "2. Two teams will face off with each team playing 5 overs.",
           "3. Winner of the team will get the prize money as well as their registration fee back."
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "quote-or-quit": {
       "last_updated": "8/29/2018 16:41:00",
@@ -830,27 +814,22 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Balasubramaniam A ",
-          "contact": "8939677884"
-        },
-        {
-          "name": "Deveshwar K",
-          "contact": "9789066119"
-        }
+        { "name": "Balasubramaniam A ", "contact": "8939677884" },
+        { "name": "Deveshwar K", "contact": "9789066119" }
       ],
       "attachments": [],
       "rules": [
         [
-          "•\tFirst round is prelims which consists of 15 questions(10 fill in the blanks and 5 MCQ’s)",
-          "•\tWinners will move to the 2nd round (Around 3 - 5 teams)"
+          "\u2022\tFirst round is prelims which consists of 15 questions(10 fill in the blanks and 5 MCQ\u2019s)",
+          "\u2022\tWinners will move to the 2nd round (Around 3 - 5 teams)"
         ],
         [
-          "•\tPlan of the building will be given for estimation. ",
-          "•\tThe first team to finish with closest estimate will be the winner",
-          "•\tWinning team will be awarded with prizes"
+          "\u2022\tPlan of the building will be given for estimation. ",
+          "\u2022\tThe first team to finish with closest estimate will be the winner",
+          "\u2022\tWinning team will be awarded with prizes"
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "arCADe": {
       "last_updated": "9/10/2018 10:30:46",
@@ -869,23 +848,17 @@
       "intesnship": "No",
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Aaditya Jagadeesh",
-          "contact": "9840323164"
-        },
-        {
-          "name": "Aparna Vijay",
-          "contact": "7538806408"
-        }
+        { "name": "Aaditya Jagadeesh", "contact": "9840323164" },
+        { "name": "Aparna Vijay", "contact": "7538806408" }
       ],
       "attachments": [],
       "rules": [
         [
-          "• A maximum of two people are allowed in a team.",
-          "• Students must bring their college ID-Cards.",
-          "• Electronic devices are strictly prohibited inside the venue.",
-          "• Paper for rough work shall be provided.",
-          "• Decision of the judges will be final."
+          "\u2022 A maximum of two people are allowed in a team.",
+          "\u2022 Students must bring their college ID-Cards.",
+          "\u2022 Electronic devices are strictly prohibited inside the venue.",
+          "\u2022 Paper for rough work shall be provided.",
+          "\u2022 Decision of the judges will be final."
         ],
         [
           "A total of two rounds will be conducted. In the first round, Participants will be required to replicate a given CAD drawing within the time limit. Qualified participants of the first round will be able to compete in the next round."
@@ -893,7 +866,8 @@
         [
           "In this round, problem statement containing specifications and restrictions will be given to the participants. An independent design in accordance with the given conditions will be required of the participants."
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "call-of-builders": {
       "last_updated": "9/10/2018 10:24:50",
@@ -904,7 +878,7 @@
       "venue": "Department of Civil Engineering",
       "timing": "14th september 2019 10 AM",
       "displayName": "Call of Builders",
-      "description": "Engineering is the art of modelling materials that have never been made and creating things that has never been thought of in the first place.It’s time for the engineer within you to venture out in the numerous possibilities this field offers!  INVENTE 4.0 offers you a platform to express  your creative thinking , so come & join us at ‘CALL OF BUILDERS’, department of Civil Engineering, SSNCE.",
+      "description": "Engineering is the art of modelling materials that have never been made and creating things that has never been thought of in the first place.It\u2019s time for the engineer within you to venture out in the numerous possibilities this field offers!  INVENTE 4.0 offers you a platform to express  your creative thinking , so come & join us at \u2018CALL OF BUILDERS\u2019, department of Civil Engineering, SSNCE.",
       "tagline": "practical knowledge seems to be more valuable than theoretical knowledge.",
       "eventname": "Call of Builders",
       "notes": "Registration Link",
@@ -912,24 +886,15 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Sruthi Reddy",
-          "contact": "7871102749"
-        },
-        {
-          "name": "HNSP Swetha",
-          "contact": "9176708880"
-        },
-        {
-          "name": "Sudhakar V",
-          "contact": "8015355995"
-        }
+        { "name": "Sruthi Reddy", "contact": "7871102749" },
+        { "name": "HNSP Swetha", "contact": "9176708880" },
+        { "name": "Sudhakar V", "contact": "8015355995" }
       ],
       "attachments": [],
       "rules": [
         [
           "1. The event consists of two rounds:  a) Questionnaire round  b) Final round",
-          "2. Only two participants are allowed in a team.",
+          "2. Only\u00a0two participants\u00a0are allowed in a team.",
           "3. The Questionnaire serves as the preliminary round. Participants will be tested on their knowledge of basic civil engineering. The test comprises multiple choice questions.",
           "4. Based on their scores 15 teams will be selected for the finals.",
           "5. In the finals, teams will be making models of given specifications.",
@@ -938,12 +903,13 @@
           "8. The models will be tested for loading capacity."
         ],
         [
-          "This is a questionnaire round. Questions related to basic civil engineering will be asked. The question type is multiple choice questions."
+          "This is a questionnaire round.\u00a0Questions related to basic civil engineering will be asked. The question type is multiple choice questions."
         ],
         [
           "In round 2, a model of given specifications should be made. Any model deviating from the specified requirements will be eliminated. All the materials required for the event will be provided by us. The structure should be made within the given materials as no extra materials will be provided. The structure will be tested for loading capacity. The structure which holds more load will be declared as winner."
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "clash-of-claims": {
       "last_updated": "9/13/2018 21:34:06",
@@ -962,25 +928,16 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "J. Gokul Krishna",
-          "contact": "984094897"
-        },
-        {
-          "name": "T S Raghu Nandan ",
-          "contact": "8939566346"
-        },
-        {
-          "name": "K.Sai Likitha Krishna",
-          "contact": "7339376767"
-        }
+        { "name": "J. Gokul Krishna", "contact": "984094897" },
+        { "name": "T S Raghu Nandan ", "contact": "8939566346" },
+        { "name": "K.Sai Likitha Krishna", "contact": "7339376767" }
       ],
       "attachments": [],
       "rules": [
         [
-          "• Event Type: Both On-spot and Online.",
-          "• Maximum no of persons per team: Two.",
-          "• Cross College teams (except SSN Students teams) are allowed."
+          "\u2022 Event Type: Both On-spot and Online.",
+          "\u2022 Maximum no of persons per team: Two.",
+          "\u2022 Cross College teams (except SSN Students teams) are allowed."
         ],
         [
           "First for affirmative Speaker:  3 minutes (2 minutes protected time + 1 minute open to questioning)",
@@ -993,7 +950,8 @@
           "* Debate topics will be disclosed 30 minutes before the start of the event to the participant teams registering on-spot.",
           "* Debate topics will be disclosed 1 day before the start of the event to the participant teams registering online."
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "word-rush": {
       "last_updated": "9/10/2018 9:54:21",
@@ -1005,25 +963,16 @@
       "timing": "14th September 2019, 10 AM",
       "displayName": "Word Rush",
       "description": "If you are interested in word games, then this event is exclusively for you.\n This event is going to test your love for word games along with your exposure to technical terms of various engineering disciplines.",
-      "tagline": "Hey there, It’s time for your brain to train!",
+      "tagline": "Hey there, It\u2019s time for your brain to train!",
       "eventname": "Word Rush",
       "notes": "",
       "prize": null,
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "SANTHOSH",
-          "contact": "7904619832"
-        },
-        {
-          "name": "GAYATHRI",
-          "contact": "9566015302"
-        },
-        {
-          "name": "SWEATHA",
-          "contact": "9500045789"
-        }
+        { "name": "SANTHOSH", "contact": "7904619832" },
+        { "name": "GAYATHRI", "contact": "9566015302" },
+        { "name": "SWEATHA", "contact": "9500045789" }
       ],
       "attachments": [],
       "rules": [
@@ -1033,17 +982,18 @@
         ],
         [
           "This round consists of three different games,cumulative scores of these games will be taken into consideration for the final round.",
-          "1. Flash cards- It’s a memory game, only one member from each team can participate in this game.",
-          "2. Start music-It’s a musical dumb-C based on different words, two members from each team can participate in this game.",
-          "3. Club it-It’s a physical task where the participants need to run around and find their words to pair it with their team member’s word, two members",
+          "1. Flash cards- It\u2019s a memory game, only one member from each team can participate in this game.",
+          "2. Start music-It\u2019s a musical dumb-C based on different words, two members from each team can participate in this game.",
+          "3. Club it-It\u2019s a physical task where the participants need to run around and find their words to pair it with their team member\u2019s word, two members",
           "From each team can participate in this game."
         ],
         [
-          "1. This round is based on the famous television show – CONNEXIONS.",
+          "1. This round is based on the famous television show \u2013 CONNEXIONS.",
           "2. Picture clues will be provided and participants should guess theword.",
           ". Based on the final score, judges will choose the winner."
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "paper-presentation": {
       "last_updated": "9/10/2018 9:52:10",
@@ -1054,7 +1004,7 @@
       "venue": "Civil Engineering Department",
       "timing": "21st September 2018 (Friday) AN",
       "displayName": "Paper Presentation",
-      "description": "Believe it or not, Presentation unleashes Innovation and Ignites Inspiration ‘cause until and unless an idea is tested or questioned, it can’t be approved or accepted as an Innovation. We areoffering you a forum to showcase your presentation skills and in-depth knowledge of your research area in which your work will be weighed and evaluated by seasoned academic professionals.",
+      "description": "Believe it or not, Presentation unleashes Innovation and Ignites Inspiration \u2018cause until and unless an idea is tested or questioned, it can\u2019t be approved or accepted as an Innovation. We areoffering you a forum to showcase your presentation skills and in-depth knowledge of your research area in which your work will be weighed and evaluated by seasoned academic professionals.",
       "tagline": "Every once in a while a new technology, an old problem and a big idea turn into an innovation",
       "eventname": "Paper Presentation",
       "notes": "1. Win a chance to get the best innovation award and best presenter award in addition to the first, second and third prizes.\n 2. Your project on receiving the first place stands a chance to directly get selected to National Level Conference at SSN College of Engineering.",
@@ -1062,18 +1012,9 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Vishnu Vardhan S",
-          "contact": "9600067203"
-        },
-        {
-          "name": "Vishvaa.R.S",
-          "contact": "9003736566"
-        },
-        {
-          "name": "Kavya L",
-          "contact": "950069221"
-        }
+        { "name": "Vishnu Vardhan S", "contact": "9600067203" },
+        { "name": "Vishvaa.R.S", "contact": "9003736566" },
+        { "name": "Kavya L", "contact": "950069221" }
       ],
       "attachments": [],
       "rules": [
@@ -1082,12 +1023,12 @@
           "1.\tArticles should be in Microsoft Word format or PDF format.",
           "2.\tArticles should be written in single column format, using Times New Roman font, 12-point font size. Keep the layout of the text as simple as possible.",
           "3.\tEquations and formula should be readable, preferably written using equation.",
-          "4.\tThe affiliations of the author and co – author should be enclosed in the title page of the abstract. "
+          "4.\tThe affiliations of the author and co \u2013 author should be enclosed in the title page of the abstract. "
         ],
         [
-          "• An abstract (150 to 300 words) of the topic of the topic is to be sent to the organizing team through mail ( paper4invente@gmail.com ) on or before 25th August,2019 (11:59 PM).",
-          "• The selection criteria will be based on the uniqueness of the topic.",
-          "• After selection of abstracts, the participant(s) should mail (paper4invente@gmail.com ) the camera-ready paper to the organizing team on 28th August,2019 (11:59 PM)."
+          "\u2022 An abstract (150 to 300 words) of the topic of the topic is to be sent to the organizing team through mail ( paper4invente@gmail.com ) on or before 25th August,2019 (11:59 PM).",
+          "\u2022 The selection criteria will be based on the uniqueness of the topic.",
+          "\u2022 After selection of abstracts, the participant(s) should mail (paper4invente@gmail.com ) the camera-ready paper to the organizing team on 28th August,2019 (11:59 PM)."
         ],
         [
           "Final round:",
@@ -1097,13 +1038,14 @@
         ],
         [
           "General Rules:",
-          "1.\tThe published paper and on – going projects are encouraged.",
+          "1.\tThe published paper and on \u2013 going projects are encouraged.",
           "2.\tMaximum Number of presenters: Three",
           "3.\tCross College teams (Except SSN Students) are allowed.",
           "4.\tParticipant(s) will be judged based on the unique creativity, presentation skills and format.",
-          "5.\tThe judge’s decision shall be final and binding."
+          "5.\tThe judge\u2019s decision shall be final and binding."
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "qureka": {
       "last_updated": "9/15/2018 12:58:10",
@@ -1116,20 +1058,14 @@
       "displayName": "Qureka!(Quiz)",
       "description": "The Q! in Qureka is about Quickness, Quirks, and of course, the Quest for Quality Quizzing!\nDepartment of Civil Engineering presents the most-sought after tech quizzing event of Invente over the years. We welcome you to be part of some mind-boggling and of course, fun brain-games. We have all the questions for your inquisition, but do you have the answers?",
       "tagline": null,
-      "eventname": "Qureka",
+      "eventname": "Qureka!(Quiz)",
       "notes": "",
       "prize": null,
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "A.Deepika",
-          "contact": "9443182394"
-        },
-        {
-          "name": "R.Manjula",
-          "contact": "73582 65611"
-        }
+        { "name": "A.Deepika", "contact": "9443182394" },
+        { "name": "R.Manjula", "contact": "73582 65611" }
       ],
       "attachments": [],
       "rules": [
@@ -1143,7 +1079,8 @@
         [
           "Selected participants can undergo the rapid-fire round which comprises of 10 questions. The Team that answers the maximum number of consecutive questions will be declared as winners."
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "soltiare": {
       "last_updated": "9/18/2018 10:57:05",
@@ -1154,7 +1091,7 @@
       "venue": "Civil Department",
       "timing": "14th September 2019,10:00 AM",
       "displayName": "Solve-It-Aire",
-      "description": " Hey there, are you concerned about the many crises the world faces and do you have a solution for those crises? Here is “SOLVE-IT-aire”! - An event being launched at the INVENTE 4.0. This event is a platform for all the genius to showcase their quick-wit and problem solving skills. SOLVE-IT-aire promises to serve as a testimonial for your talent!",
+      "description": " Hey there, are you concerned about the many crises the world faces and do you have a solution for those crises? Here is \u201cSOLVE-IT-aire\u201d! - An event being launched at the INVENTE 4.0. This event is a platform for all the genius to showcase their quick-wit and problem solving skills. SOLVE-IT-aire promises to serve as a testimonial for your talent!",
       "tagline": "A Challenge to Every Designer",
       "eventname": "Solve-It-Aire",
       "notes": "",
@@ -1177,8 +1114,8 @@
       "rules": [
         [
           "Rules:",
-          "♦\tMaximum 2 participants per team.",
-          "♦\tParticipants must bring their ID cards."
+          "\u2666\tMaximum 2 participants per team.",
+          "\u2666\tParticipants must bring their ID cards."
         ],
         [
           "ROUND 1: Guess-it ",
@@ -1197,7 +1134,8 @@
           "3. Economical and practical solutions are considered.",
           "4. Judges will finalize the best solution."
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "dc-marvel-quiz": {
       "last_updated": "9/13/2018 8:31:45",
@@ -1215,23 +1153,19 @@
       "prize": null,
       "intesnship": null,
       "registrationFee": "30 /- per Team",
-      "eventHeads": [
-        {
-          "name": "Akilan G S ",
-          "contact": "9789374471"
-        }
-      ],
+      "eventHeads": [{ "name": "Akilan G S ", "contact": "9789374471" }],
       "attachments": [],
       "rules": [
         [
-          "• A maximum of two members will be allowed in a team.",
-          "• Electronic devices are prohibited inside the venue.",
-          "• Answer sheets will be provided."
+          "\u2022 A maximum of two members will be allowed in a team.",
+          "\u2022 Electronic devices are prohibited inside the venue.",
+          "\u2022 Answer sheets will be provided."
         ],
         [
           "A slide containing questions will be shown to the participants and a sheet of paper will be given to write down the answers. Results will be published shortly after the completion of a session."
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "minute-to-win-it": {
       "last_updated": "9/13/2018 8:31:45",
@@ -1242,7 +1176,7 @@
       "venue": "Civil Department",
       "timing": "13th September ,10 A.M",
       "displayName": "Minute to win it",
-      "description": "Tired of all the technical events? Take off your thinking hats and come have fun with us. Now the time is set, seconds are running. What can u show us in a minute? Tasks are set, Beat the clock to win exciting prices. Come play the electrifying game of ‘Minute to win it’ with us.",
+      "description": "Tired of all the technical events? Take off your thinking hats and come have fun with us. Now the time is set, seconds are running. What can u show us in a minute? Tasks are set, Beat the clock to win exciting prices. Come play the electrifying game of \u2018Minute to win it\u2019 with us.",
       "tagline": null,
       "eventname": "Minute to win it",
       "notes": "",
@@ -1250,29 +1184,21 @@
       "intesnship": null,
       "registrationFee": "30 /- per Team",
       "eventHeads": [
-        {
-          "name": "Amrutha",
-          "contact": "7305849774"
-        },
-        {
-          "name": "Madhumitha",
-          "contact": "8248191005"
-        },
-        {
-          "name": "Deepak",
-          "contact": "9444252248"
-        }
+        { "name": "Amrutha", "contact": "7305849774" },
+        { "name": "Madhumitha", "contact": "8248191005" },
+        { "name": "Deepak", "contact": "9444252248" }
       ],
       "attachments": [],
       "rules": [
         [
-          "• Participants can form groups of maximum 3 people.",
-          "• There are 8 different games, each to be played for one minute.",
-          "• Participants should choose a minimum of 5 gamesto win prizes.",
-          "• Best 5 of all the games played wil be taken for evaluation.",
-          "• Players will be evaluated based on their performance and effectiveness."
+          "\u2022 Participants can form groups of maximum 3 people.",
+          "\u2022 There are 8 different games, each to be played for one minute.",
+          "\u2022 Participants should choose a minimum of 5 gamesto win prizes.",
+          "\u2022 Best 5 of all the games played wil be taken for evaluation.",
+          "\u2022 Players will be evaluated based on their performance and effectiveness."
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "music-tiles": {
       "last_updated": "9/13/2018 8:31:45",
@@ -1283,7 +1209,7 @@
       "venue": "Civil Department",
       "timing": "13th September ,10 A.M",
       "displayName": "Music Tiles",
-      "description": "How many times have song lyrics dominated your minds during the exam hall? Aren’t you the students who get pumped up right from the first second of a song. Let’s put all those talents into proper use and convince ourselves that the memory you’ve picked up over the years is totally worth it. Come play the moments, pause the memories, stop the mind and rewind the happiness.",
+      "description": "How many times have song lyrics dominated your minds during the exam hall? Aren\u2019t you the students who get pumped up right from the first second of a song. Let\u2019s put all those talents into proper use and convince ourselves that the memory you\u2019ve picked up over the years is totally worth it. Come play the moments, pause the memories, stop the mind and rewind the happiness.",
       "tagline": null,
       "eventname": "Music Tiles",
       "notes": "",
@@ -1291,14 +1217,8 @@
       "intesnship": null,
       "registrationFee": "30 /- per Team",
       "eventHeads": [
-        {
-          "name": "Kamaleswari T",
-          "contact": "7550189131"
-        },
-        {
-          "name": "Syed Mohammed",
-          "contact": "8072549663"
-        }
+        { "name": "Kamaleswari T", "contact": "7550189131" },
+        { "name": "Syed Mohammed", "contact": "8072549663" }
       ],
       "attachments": [],
       "rules": [
@@ -1317,7 +1237,8 @@
           "1. Find the lyrics in between the song.",
           "2. Winning team will be awarded with prices."
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "staad-pro": {
       "last_updated": "9/18/2018 0:23:03",
@@ -1328,21 +1249,17 @@
       "venue": "EEE Seminar Hall",
       "timing": "10.00 am to 3.30 pm",
       "displayName": "Staad.Pro workshop",
-      "description": "Are you a design enthusiast? Do you want to learn to work with the most widely used software in the construction industry for structural design and analysis? Here is a chance for you all to learn STAAD.Pro from the most renowned training institute, “CADD centre , PORUR”.",
+      "description": "Are you a design enthusiast? Do you want to learn to work with the most widely used software in the construction industry for structural design and analysis? Here is a chance for you all to learn STAAD.Pro from the most renowned training institute, \u201cCADD centre , PORUR\u201d.",
       "tagline": null,
       "eventname": "Staad.Pro workshop",
       "notes": "Certificate will be provided",
       "prize": null,
       "intesnship": null,
       "registrationFee": null,
-      "eventHeads": [
-        {
-          "name": "Annal A S",
-          "contact": ""
-        }
-      ],
+      "eventHeads": [{ "name": "Annal A S", "contact": "" }],
       "attachments": [],
-      "rules": []
+      "rules": [],
+      "isFlagship": false
     }
   },
   "chem": {
@@ -1363,21 +1280,16 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Jahnavi Nandakumar",
-          "contact": "9566202366"
-        },
-        {
-          "name": "Madhumitha S",
-          "contact": "9790776785"
-        }
+        { "name": "Jahnavi Nandakumar", "contact": "9566202366" },
+        { "name": "Madhumitha S", "contact": "9790776785" }
       ],
       "attachments": [],
       "rules": [
         [
           "Teams with members of 3 will be given the chance to illuminate their research work with a dash of aesthete in the form of A2 posters for the magical number of 10 minutes (7 minute presentation followed by 3 minute Q&A) - three is the undisputed, final answer to the ultimate question of the number of people needed to change a lightbulb, after all! Email your abstracts to: posterpresentationinvente@gmail.com "
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "breaking_bad": {
       "last_updated": "9/9/2018 16:06:38",
@@ -1396,14 +1308,8 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Swetha V",
-          "contact": "8072739614"
-        },
-        {
-          "name": "Mahima Jain",
-          "contact": "9500008356"
-        }
+        { "name": "Swetha V", "contact": "8072739614" },
+        { "name": "Mahima Jain", "contact": "9500008356" }
       ],
       "attachments": [],
       "rules": [
@@ -1413,7 +1319,8 @@
         [
           "Round 2 emulates a marathon-like, treasure hunt-esque environment to get your adrenaline pumping. You will be made to fight for (or fly away from, whatever lines with your vigour) the ultimate prize!"
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "paper-presentation": {
       "last_updated": "8/29/2018 17:48:24",
@@ -1432,36 +1339,31 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Samuel V",
-          "contact": "9566749889"
-        },
-        {
-          "name": "Praveen C",
-          "contact": "9940204565"
-        }
+        { "name": "Samuel V", "contact": "9566749889" },
+        { "name": "Praveen C", "contact": "9940204565" }
       ],
       "attachments": [],
       "rules": [
         [
           "Topics include:",
-          "• Waste water",
-          "• Environmental Engineering",
-          "• Material Technology",
-          "• Nanotechnology",
-          "• Process Optimisation",
-          "• Biochemical and Biotechnology",
-          "• Fuels and Petrochemicals",
-          "• Separation"
+          "\u2022 Waste water",
+          "\u2022 Environmental Engineering",
+          "\u2022 Material Technology",
+          "\u2022 Nanotechnology",
+          "\u2022 Process Optimisation",
+          "\u2022 Biochemical and Biotechnology",
+          "\u2022 Fuels and Petrochemicals",
+          "\u2022 Separation"
         ],
         [
-          " •Maximum of 3 members per team",
-          "• World limit of abstract: 200",
-          "• Presentation time: 5-6 minutes",
-          "• Email the abstract to: pp2019invente4.0@gmail.com with the file name as the title of the paper and subject of the mail as Paper Presentation - {Participants' names}"
+          " \u2022Maximum of 3 members per team",
+          "\u2022 World limit of abstract: 200",
+          "\u2022 Presentation time: 5-6 minutes",
+          "\u2022 Email the abstract to: pp2019invente4.0@gmail.com with the file name as the title of the paper and subject of the mail as Paper Presentation - {Participants' names}"
         ],
         ["Judges decision are final and binding."]
-      ]
+      ],
+      "isFlagship": false
     },
     "autochem": {
       "last_updated": "9/9/2018 19:58:29",
@@ -1480,14 +1382,8 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Tharun Vijay",
-          "contact": "9962518221"
-        },
-        {
-          "name": "Harish R",
-          "contact": "9941457908"
-        }
+        { "name": "Tharun Vijay", "contact": "9962518221" },
+        { "name": "Harish R", "contact": "9941457908" }
       ],
       "attachments": [],
       "rules": [
@@ -1501,7 +1397,8 @@
           "A final trial will be given to selected team and the car must not travel more than the fixed distance. ",
           "The top 3 teams which achieve this will be the winners."
         ]
-      ]
+      ],
+      "isFlagship": true
     },
     "stranger_things": {
       "last_updated": "9/15/2018 13:43:15",
@@ -1512,7 +1409,7 @@
       "venue": "chemical dept",
       "timing": "6th Sep  12.30pm",
       "displayName": "Stranger Things",
-      "description": "It is a well-known cliché that the odd one stands out - or does it? This new event demands its participants to use their (pseudo)psychokinesis abilities and channelize their inner Eleven to solve the mystery of the stranger thing amongst a set of seemingly normal pictures, all of which revolve around Chemical Engineering (don't worry, there's a bounty on its head, and a huge one at that!). So, Slurpee up and maybe emerge from a mysterious laboratory to win some exciting prizes!",
+      "description": "It is a well-known clich\u00e9 that the odd one stands out - or does it? This new event demands its participants to use their (pseudo)psychokinesis abilities and channelize their inner Eleven to solve the mystery of the stranger thing amongst a set of seemingly normal pictures, all of which revolve around Chemical Engineering (don't worry, there's a bounty on its head, and a huge one at that!). So, Slurpee up and maybe emerge from a mysterious laboratory to win some exciting prizes!",
       "tagline": null,
       "eventname": "Stranger Things",
       "notes": "",
@@ -1520,17 +1417,12 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Divya Lakshmi",
-          "contact": "8056542771"
-        },
-        {
-          "name": "Kaushik R",
-          "contact": "9962501230"
-        }
+        { "name": "Divya Lakshmi", "contact": "8056542771" },
+        { "name": "Kaushik R", "contact": "9962501230" }
       ],
       "attachments": [],
-      "rules": []
+      "rules": [],
+      "isFlagship": false
     },
     "chem-connextions": {
       "last_updated": "9/9/2018 17:06:14",
@@ -1541,7 +1433,7 @@
       "venue": "Chemical Engineering Seminar Hall",
       "timing": "22 Sep. 11 AM",
       "displayName": "Chem Connextions",
-      "description": "Are you an ardent fan of Vijay TV Connextion show? Do you love chemical engineering unit operations and general engineering? If yes to both, then you are “perfect” to take part in this event. Crack the pictures and answer the questions that follow and emerge as the winner. \n",
+      "description": "Are you an ardent fan of Vijay TV Connextion show? Do you love chemical engineering unit operations and general engineering? If yes to both, then you are \u201cperfect\u201d to take part in this event. Crack the pictures and answer the questions that follow and emerge as the winner. \n",
       "tagline": "Connect it and Win it",
       "eventname": "Chem Connextions",
       "notes": "",
@@ -1549,21 +1441,16 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Vigneshwaran",
-          "contact": "7358541182"
-        },
-        {
-          "name": "Shankar Ram R",
-          "contact": "9790865016"
-        }
+        { "name": "Vigneshwaran", "contact": "7358541182" },
+        { "name": "Shankar Ram R", "contact": "9790865016" }
       ],
       "attachments": [],
       "rules": [
         [
           "As a rendition of the popular Vijay TV show, this event, consisting of two rounds, will throw puzzles that revolve around Chemical Engineering at you for you to string together to create the perfect piece of metaphorical cloth! As the old saying goes: as the going gets tough, the tough get going - in the same vein, questions get progressively harder to test your true prowess in your knowledge of the technical world and your ability to connect the dots to make a tantalizing picture in the end."
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "shadow_of_truth": {
       "last_updated": "8/29/2018 20:12:35",
@@ -1582,14 +1469,8 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Priyadarshini S",
-          "contact": "9600139852"
-        },
-        {
-          "name": "Swaanika L",
-          "contact": "9444322230"
-        }
+        { "name": "Priyadarshini S", "contact": "9600139852" },
+        { "name": "Swaanika L", "contact": "9444322230" }
       ],
       "attachments": [],
       "rules": [
@@ -1599,7 +1480,8 @@
         [
           "Second round will contain the dirty work - the studying of the crime scene, talking to suspects, insinuating enthralling theories and much more.. So, channel your inner Sherlock (bring a John Watson if you need him, of course), bring a maximum of a couple friends and solve these inimical crimes, crime scene- Chemical Engineering. Awaken your adept engineering minds to decipher the mystery!"
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "house_of_cards": {
       "last_updated": "9/9/2018 19:53:31",
@@ -1618,17 +1500,12 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Alagu Abirami A L",
-          "contact": "9787682950"
-        },
-        {
-          "name": "Shriram A M",
-          "contact": "9524014074"
-        }
+        { "name": "Alagu Abirami A L", "contact": "9787682950" },
+        { "name": "Shriram A M", "contact": "9524014074" }
       ],
       "attachments": [],
-      "rules": []
+      "rules": [],
+      "isFlagship": false
     },
     "tiki_taka": {
       "last_updated": "9/9/2018 16:12:06",
@@ -1647,21 +1524,16 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Anirudh Madhavan",
-          "contact": "9884080157"
-        },
-        {
-          "name": "Medheer Gautam",
-          "contact": "7358281826"
-        }
+        { "name": "Anirudh Madhavan", "contact": "9884080157" },
+        { "name": "Medheer Gautam", "contact": "7358281826" }
       ],
       "attachments": [],
       "rules": [
         [
           "Bring your 5 a side team, and beat the best to win exciting prizes! ( P.S.Teams can attack down the wings with Wiings). We're bringing the event, your turn to bring the talent!"
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "mindhunter": {
       "last_updated": "9/9/2018 16:12:06",
@@ -1672,7 +1544,7 @@
       "venue": "Chemical Engineering Department",
       "timing": "6th september 2019",
       "displayName": "Mind Hunter",
-      "description": "In the hustle bustle of today’s mundane, boring world it is easy to forget to step into your inner child and allow them to run free. The event Mindhunter attempts to do just that for you using a series of games that will simulate happiness in you and make you glow. Come,participate, laugh and feel vicariously the sense of lush, green grass on your barefoot along with the sounds of birds chirping and the sunlight streaming your face.",
+      "description": "In the hustle bustle of today\u2019s mundane, boring world it is easy to forget to step into your inner child and allow them to run free. The event Mindhunter attempts to do just that for you using a series of games that will simulate happiness in you and make you glow. Come,participate, laugh and feel vicariously the sense of lush, green grass on your barefoot along with the sounds of birds chirping and the sunlight streaming your face.",
       "tagline": null,
       "eventname": "Mind Hunter",
       "notes": "This event is not a typical chemical engineering event and is open to everyone as it requires very little chemical engineering knowledge.It is all about a peep into the corporate world",
@@ -1680,17 +1552,12 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Anitha Meegal V",
-          "contact": "9790758843"
-        },
-        {
-          "name": "Kevin A",
-          "contact": "8344063090"
-        }
+        { "name": "Anitha Meegal V", "contact": "9790758843" },
+        { "name": "Kevin A", "contact": "8344063090" }
       ],
       "attachments": [],
-      "rules": [[]]
+      "rules": [[]],
+      "isFlagship": false
     }
   },
   "mech": {
@@ -1711,14 +1578,8 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Sivanesan C",
-          "contact": "8610426335"
-        },
-        {
-          "name": "Harish A",
-          "contact": "8637466967"
-        }
+        { "name": "Sivanesan C", "contact": "8610426335" },
+        { "name": "Harish A", "contact": "8637466967" }
       ],
       "attachments": [],
       "rules": [
@@ -1731,7 +1592,8 @@
           "The rules for the final round will be shared just before the round.",
           "The decision of the quiz master will be final."
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "mechathlon": {
       "last_updated": "9/11/2018 14:20:54",
@@ -1750,36 +1612,31 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Komba Rajan G",
-          "contact": "9789557653"
-        },
-        {
-          "name": "Vijay D",
-          "contact": "7639992205"
-        }
+        { "name": "Komba Rajan G", "contact": "9789557653" },
+        { "name": "Vijay D", "contact": "7639992205" }
       ],
       "attachments": [],
       "rules": [
         [
           "Prelims:",
-          "●\tAll participants who have registered for the event will take a preliminary quiz consisting of 15 MCQs.",
-          "●\tThe allotted time is 20 min.",
-          "●\tThe preliminary quiz will be evaluated by volunteers and a merit list will be formed. In case of a tie, the starred questions will be used to break it.",
-          "●\tThe top 8 to 12 candidates will qualify for the next round, which is a Group Discussion (GD). The GD will be presided over by a professor."
+          "\u25cf\tAll participants who have registered for the event will take a preliminary quiz consisting of 15 MCQs.",
+          "\u25cf\tThe allotted time is 20 min.",
+          "\u25cf\tThe preliminary quiz will be evaluated by volunteers and a merit list will be formed. In case of a tie, the starred questions will be used to break it.",
+          "\u25cf\tThe top 8 to 12 candidates will qualify for the next round, which is a Group Discussion (GD). The GD will be presided over by a professor."
         ],
         [
           "Group Discussion:",
-          "●\tIt will either be a GD of 1 group with 8 members or 2 groups of 6 members each. The performance of participants in the GD will be evaluated by the faculty.",
-          "●\tOn a scale of 0 to 1, the weightage for the prelims quiz is 0.5, and the weightage for GD is 0.5.",
-          "●\tA revised merit list will be drafted after the GD; the top 4 - 6 candidates will be eligible for the Final Interview."
+          "\u25cf\tIt will either be a GD of 1 group with 8 members or 2 groups of 6 members each. The performance of participants in the GD will be evaluated by the faculty.",
+          "\u25cf\tOn a scale of 0 to 1, the weightage for the prelims quiz is 0.5, and the weightage for GD is 0.5.",
+          "\u25cf\tA revised merit list will be drafted after the GD; the top 4 - 6 candidates will be eligible for the Final Interview."
         ],
         [
           "Finals:",
-          "●\tThe panelists for the interview will be 3 faculty members (one each from the three broad areas of Manufacturing, Design and Thermal).",
-          "●\tThe panelists will unanimously decide the winner and the runners-up based on the performance in the interview."
+          "\u25cf\tThe panelists for the interview will be 3 faculty members (one each from the three broad areas of Manufacturing, Design and Thermal).",
+          "\u25cf\tThe panelists will unanimously decide the winner and the runners-up based on the performance in the interview."
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "robo-wars": {
       "last_updated": "9/14/2018 15:24:50",
@@ -1790,7 +1647,7 @@
       "venue": "Mechanical Department",
       "timing": "Sept 6, 2019\n10 AM",
       "displayName": "Robo Wars",
-      "description": "Bring your powerful robots ready to battle as you’ll be pitted against other competing robots in one-on-one knockout matches where the aim is to push the opponent’s robot off the arena or immobilizing the other bot and scoring maximum points! Play to your strengths and strategies to win cash prizes!\n",
+      "description": "Bring your powerful robots ready to battle as you\u2019ll be pitted against other competing robots in one-on-one knockout matches where the aim is to push the opponent\u2019s robot off the arena or immobilizing the other bot and scoring maximum points! Play to your strengths and strategies to win cash prizes!\n",
       "tagline": null,
       "eventname": "Robo Wars",
       "notes": "Robot Control Requirements:\n\n If the bot is wired then the wire should remain slack under all circumstances during the competition. All the wires coming out of the bot should be stacked as a single unit. The wires should be properly insulated. Teams are suggested to use only rated wires such as ISI marked. Loose connections or improper wiring may lead to immediate disqualification even before the event. If the bot is controlled wirelessly, the bot must at least have a four-frequency remote control circuit or two dual control circuits which may be interchanged before the start of the race to avoid frequency interference with other teams. The case of any interference in the wireless systems will not be considered for rematch or results. Remote control systems from toys are allowed. Remote control systems available in the market may also be used. Battery and Power: The machine can be powered electrically only. Batteries must be sealed, immobilized- electrolyte types (such as Li-ion, NiCd, NiMH or dry cells). Working voltages must not exceed 24V DC (mean voltage) at any point in time. All power connections must be of an adequate grade and adequately insulated. Cables must be routed to minimize the chances of being cut. All efforts must be made to protect battery terminals from a direct short and causing a battery fire, failure to do so will cause immediate disqualification. Battery Eliminators are allowed and power source would be available at the venue for the eliminators.\n\nMotors:\n\nThe robot should move as fast as possible around the arena with the help of motors. DC motors and stepper motors (12V-24V) can be used as per the design of bots. Note: We are not responsible for any damage that your bot may incur during the event.\n\nScore Card: \n\nThe score card is based upon the arena formulation. It is obvious that the robot with an extraordinary dynamism will succeed by thrusting out its combatant from the arena.\nIf a robot is pushed beyond the ring, the round ends and the other team is awarded the points.\nThe first team to win X rounds will get through to the Finals where X will be intimated on the day of the competition. Ultimately, if any of the combatants rolls out from the arena it will directly be eliminated from the War Field.\nCriteria for triumph: A robot will be declared immobile if it cannot demonstrate linear motion of at least one inch in a timed period of 30 seconds. A bot with one side of its drive train disabled will not be counted out if it can demonstrate some degree of controlled movement. If both robots survive the 5 minutes, the robot with the higher scorecard points wins. The winner advances to the next round while the loser is eliminated from the tournament.\n\nPre-registration form: https://forms.gle/BHSsypYWex5T83ET8",
@@ -1798,21 +1655,15 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Balaji V",
-          "contact": "7904508336"
-        },
-        {
-          "name": "Suraj M",
-          "contact": "9788853276"
-        }
+        { "name": "Balaji V", "contact": "7904508336" },
+        { "name": "Suraj M", "contact": "9788853276" }
       ],
       "attachments": [],
       "rules": [
         [
           "A team may consist of a maximum of 3 participants. Design and construct a wired or remote controlled bot capable of fighting in a one on one tournament.",
           "General Rules:",
-          "The competition will be played on a knock-out basis consisting of 2 players at a time. The maximum duration of each round will be 5 minutes. Any team that is not ready at the time specified will be disqualified from the competition. The machine will be checked for safety before the competition. Any robot found unsafe to other participants and spectators will be disqualified. The organizers reserve the rights to change any or all of the above rules as they deem fit. Change in rules, if any, will be highlighted on the website and notified to the registered teams. Violation of any rule will lead to disqualification. Judges’ decision shall be treated as final and binding on all.",
+          "The competition will be played on a knock-out basis consisting of 2 players at a time. The maximum duration of each round will be 5 minutes. Any team that is not ready at the time specified will be disqualified from the competition. The machine will be checked for safety before the competition. Any robot found unsafe to other participants and spectators will be disqualified. The organizers reserve the rights to change any or all of the above rules as they deem fit. Change in rules, if any, will be highlighted on the website and notified to the registered teams. Violation of any rule will lead to disqualification. Judges\u2019 decision shall be treated as final and binding on all.",
           "Note: The bot should conform to the specified conditions.",
           "Safety Rules:",
           "Compliance with all event rules is mandatory. It is expected that competitors stay within the rules and procedures of their own accord and do not require constant policing. If you have a robot or weapon design that does not fit within the categories set forth in these rules or is in some way ambiguous or borderline, please contact the event organizers. All weapons must have a safety cover on any sharp edges",
@@ -1821,7 +1672,8 @@
           "Mobility: ",
           "All bots must have easily visible and controlled mobility in order to compete. Movement of robot must be rolling of wheels only. Jumping and hopping is not allowed. Flying (using air foil, helium balloons, ornithopters, etc.) is not allowed."
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "mystery-event": {
       "last_updated": "9/16/2018 19:19:23",
@@ -1832,25 +1684,20 @@
       "venue": "Mechanical Department",
       "timing": "21st Sep and 22nd Sep  10:00 am",
       "displayName": "Mystery Event",
-      "description": "It’s a fun event designed to make you have an amazing time.Partcipate to stand a chance to win exciting cash prizes and certificates!",
+      "description": "It\u2019s a fun event designed to make you have an amazing time.Partcipate to stand a chance to win exciting cash prizes and certificates!",
       "tagline": null,
       "eventname": "Mystery Event",
       "notes": null,
       "prize": null,
       "intesnship": null,
-      "registrationFee": "₹100",
+      "registrationFee": "\u20b9100",
       "eventHeads": [
-        {
-          "name": "Raghul Kanna S",
-          "contact": "9445277492"
-        },
-        {
-          "name": "Sachin Abishek S",
-          "contact": "9629295299"
-        }
+        { "name": "Raghul Kanna S", "contact": "9445277492" },
+        { "name": "Sachin Abishek S", "contact": "9629295299" }
       ],
       "attachments": [],
-      "rules": []
+      "rules": [],
+      "isFlagship": false
     },
     "project-exhibition": {
       "last_updated": "9/14/2018 15:22:44",
@@ -1869,39 +1716,34 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Kaushik A",
-          "contact": "9176309084"
-        },
-        {
-          "name": "Mathiazhagan",
-          "contact": "7538828848"
-        }
+        { "name": "Kaushik A", "contact": "9176309084" },
+        { "name": "Mathiazhagan", "contact": "7538828848" }
       ],
       "attachments": [],
       "rules": [
         [
           "General Rules:",
-          "●\tProjects must fit in atleast one of the following three streams: Design, Thermal (includes projects related to alternate fuels and renewable energy) or Manufacturing & Production.",
-          "●\tEach team can have a maximum of 4 members. Multiple teams are allowed from a college. Participants cannot be part of more than one team. A team cannot exhibit more than one project.",
+          "\u25cf\tProjects must fit in atleast one of the following three streams: Design, Thermal (includes projects related to alternate fuels and renewable energy) or Manufacturing & Production.",
+          "\u25cf\tEach team can have a maximum of 4 members. Multiple teams are allowed from a college. Participants cannot be part of more than one team. A team cannot exhibit more than one project.",
           "Prelims:",
-          "●\tEvery team must submit a two-page (A4 size) abstract of their project work",
-          "●\tThe report should include a brief write up on the following: project definition (problem statement or aim), methodology adopted (should provide basic information on calculations, fabrication method employed etc.) and conclusion (brief on the final outcome of the project)",
-          "●\tLast date for submitting the preliminary report is 14th September 2018.",
-          "●\tThe report must be mailed to projectexpo@mech.ssn.edu.in"
+          "\u25cf\tEvery team must submit a two-page (A4 size) abstract of their project work",
+          "\u25cf\tThe report should include a brief write up on the following: project definition (problem statement or aim), methodology adopted (should provide basic information on calculations, fabrication method employed etc.) and conclusion (brief on the final outcome of the project)",
+          "\u25cf\tLast date for submitting the preliminary report is 14th September 2018.",
+          "\u25cf\tThe report must be mailed to projectexpo@mech.ssn.edu.in"
         ],
         [
           "The qualified teams will present their project on the event day, in a space allocated to them.",
           "Teams can use visual aids such as flex banners and charts for presentation. ",
           "(Maximum Size of Visual aids: 2x2 feet).",
           "It is advised that the visual aids include the following topics:",
-          "●\tProblem Definition",
-          "●\tDesign Calculation and Methodology",
-          "●\tFabrication Process and Method",
-          "●\tResults and Discussion",
+          "\u25cf\tProblem Definition",
+          "\u25cf\tDesign Calculation and Methodology",
+          "\u25cf\tFabrication Process and Method",
+          "\u25cf\tResults and Discussion",
           "Design and fabricated projects are most welcomed."
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "treasure-hunt": {
       "last_updated": "9/16/2018 19:18:38",
@@ -1912,22 +1754,16 @@
       "venue": "Mechanical Department",
       "timing": "Sept 6, 2019\n10 AM",
       "displayName": "Treasure Hunt",
-      "description": "Looking to solve riddles? Want a boost of Adrenaline? If you’re looking to explore one of the most beautiful campus in the country or you just want to make some new friends – treasure hunt is what might catch your fancy.",
+      "description": "Looking to solve riddles? Want a boost of Adrenaline? If you\u2019re looking to explore one of the most beautiful campus in the country or you just want to make some new friends \u2013 treasure hunt is what might catch your fancy.",
       "tagline": null,
       "eventname": "Treasure Hunt",
       "notes": null,
       "prize": null,
       "intesnship": null,
-      "registrationFee": "₹100",
+      "registrationFee": "\u20b9100",
       "eventHeads": [
-        {
-          "name": "Akshit Kalantri",
-          "contact": "8939044228"
-        },
-        {
-          "name": "Anirudh PB",
-          "contact": "9946039143"
-        }
+        { "name": "Akshit Kalantri", "contact": "8939044228" },
+        { "name": "Anirudh PB", "contact": "9946039143" }
       ],
       "attachments": [],
       "rules": [
@@ -1945,7 +1781,8 @@
           "Each team will receive a total of ten clues in this round.",
           "The teams emerging winners and runners-up will receive cash prize or a gift."
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "outdoor-gp": {
       "last_updated": "9/14/2018 15:23:38",
@@ -1960,41 +1797,35 @@
       "description": "Get ready to show off your agile Nitro Car as it speeds through an exciting off-road obstacle course.Navigate through the blind spots, sharp turns and much more, as quickly as possible to win exciting Cash prizes and Certificate of Merit.",
       "tagline": "Rev up..Feel..Race",
       "eventname": "Nitro GP",
-      "notes": "●\tThe track will be off-road with obstacles, slopes and tunnels. The width of the track will be revealed on spot. Only cars powered by internal combustion engines are allowed to compete.\n●\tElectric or solar powered cars will not be allowed under any circumstances.\n●\tMaximum allowable displacement for IC engines is 4.6 cc. Only nitro-based fuels or gasoline should be used in the cars.\n●\tFor nitro-based fuels, the amount of nitro compounds in the mixture should not exceed 25%.\n●\tFuel will not be provided by the organizers.\n●\tTeams must bring their own supplies. Only buggy type cars are allowed. The cars should fit in a 500mm x 400mm x300mm box. The antenna used for radio control is exempted from height restrictions.\n●\tParticipants are advised to have multi-channel radio controllers to prevent frequency clashes.\n●\tFHSS Transmitters (Frequency Hop Spread Spectrum) are allowed.\n●\tOrganizers will not be responsible for any interference in frequencies.\n●\tContestants must bring sufficient number of batteries. Batteries will not be provided.\n●\tBoth ready-to-run kit cars and custom fabricated cars are allowed to compete.\n\nPre-registration Form:  https://forms.gle/BHSsypYWex5T83ET8",
+      "notes": "\u25cf\tThe track will be off-road with obstacles, slopes and tunnels. The width of the track will be revealed on spot. Only cars powered by internal combustion engines are allowed to compete.\n\u25cf\tElectric or solar powered cars will not be allowed under any circumstances.\n\u25cf\tMaximum allowable displacement for IC engines is 4.6 cc. Only nitro-based fuels or gasoline should be used in the cars.\n\u25cf\tFor nitro-based fuels, the amount of nitro compounds in the mixture should not exceed 25%.\n\u25cf\tFuel will not be provided by the organizers.\n\u25cf\tTeams must bring their own supplies. Only buggy type cars are allowed. The cars should fit in a 500mm x 400mm x300mm box. The antenna used for radio control is exempted from height restrictions.\n\u25cf\tParticipants are advised to have multi-channel radio controllers to prevent frequency clashes.\n\u25cf\tFHSS Transmitters (Frequency Hop Spread Spectrum) are allowed.\n\u25cf\tOrganizers will not be responsible for any interference in frequencies.\n\u25cf\tContestants must bring sufficient number of batteries. Batteries will not be provided.\n\u25cf\tBoth ready-to-run kit cars and custom fabricated cars are allowed to compete.\n\nPre-registration Form:  https://forms.gle/BHSsypYWex5T83ET8",
       "prize": null,
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Gnana Selvan P",
-          "contact": "9791977451"
-        },
-        {
-          "name": "Subash M",
-          "contact": "9524242518"
-        }
+        { "name": "Gnana Selvan P", "contact": "9791977451" },
+        { "name": "Subash M", "contact": "9524242518" }
       ],
       "attachments": [],
       "rules": [
         [
-          "●\tParticipants are required to submit an abstract containing the details of the parts fabricated to the email id mentioned below before the day of the event.",
-          "●\tThe abstract must contain photographs of the parts fabricated. All other technical specifications of the car must be included in the abstract.",
-          "●\tOrganizers have the right to stop a car from competing if it is found to be unsafe.",
-          "●\tTime penalties for cars leaving the track are at the sole discretion of the organizers.",
-          "●\tDetails of the penalties will be revealed on the day of the event.",
-          "●\tParticipants will be given time for setting up their car before the commencement of the first round.",
-          "●\tEach team gets one practice lap on the track.",
-          "●\tRequests for additional trial runs on the actual track will not be entertained.",
-          "●\tOrganizers will not be responsible for accidental collisions during the head to head race.",
-          "●\tTeams deliberately trying to obstruct another vehicle’s path will be subjected to disqualification.",
-          "●\tThe final decision rests with the organizers in this regard.",
-          "●\tA pedestal will be provided for drivers to control their vehicles.",
-          "●\tDrivers are prohibited from running around the track along with the car.",
-          "●\tThe track may contain challenging blind spots that are not clearly visible to the controller.",
-          "●\tOnly two track marshals per team will be allowed on the track (on the outside) to restore the cars leaving the track.",
-          "●\tParticipants will have to forfeit the competition if they face any technical issues with their vehicle.",
-          "●\tAdditional time will not be provided once the event starts.",
-          "●\tAbstracts to be sent to: gnanaselvan16039@mech.ssn.edu.in"
+          "\u25cf\tParticipants are required to submit an abstract containing the details of the parts fabricated to the email id mentioned below before the day of the event.",
+          "\u25cf\tThe abstract must contain photographs of the parts fabricated. All other technical specifications of the car must be included in the abstract.",
+          "\u25cf\tOrganizers have the right to stop a car from competing if it is found to be unsafe.",
+          "\u25cf\tTime penalties for cars leaving the track are at the sole discretion of the organizers.",
+          "\u25cf\tDetails of the penalties will be revealed on the day of the event.",
+          "\u25cf\tParticipants will be given time for setting up their car before the commencement of the first round.",
+          "\u25cf\tEach team gets one practice lap on the track.",
+          "\u25cf\tRequests for additional trial runs on the actual track will not be entertained.",
+          "\u25cf\tOrganizers will not be responsible for accidental collisions during the head to head race.",
+          "\u25cf\tTeams deliberately trying to obstruct another vehicle\u2019s path will be subjected to disqualification.",
+          "\u25cf\tThe final decision rests with the organizers in this regard.",
+          "\u25cf\tA pedestal will be provided for drivers to control their vehicles.",
+          "\u25cf\tDrivers are prohibited from running around the track along with the car.",
+          "\u25cf\tThe track may contain challenging blind spots that are not clearly visible to the controller.",
+          "\u25cf\tOnly two track marshals per team will be allowed on the track (on the outside) to restore the cars leaving the track.",
+          "\u25cf\tParticipants will have to forfeit the competition if they face any technical issues with their vehicle.",
+          "\u25cf\tAdditional time will not be provided once the event starts.",
+          "\u25cf\tAbstracts to be sent to: gnanaselvan16039@mech.ssn.edu.in"
         ]
       ]
     },
@@ -2007,7 +1838,7 @@
       "venue": "Mechanical Department",
       "timing": "Sept 6, 2019\n10 AM",
       "displayName": "Blitz GP",
-      "description": "BLITZ GP is an RC Car racing event held during INVENTE that tests the participant’s fabrication, driving and management skills. The event features a challenging timed obstacle course for the battery run RC car. An RC Car that conforms to the BLITZ GP standards is required for participation by each team. The three winners will receive exciting cash prizes and Certificate of Merit.",
+      "description": "BLITZ GP is an RC Car racing event held during INVENTE that tests the participant\u2019s fabrication, driving and management skills. The event features a challenging timed obstacle course for the battery run RC car. An RC Car that conforms to the BLITZ GP standards is required for participation by each team. The three winners will receive exciting cash prizes and Certificate of Merit.",
       "tagline": null,
       "eventname": "Blitz GP",
       "notes": "Pre Registration Link: https://forms.gle/BHSsypYWex5T83ET8",
@@ -2015,47 +1846,42 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Amuthageethan T",
-          "contact": "9994193987"
-        },
-        {
-          "name": "karthik R",
-          "contact": "7401111284"
-        }
+        { "name": "Amuthageethan T", "contact": "9994193987" },
+        { "name": "karthik R", "contact": "7401111284" }
       ],
       "attachments": [],
       "rules": [
         [
           "A Team can have upto 4 members",
           "Specifications:",
-          "●\tCar Dimensions – 30 × 30 × 30 cm (L × B × H) Dimensions",
-          "●\t12 V, 7A on – Board Battery",
-          "●\tTrack width is 44cm",
+          "\u25cf\tCar Dimensions \u2013 30 \u00d7 30 \u00d7 30 cm (L \u00d7 B \u00d7 H) Dimensions",
+          "\u25cf\t12 V, 7A on \u2013 Board Battery",
+          "\u25cf\tTrack width is 44cm",
           "Track:",
-          "●\tTwo separate (identical) tracks to compete in the preliminary round",
-          "●\tTracks will have sharp turns, obstacles and loops",
-          "●\tIn a case of a Knock-out both the teams will compete simultaneously and the quickest qualifies",
-          "●\tTwo separate tracks will be combined and extra obstacles will be added for the final round",
+          "\u25cf\tTwo separate (identical) tracks to compete in the preliminary round",
+          "\u25cf\tTracks will have sharp turns, obstacles and loops",
+          "\u25cf\tIn a case of a Knock-out both the teams will compete simultaneously and the quickest qualifies",
+          "\u25cf\tTwo separate tracks will be combined and extra obstacles will be added for the final round",
           "General Instructions:",
-          "●\tBring your own Bot and tools.",
-          "●\tOnly on-board battery should be used.",
-          "●\tReady-made Bots and Lego kits are not allowed.",
-          "●\tNo components or Batteries will be provided.",
-          "●\tPenalties will be specified on spot.",
-          "●\tSame Bot should be used for all rounds.",
-          "●\tIt’s a time-based event.",
-          "●\tThe event coordinators will not be responsible for any damage caused to the bot.",
-          "●\tChange of battery is allowed only once during the event.",
-          "●\tThe decision of Event head and coordinators will be final. Violation of rules will lead to disqualification.",
-          "●\t1 Tech time out (2 minutes) will be given.",
-          "●\tResets will be decided on-spot.",
-          "●\tOnly 2 skips are allowed.",
-          "●\tWired and wireless bots are allowed.",
-          "●\tOnly two team members will be allowed on the track.",
-          "●\tDepending upon the number of participants Knockout round will be conducted."
+          "\u25cf\tBring your own Bot and tools.",
+          "\u25cf\tOnly on-board battery should be used.",
+          "\u25cf\tReady-made Bots and Lego kits are not allowed.",
+          "\u25cf\tNo components or Batteries will be provided.",
+          "\u25cf\tPenalties will be specified on spot.",
+          "\u25cf\tSame Bot should be used for all rounds.",
+          "\u25cf\tIt\u2019s a time-based event.",
+          "\u25cf\tThe event coordinators will not be responsible for any damage caused to the bot.",
+          "\u25cf\tChange of battery is allowed only once during the event.",
+          "\u25cf\tThe decision of Event head and coordinators will be final. Violation of rules will lead to disqualification.",
+          "\u25cf\t1 Tech time out (2 minutes) will be given.",
+          "\u25cf\tResets will be decided on-spot.",
+          "\u25cf\tOnly 2 skips are allowed.",
+          "\u25cf\tWired and wireless bots are allowed.",
+          "\u25cf\tOnly two team members will be allowed on the track.",
+          "\u25cf\tDepending upon the number of participants Knockout round will be conducted."
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "bottle-rocketrix": {
       "last_updated": "9/14/2018 15:20:34",
@@ -2070,38 +1896,33 @@
       "tagline": "Defy Gravity (for bottle rocketrix)",
       "eventname": "Bottle Rocketrix",
       "notes": "Pre-registration form: https://goo.gl/forms/fWZyaC1WeJGbWHsw2",
-      "prize": "Total Cash Prize: ₹6,000",
+      "prize": "Total Cash Prize: \u20b96,000",
       "intesnship": "Nil",
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Joseph Anand Raj",
-          "contact": "7867029872"
-        },
-        {
-          "name": "Arun Prakash M",
-          "contact": "9486490755"
-        }
+        { "name": "Joseph Anand Raj", "contact": "7867029872" },
+        { "name": "Arun Prakash M", "contact": "9486490755" }
       ],
       "attachments": [],
       "rules": [
         [
-          "●\tTeams of 2-3 members are allowed.",
-          "●\tA compressor, a launch-pad and water will be provided.",
-          "●\tMaximum bottle capacity is 2500 ml (violation of which will result in disqualification).",
-          "●\tOnly single stage rockets are allowed, any modifications must be validated by the event head.",
-          "●\tInformation regarding the modifications must be intimated well in advance.",
-          "●\tPressure range is pre-determined (40-45 psi).",
-          "●\tTime allotted to each team is 3 minutes.",
-          "●\tJudgement will be based on the distance travelled by the rocket and the deviation from the fixed trajectory.",
-          "●\tUse of sheet metal for the rockets is prohibited.",
-          "●\tThe decision of the event coordinators will be final."
+          "\u25cf\tTeams of 2-3 members are allowed.",
+          "\u25cf\tA compressor, a launch-pad and water will be provided.",
+          "\u25cf\tMaximum bottle capacity is 2500 ml (violation of which will result in disqualification).",
+          "\u25cf\tOnly single stage rockets are allowed, any modifications must be validated by the event head.",
+          "\u25cf\tInformation regarding the modifications must be intimated well in advance.",
+          "\u25cf\tPressure range is pre-determined (40-45 psi).",
+          "\u25cf\tTime allotted to each team is 3 minutes.",
+          "\u25cf\tJudgement will be based on the distance travelled by the rocket and the deviation from the fixed trajectory.",
+          "\u25cf\tUse of sheet metal for the rockets is prohibited.",
+          "\u25cf\tThe decision of the event coordinators will be final."
         ],
         [
-          "● Top 5 from the best of 2 rounds will be selected and again evaluated.",
-          "● Top 3 will be given prizes accordingly."
+          "\u25cf Top 5 from the best of 2 rounds will be selected and again evaluated.",
+          "\u25cf Top 3 will be given prizes accordingly."
         ]
-      ]
+      ],
+      "isFlagship": true
     },
     "paper-presentation": {
       "last_updated": "9/14/2018 15:19:24",
@@ -2120,14 +1941,8 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Rohith N",
-          "contact": "9962543403"
-        },
-        {
-          "name": "Prasad L",
-          "contact": "7010369904"
-        }
+        { "name": "Rohith N", "contact": "9962543403" },
+        { "name": "Prasad L", "contact": "7010369904" }
       ],
       "attachments": [],
       "rules": [
@@ -2138,15 +1953,16 @@
           "The abstract is to be mailed to the email address: paperppt@mech.ssn.edu.in",
           "Subject in the e-mail: Paper Presentation Abstract."
         ]
-      ]
+      ],
+      "isFlagship": false
     }
   },
- "eee": {
+  "eee": {
     "line-follower": {
       "last_updated": "8/20/2019 10:00:00",
       "isTechnical": true,
       "eventtype": "Technical",
-      "isFlagship":true,
+      "isFlagship": true,
       "dept": "eee",
       "slug": "line-follower",
       "venue": "EEE Block",
@@ -2160,14 +1976,8 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "SRIRAM S",
-          "contact": "9941044430"
-        },
-        {
-          "name": "KAASHYAP N",
-          "contact": "9962714753"
-        }
+        { "name": "SRIRAM S", "contact": "9941044430" },
+        { "name": "KAASHYAP N", "contact": "9962714753" }
       ],
       "attachments": [],
       "rules": [
@@ -2207,23 +2017,17 @@
       "slug": "bridge-balancio",
       "venue": "EEE Block",
       "timing": null,
-      "displayName": "​Bridge Balancio",
-      "description": "Are you the kind of person who knows how to balance your life correctly? ​“Balance the bridge without weight”​. Then this event is aimed for you. Come and show your skills by balancing the bridges that will be given to you and win some exciting prizes!",
+      "displayName": "\u200bBridge Balancio",
+      "description": "Are you the kind of person who knows how to balance your life correctly? \u200b\u201cBalance the bridge without weight\u201d\u200b. Then this event is aimed for you. Come and show your skills by balancing the bridges that will be given to you and win some exciting prizes!",
       "tagline": "Balance the bridge without weight",
-      "eventname": "​Bridge Balancio",
+      "eventname": "\u200bBridge Balancio",
       "notes": "",
       "prize": null,
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "SUBHIKSHA",
-          "contact": "9789019903"
-        },
-        {
-          "name": "ASWINKUMAR R",
-          "contact": "9597355275"
-        }
+        { "name": "SUBHIKSHA", "contact": "9789019903" },
+        { "name": "ASWINKUMAR R", "contact": "9597355275" }
       ],
       "attachments": [],
       "rules": [
@@ -2236,7 +2040,8 @@
         [
           "For the final round, the participants are provided with a partial diagram of the bridge, which each team has to identify and fill in the remaining parts of the bridge and balance it theoretically."
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "d-sim": {
       "last_updated": "8/20/2019 10:00:00",
@@ -2247,7 +2052,7 @@
       "venue": "EEE Block",
       "timing": null,
       "displayName": "D - Sim",
-      "description": "Think binary!! Are you the kind of person who speaks binary? Do you like to play around with logic gates? Are you enlightened by the​ HIGH​s and​ LOW​s of life? Here we are with the best opportunity to fire up your neurons. Fasten your seat belts , cause the ride is gonna be an adventurous ONE.",
+      "description": "Think binary!! Are you the kind of person who speaks binary? Do you like to play around with logic gates? Are you enlightened by the\u200b HIGH\u200bs and\u200b LOW\u200bs of life? Here we are with the best opportunity to fire up your neurons. Fasten your seat belts , cause the ride is gonna be an adventurous ONE.",
       "tagline": null,
       "eventname": "D - Sim",
       "notes": "",
@@ -2255,27 +2060,22 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "JOSEPH",
-          "contact": "7708247645"
-        },
-        {
-          "name": "SUBASH K",
-          "contact": "8903761900"
-        }
+        { "name": "JOSEPH", "contact": "7708247645" },
+        { "name": "SUBASH K", "contact": "8903761900" }
       ],
       "attachments": [],
       "rules": [
         [
-          "Consists of 15 MCQ’s.",
+          "Consists of 15 MCQ\u2019s.",
           "Modelling logic circuits for given output equations"
         ],
         [
-          "Reducing logical equations (using simulation) ​OR ​debugging logical circuit (with constraints in number of elements and wire connections).",
+          "Reducing logical equations (using simulation) \u200bOR \u200bdebugging logical circuit (with constraints in number of elements and wire connections).",
           "Design logical simulation for the given problem statement.",
           "Maximum participants in a team : 2"
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "electronic-maze": {
       "last_updated": "8/20/2019 10:00:00",
@@ -2294,14 +2094,8 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "HARIPRASATH V",
-          "contact": " 9944550922"
-        },
-        {
-          "name": "VEENA",
-          "contact": "9962686519"
-        }
+        { "name": "HARIPRASATH V", "contact": " 9944550922" },
+        { "name": "VEENA", "contact": "9962686519" }
       ],
       "attachments": [],
       "rules": [
@@ -2311,10 +2105,11 @@
           "Multiple choice questions. Answer some basic questions on electronics and aptitude. Simple!!"
         ],
         [
-          "​Navigate and find your way",
+          "\u200bNavigate and find your way",
           "Also conquer obstacles in your path. Challenging enough?? On encountering an obstacle, either solve the question and move forward or take an alternate route."
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "pandora-box": {
       "last_updated": "8/20/2019 10:00:00",
@@ -2333,14 +2128,8 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "VIKRAM",
-          "contact": "8838744678"
-        },
-        {
-          "name": "Akshaya M.K",
-          "contact": "9444114443"
-        }
+        { "name": "VIKRAM", "contact": "8838744678" },
+        { "name": "Akshaya M.K", "contact": "9444114443" }
       ],
       "attachments": [],
       "rules": [
@@ -2360,7 +2149,8 @@
           "The maximum time given is 90 minutes.",
           "If any 3 teams of 5 manage to come up with the solution within the stipulated time, then they will be declared winners."
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "project-display": {
       "last_updated": "8/20/2019 10:00:00",
@@ -2379,14 +2169,8 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "PRATYUSHA RAVI",
-          "contact": "9962602807"
-        },
-        {
-          "name": "INDHRA POOJA",
-          "contact": "7339167091"
-        }
+        { "name": "PRATYUSHA RAVI", "contact": "9962602807" },
+        { "name": "INDHRA POOJA", "contact": "7339167091" }
       ],
       "attachments": [],
       "rules": [
@@ -2395,13 +2179,13 @@
           "The project must be within the realm of Electrical and Electronics engineering.",
           "Must be original.",
           "Should have a legitimate title. Titles copied from existing projects will not be allowed.",
-          "Must be a ​working model​.",
+          "Must be a \u200bworking model\u200b.",
           "Required components are to be brought by the participants. No components will be provided.",
           "Registration must be done online.",
           "Late entries will not be entertained.",
           "An abstract of around 150 words with an apt project title is to be sent as a pdf attachment to the mail.",
           "The mail must consist of the following details of each team member: Name, Phone number, email ID, College name",
-          "Abstracts must be mailed to ​projectdisplay2k19@gmail.com",
+          "Abstracts must be mailed to \u200bprojectdisplay2k19@gmail.com",
           "The abstracts will be scrutinised by a panel and the shortlisted teams will be notified."
         ],
         [
@@ -2409,7 +2193,8 @@
           "Each project will be judged by a panel of experienced judges.",
           "The decision of the judges will be final."
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "paper-presentation": {
       "last_updated": "8/20/2019 10:00:00",
@@ -2420,7 +2205,7 @@
       "venue": "EEE Block",
       "timing": null,
       "displayName": "Paper Presentation",
-      "description": "What makes innovative thinking happen? We think it’s really a mindset. Let your mind write the paper, not your hand.",
+      "description": "What makes innovative thinking happen? We think it\u2019s really a mindset. Let your mind write the paper, not your hand.",
       "tagline": null,
       "eventname": "Paper Presentation",
       "notes": "",
@@ -2428,20 +2213,14 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "MEENAKSHI P",
-          "contact": "7548800771"
-        },
-        {
-          "name": "ROOPINI A",
-          "contact": "9566491537"
-        }
+        { "name": "MEENAKSHI P", "contact": "7548800771" },
+        { "name": "ROOPINI A", "contact": "9566491537" }
       ],
       "attachments": [],
       "rules": [
         [
           "The participants should send their papers in IEEE format without exceeding 8 pages.",
-          "The papers should be sent to the mail id: invente2019paperpresentation@gmail.com​.",
+          "The papers should be sent to the mail id: invente2019paperpresentation@gmail.com\u200b.",
           "The papers will be evaluated and the selected teams will be intimated through mail."
         ],
         [
@@ -2449,7 +2228,8 @@
           "The presentation time should not exceed the length of 10 minutes.",
           "The paper will be judged based on the criteria like plagiarism, style of writing, presentation and discussion."
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "ipl-bidding": {
       "last_updated": "8/20/2019 10:00:00",
@@ -2460,7 +2240,7 @@
       "venue": "EEE Block",
       "timing": null,
       "displayName": "IPL Bidding",
-      "description": "It’s time to recover from WC hangover and get into our IPL madness. Who wants to Don the ​Yellove​ Jersey? Is cricket your Jaan? Wanna lift your first cup without choking? Let’s don’t mess it up being unpredictable. This season let’s see who’s gonna win it with the perfect squad. The Lions vs The Paltans. Srini Mama vs Ambani. And to be honest, RCB vs Ashish Nehra. Make your favorite teams win by bidding the right players. Be there, participate and win exciting prizes this September.",
+      "description": "It\u2019s time to recover from WC hangover and get into our IPL madness. Who wants to Don the \u200bYellove\u200b Jersey? Is cricket your Jaan? Wanna lift your first cup without choking? Let\u2019s don\u2019t mess it up being unpredictable. This season let\u2019s see who\u2019s gonna win it with the perfect squad. The Lions vs The Paltans. Srini Mama vs Ambani. And to be honest, RCB vs Ashish Nehra. Make your favorite teams win by bidding the right players. Be there, participate and win exciting prizes this September.",
       "tagline": null,
       "eventname": "IPL Bidding",
       "notes": "",
@@ -2468,14 +2248,8 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "PRAVEEN",
-          "contact": "9962751673"
-        },
-        {
-          "name": "ARUN K",
-          "contact": "9047305560"
-        }
+        { "name": "PRAVEEN", "contact": "9962751673" },
+        { "name": "ARUN K", "contact": "9047305560" }
       ],
       "attachments": [],
       "rules": [
@@ -2486,9 +2260,10 @@
           "Hit it in the crowd. Answer the saucy quiz and puzzles and get into the Final round."
         ],
         [
-      "Bid it cheap and watch them weep. Bid your favorite players and win the game with a perfect squad."
-    ]
-      ]
+          "Bid it cheap and watch them weep. Bid your favorite players and win the game with a perfect squad."
+        ]
+      ],
+      "isFlagship": false
     },
     "tentkotta": {
       "last_updated": "8/20/2019 10:00:00",
@@ -2507,31 +2282,25 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "CHANDRU B",
-          "contact": "9787275518"
-        },
-        {
-          "name": "SUREKHA",
-          "contact": "8072444199"
-        }
+        { "name": "CHANDRU B", "contact": "9787275518" },
+        { "name": "SUREKHA", "contact": "8072444199" }
       ],
       "attachments": [],
       "rules": [
         [
-          "​The first round of the new cine-based event, Tentkotta is MCQs and Puzzles of anything related to movies",
+          "\u200bThe first round of the new cine-based event, Tentkotta is MCQs and Puzzles of anything related to movies",
           "Only 2 or 3 members per team",
           "No usage of mobile phones or other devices during the event"
         ],
         [
           "The final round of the event consists of a variety of competitions",
-          "Dumb Charades​: 1. Be the dumb one 2. Act out the title 3. Profit.",
-          "Connections​: Others may think these are a random arrangement of pictures, but this could be your key to winning!",
-          "Mono act​: Showcase your acting skills by acting out two characters at the same time to get the win!",
-          "Lyrics Finder​: Been memorizing lyrics instead of studying for the semesters? This stage is yours to own!"
-
+          "Dumb Charades\u200b: 1. Be the dumb one 2. Act out the title 3. Profit.",
+          "Connections\u200b: Others may think these are a random arrangement of pictures, but this could be your key to winning!",
+          "Mono act\u200b: Showcase your acting skills by acting out two characters at the same time to get the win!",
+          "Lyrics Finder\u200b: Been memorizing lyrics instead of studying for the semesters? This stage is yours to own!"
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "tech-quiz": {
       "last_updated": "8/20/2019 10:00:00",
@@ -2550,14 +2319,8 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "N.DIVYASRI",
-          "contact": "9787922792"
-        },
-        {
-          "name": "PRANAV MOORTHY",
-          "contact": "8190005700"
-        }
+        { "name": "N.DIVYASRI", "contact": "9787922792" },
+        { "name": "PRANAV MOORTHY", "contact": "8190005700" }
       ],
       "attachments": [],
       "rules": [
@@ -2565,14 +2328,14 @@
           "Maximum 3 per team",
           "No electronic devices are allowed during the event",
           "Multiple choice questions. You will have to face 20 questions in the domain of electrical and electronics and mathematics."
-          
         ],
         [
           "This round is split up into two:",
           "The round will have two set of questions. One from your field of choice and the other will be decided by chances.",
           "Next will be the buzzer round."
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "e-vehicles-and-hybrid-vehicles-workshop": {
       "last_updated": "8/20/2019 10:00:00",
@@ -2583,7 +2346,7 @@
       "venue": "EEE Block",
       "timing": null,
       "displayName": "E- Vehicles and Hybrid Vehicles Workshop",
-      "description": "It's almost 2020! Yes, we still aren't in the stone age to travel in petrol and diesel engine driven vehicles...the time has come to step up to build a sustainable and renewable future for the forthcoming generations. And the next big thing which is happening in and around us is the “Electric Revolution in the Automobile sector”. Yes.... An electric revolution in the automobile sector. Interested? Want to know about it? Here is the best platform to enlighten your minds. Presenting you ​Toyota Kirloskar Motors – the automobile giants who are fast accelerating in the market of Hybrid Vehicles and E- Vehicles. Toyota in association with ​Invente 4.0 is staging a talk on the technological advancements and the technical and industrial aspects required for the field of E-Vehicles and Hybrid Vehicles​ here in SSN College of Engineering. Grab your seats, as this is one opportunity where you can directly come across the Giants in person. Get ready to explore the infinity, be there at the ​Justice Pratap Singh Auditorium​ in ​SSN College of Engineering​. On spot registrations are also available.",
+      "description": "It's almost 2020! Yes, we still aren't in the stone age to travel in petrol and diesel engine driven vehicles...the time has come to step up to build a sustainable and renewable future for the forthcoming generations. And the next big thing which is happening in and around us is the \u201cElectric Revolution in the Automobile sector\u201d. Yes.... An electric revolution in the automobile sector. Interested? Want to know about it? Here is the best platform to enlighten your minds. Presenting you \u200bToyota Kirloskar Motors \u2013 the automobile giants who are fast accelerating in the market of Hybrid Vehicles and E- Vehicles. Toyota in association with \u200bInvente 4.0 is staging a talk on the technological advancements and the technical and industrial aspects required for the field of E-Vehicles and Hybrid Vehicles\u200b here in SSN College of Engineering. Grab your seats, as this is one opportunity where you can directly come across the Giants in person. Get ready to explore the infinity, be there at the \u200bJustice Pratap Singh Auditorium\u200b in \u200bSSN College of Engineering\u200b. On spot registrations are also available.",
       "tagline": "",
       "eventname": "E- Vehicles and Hybrid Vehicles Workshop",
       "notes": "",
@@ -2591,17 +2354,12 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "ARSHAD MOHAMED M.A",
-          "contact": "9944479416"
-        },
-        {
-          "name": "DINESH RAM KUMAR M",
-          "contact": "9629470915"
-        }
+        { "name": "ARSHAD MOHAMED M.A", "contact": "9944479416" },
+        { "name": "DINESH RAM KUMAR M", "contact": "9629470915" }
       ],
       "attachments": [],
-      "rules": []
+      "rules": [],
+      "isFlagship": false
     }
   },
   "ece": {
@@ -2622,24 +2380,18 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Aishwarya Narayan",
-          "contact": "8825531866"
-        },
-        {
-          "name": "Nandhini K",
-          "contact": "9600226505"
-        }
+        { "name": "Aishwarya Narayan", "contact": "8825531866" },
+        { "name": "Nandhini K", "contact": "9600226505" }
       ],
       "attachments": [],
       "rules": [
         [
           "Teams will have to describe their ideas in a small abstract not more than 250 words. Based on the abstracts sent, teams will get shortlisted to the next round.",
-          "Teams have to send their abstract in pdf format to the mail paperpresentation.ece.ssn@gmail.com on or before the stipulated dates with the subject being INVENTE4.0 – Paper Presentation Abstract.",
-          "Teams selected in Round 1 must send their papers in pdf format to the mail paperpresentation.ece.ssn@gmail.com on or before the stipulated dates with the subject being INVENTE4.0 – Paper Presentation Full Paper.",
-          "The body of the mail should contain details of the team members such as participant’s name, department, college, phone number and e-mail address.",
+          "Teams have to send their abstract in pdf format to the mail paperpresentation.ece.ssn@gmail.com on or before the stipulated dates with the subject being INVENTE4.0 \u2013 Paper Presentation Abstract.",
+          "Teams selected in Round 1 must send their papers in pdf format to the mail paperpresentation.ece.ssn@gmail.com on or before the stipulated dates with the subject being INVENTE4.0 \u2013 Paper Presentation Full Paper.",
+          "The body of the mail should contain details of the team members such as participant\u2019s name, department, college, phone number and e-mail address.",
           "Teams will have to bring hard copies of the abstract and full paper on the day of presentation. Each team would be given a time span of 10 minutes to explain their ideas.",
-          "The judges’ decisions shall be binding and final.",
+          "The judges\u2019 decisions shall be binding and final.",
           "IMPORTANT DATES:",
           "Last date for submission of abstract: 15.08.2019",
           "Intimation of acceptance of abstract: 18.08.2019",
@@ -2649,7 +2401,8 @@
         [
           "Teams shortlisted in the previous round will have to send in the full paper clearly explaining the project idea. Based on the papers sent, teams will get shortlisted to present the paper on the day of the event."
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "think-d": {
       "last_updated": "9/14/2018 11:35:12",
@@ -2660,7 +2413,7 @@
       "venue": "Prelims:\n2A, First Floor, Annexure Block, Dept. of ECE\nFinals:\nMicroprocessor & Microcontroller Lab, Dept. of ECE",
       "timing": "21st September, 2018\nPrelims: 10:30 - 13:30\nFinals: 14:00 - 16:00",
       "displayName": "Think D",
-      "description": "Design is a dangerously obscure term. Especially in the Age of Design in which “good design” mark might be a highway to success for any product and “bad design” may doom anything.Diving deep into the nature of design can give us some kind of clear view for the matter, so here comes the perfect chance for you to showcase your creativity here at INVENTE.There are three round in think D",
+      "description": "Design is a dangerously obscure term. Especially in the Age of Design in which \u201cgood design\u201d mark might be a highway to success for any product and \u201cbad design\u201d may doom anything.Diving deep into the nature of design can give us some kind of clear view for the matter, so here comes the perfect chance for you to showcase your creativity here at INVENTE.There are three round in think D",
       "tagline": null,
       "eventname": "Think D",
       "notes": "Participants are not required to have the knowledge to use photoshop or illustrator.We make up our mark purely based on your creativity",
@@ -2668,14 +2421,8 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Shibi Kannan T M -",
-          "contact": " 8903005562"
-        },
-        {
-          "name": "Rahul L R",
-          "contact": "9566162099"
-        }
+        { "name": "Shibi Kannan T M -", "contact": " 8903005562" },
+        { "name": "Rahul L R", "contact": "9566162099" }
       ],
       "attachments": [],
       "rules": [
@@ -2688,7 +2435,8 @@
         [
           "It is about poster design and logo design using Adobe illustrator where the raw picture and sub materials will be given by us with a statement of purpose."
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "solder-it": {
       "last_updated": "8/29/2018 15:13:12",
@@ -2699,7 +2447,7 @@
       "venue": "",
       "timing": "",
       "displayName": "Solder It",
-      "description": "There are some who Short-circuit their electronics and run away when the tiniest of shocks hit them and there are those who break and understand what really happened. Those who are passionate about electronics, whose dreams are filled with resistors and capacitors forming a network as beautiful as that of a spider. If you belong to this rare breed of dreamers, then you are in for a treat. Come and join us at “SOLDER IT” @ INVENTE and compete with others who are equally passionate in soldering as you are and surprise us all with all the skills that you possess.",
+      "description": "There are some who Short-circuit their electronics and run away when the tiniest of shocks hit them and there are those who break and understand what really happened. Those who are passionate about electronics, whose dreams are filled with resistors and capacitors forming a network as beautiful as that of a spider. If you belong to this rare breed of dreamers, then you are in for a treat. Come and join us at \u201cSOLDER IT\u201d @ INVENTE and compete with others who are equally passionate in soldering as you are and surprise us all with all the skills that you possess.",
       "tagline": "Wish to bond Electronics with electronics !",
       "eventname": "Solder It",
       "notes": "",
@@ -2707,26 +2455,21 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Sakthivelan S",
-          "contact": "7401553881"
-        },
-        {
-          "name": "Ishwarya B",
-          "contact": "7397040073"
-        }
+        { "name": "Sakthivelan S", "contact": "7401553881" },
+        { "name": "Ishwarya B", "contact": "7397040073" }
       ],
       "attachments": [],
       "rules": [
         [
           "A paper pen test with questions distributed across sections - puzzles, electronics, programming.",
-          "Duration – 30 minutes."
+          "Duration \u2013 30 minutes."
         ],
         [
           "Teams will be shortlisted based on the paper pen test and will be given the necessary items such as soldering rod, lead, flux,  transistors etc. You will given a circuit description that you have to solve and solder the components according to the circuit layout you inferred.",
           " You will be scored on how well and neat your circuit is soldered and implemented with points for improvisation as well!!"
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "make-a-thon": {
       "last_updated": "8/26/2018 23:18:39",
@@ -2737,7 +2480,7 @@
       "venue": "DSP Lab (ECE block)",
       "timing": "9 00 PM",
       "displayName": "Make-a-thon",
-      "description": "Hear Hear Hear!!Yes you! Are you the one among many who always wanted to make a\nblock of code come to life? Well the magic word is MATLAB ,C++, Python etc .How about we tell you that you will get actually rewarded for the coding? Sounds exciting right? Do you\nwanna show us who is the BOSS here? Just jump a few hurdles and the Holy Grail(pun not\nintended) is yours .Lets visualize the world together in a new way, with chef de-ouvre software of modeling –MAKE-a-THON (CODING BOSS)not like ( BIGG BOSS) .Can’t wait to meet you all #invente3.0 #BeaCodeking!!",
+      "description": "Hear Hear Hear!!Yes you! Are you the one among many who always wanted to make a\nblock of code come to life? Well the magic word is MATLAB ,C++, Python etc .How about we tell you that you will get actually rewarded for the coding? Sounds exciting right? Do you\nwanna show us who is the BOSS here? Just jump a few hurdles and the Holy Grail(pun not\nintended) is yours .Lets visualize the world together in a new way, with chef de-ouvre software of modeling \u2013MAKE-a-THON (CODING BOSS)not like ( BIGG BOSS) .Can\u2019t wait to meet you all #invente3.0 #BeaCodeking!!",
       "tagline": "#NotsoDarkNinja",
       "eventname": "Make-a-thon",
       "notes": "",
@@ -2745,14 +2488,8 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Santhosh B",
-          "contact": "9042117796"
-        },
-        {
-          "name": "Vishaal Venkat",
-          "contact": "9840475101"
-        }
+        { "name": "Santhosh B", "contact": "9042117796" },
+        { "name": "Vishaal Venkat", "contact": "9840475101" }
       ],
       "attachments": [],
       "rules": [
@@ -2760,7 +2497,7 @@
           "1)The first round is pen and paper round which will consist questions of MCQ type from basic",
           "programming and MATLAB, C ,C++,python coding, with elimination every 10 minutes based on",
           "number of questions answered correctly.",
-          "Team will be given 45 mins​ to solve the questions",
+          "Team will be given 45 mins\u200b to solve the questions",
           "2)Top performing teams will be shortlisted to the next rounds based on the points they",
           "score in this round.",
           "3)In case of tie between teams, starred questions will be used to eliminate teams."
@@ -2769,7 +2506,8 @@
           "Matlab coding ,python,c++ tasks like using GUI, Simulink etc using MATLAB , PYcharm software ",
           "based on common usages in programming.(1Hr)"
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "enigma": {
       "last_updated": "9/13/2018 23:36:00",
@@ -2780,7 +2518,7 @@
       "venue": "Digital Signal Processing lab,ECE department ",
       "timing": "September 22,2018",
       "displayName": "Enigma",
-      "description": "You are up against a serial killer who has confined you to shackles in a techno-savvy environment filled with riddles. Race against the clock to crack the code and escape from them before it’s too late!",
+      "description": "You are up against a serial killer who has confined you to shackles in a techno-savvy environment filled with riddles. Race against the clock to crack the code and escape from them before it\u2019s too late!",
       "tagline": null,
       "eventname": "Enigma",
       "notes": "(A team can consist of maximum of 3 people)",
@@ -2788,14 +2526,8 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Muthu Kumaran A",
-          "contact": "9944995973"
-        },
-        {
-          "name": "Anirud Velan S",
-          "contact": "9488438723"
-        }
+        { "name": "Muthu Kumaran A", "contact": "9944995973" },
+        { "name": "Anirud Velan S", "contact": "9488438723" }
       ],
       "attachments": [],
       "rules": [
@@ -2807,7 +2539,8 @@
         [
           "The participants will be given a set of puzzles that consists of a secret code. The participants need to decode the message and then build a circuit to detect and verify it. The winner will be selected based on time management and efficiency of the circuit."
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "run-out": {
       "last_updated": "9/10/2018 22:53:14",
@@ -2826,14 +2559,8 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Karthikeyan A",
-          "contact": "8056184521"
-        },
-        {
-          "name": "Bala Subramaniam S",
-          "contact": "7395902099"
-        }
+        { "name": "Karthikeyan A", "contact": "8056184521" },
+        { "name": "Bala Subramaniam S", "contact": "7395902099" }
       ],
       "attachments": [],
       "rules": [
@@ -2841,7 +2568,8 @@
         [
           "Round 2: ( shortlisted 4 teams ) will be consist of 3 matches ( 2 SF and a Final) --Each match will consist of 2 innings, where the 2 teams will have to bat as well as field. --the two players from the fielding team has to stand near the stumps in the strikers end and non-strikers end and the batting team will run between the wickets while the fielding team tries to answer the quiz and run the batsman out(runs run by the batting team is their score)...the more time the fielding team takes to finish each round of answers, the more runs the opposite team scores by running between the wickets. -- a innings will consist of 6 ball...each ball will have 3 questions which has to be answered alternatively by the fielder at the striker and non-striker end individually. Each fielder has to answer his question and throw the ball to the other end, where his teammate will catch the ball and then answer his question. The fielding team has to answer 3 questions before trying to run out the opposite team. This happens for 6 balls. The total runs run by the batting team is their points. -- both the teams switch their role for their second innings, the batting team tries to chase down the target. --the winning team goes to the finals... (The quiz questions in the match can be replaced by word building(cricket related terms) to make it more fun)"
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "e-treasure-hunt": {
       "last_updated": "8/29/2018 19:15:33",
@@ -2860,14 +2588,8 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Sriharini R",
-          "contact": "8870239870"
-        },
-        {
-          "name": "Rupaa Shri S",
-          "contact": "9500041395"
-        }
+        { "name": "Sriharini R", "contact": "8870239870" },
+        { "name": "Rupaa Shri S", "contact": "9500041395" }
       ],
       "attachments": [],
       "rules": [
@@ -2879,7 +2601,8 @@
         [
           "From the given components,the teams need to build a set of circuits that we give to them in minimum possible time"
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "junkyard-jumble": {
       "last_updated": "9/9/2018 19:51:51",
@@ -2890,7 +2613,7 @@
       "venue": "ECE-Old block, EC lab",
       "timing": "9.30 a.m- 4 p.m ",
       "displayName": "Junkyard Jumble",
-      "description": "What would you do if you had a good imagination on one hand and junk on the other? Put your hands together and you’ll have what, according to Edison, is sufficient to INVENT! Junkyard Jumble is an event that will put your engineering skills to test by building something out of “supposedly” nothing! \nRemember, “It’s not about ideas, it’s about making ideas HAPPEN”. May the best innovation win!",
+      "description": "What would you do if you had a good imagination on one hand and junk on the other? Put your hands together and you\u2019ll have what, according to Edison, is sufficient to INVENT! Junkyard Jumble is an event that will put your engineering skills to test by building something out of \u201csupposedly\u201d nothing! \nRemember, \u201cIt\u2019s not about ideas, it\u2019s about making ideas HAPPEN\u201d. May the best innovation win!",
       "tagline": "From rags to riches!",
       "eventname": "Junkyard Jumble",
       "notes": "",
@@ -2898,19 +2621,13 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Akshya R",
-          "contact": "988411718"
-        },
-        {
-          "name": "Gopikaa J",
-          "contact": "9940252298"
-        }
+        { "name": "Akshya R", "contact": "988411718" },
+        { "name": "Gopikaa J", "contact": "9940252298" }
       ],
       "attachments": [],
       "rules": [
         [
-          "The first round is a written test that is comprised of aptitude, fundamental engineering (Electronics, Coding etc) and also some riddles to test the participants’ problem solving ability. Do not take round 1 lightly, for the points you score in this round can come to your rescue in round 2 as well. "
+          "The first round is a written test that is comprised of aptitude, fundamental engineering (Electronics, Coding etc) and also some riddles to test the participants\u2019 problem solving ability. Do not take round 1 lightly, for the points you score in this round can come to your rescue in round 2 as well. "
         ],
         [
           "SPIN THE WHEEL: The contestants will be required to spin a wheel that contains the following options:",
@@ -2918,15 +2635,16 @@
           "Digital electronics",
           "Communication systems",
           "Mechanical contraptions",
-          "The contestants will be handed a “mystery box” that contains assorted components from each of these domains (which they’ll be choosing by spinning the wheel), and they’ll be given three hours to come build something from a seemingly random collection of things. ",
+          "The contestants will be handed a \u201cmystery box\u201d that contains assorted components from each of these domains (which they\u2019ll be choosing by spinning the wheel), and they\u2019ll be given three hours to come build something from a seemingly random collection of things. ",
           "Not too familiar with electronics? Worry not! Pick contraptions with the extra points you bagged in round 1!",
-          "Remember, “It’s not about ideas, it’s about making ideas HAPPEN”. May the best innovation win!",
+          "Remember, \u201cIt\u2019s not about ideas, it\u2019s about making ideas HAPPEN\u201d. May the best innovation win!",
           "RULES:",
           "Teams must comprise of 2-3 members.",
           "Additional components will be provided if necessary, depending on the points secured in round 1.",
-          "Teams are allowed to use the internet for ideas in the second round, all we’re looking for is a working model and possible inventions!"
+          "Teams are allowed to use the internet for ideas in the second round, all we\u2019re looking for is a working model and possible inventions!"
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "triwizard-tournament": {
       "last_updated": "9/10/2018 16:03:56",
@@ -2945,14 +2663,8 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Sabharish Padmanaaban",
-          "contact": "9710890899"
-        },
-        {
-          "name": "Shivani S",
-          "contact": "8754671605"
-        }
+        { "name": "Sabharish Padmanaaban", "contact": "9710890899" },
+        { "name": "Shivani S", "contact": "8754671605" }
       ],
       "attachments": [],
       "rules": [
@@ -2967,7 +2679,8 @@
           "  ",
           "The final round is totally based on how you persuade others in selling the technical idea/model (choice of your own) and convince the team on investing on your idea. The team should come up with creative ways to sell their idea."
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "trump_the_aces": {
       "last_updated": "9/10/2018 19:07:02",
@@ -2978,7 +2691,7 @@
       "venue": "Digital Communication lab",
       "timing": "prelims - 9:30am  to 12:30pm\nfinals - 1pm  to 3 pm",
       "displayName": "Trump the Aces",
-      "description": "Luck can determine the winner but knowledge can beat all odds. “Trump the Ace” is a fun technical event where the individuals’ holistic knowledge of engineering is tested.",
+      "description": "Luck can determine the winner but knowledge can beat all odds. \u201cTrump the Ace\u201d is a fun technical event where the individuals\u2019 holistic knowledge of engineering is tested.",
       "tagline": null,
       "eventname": "Trump the Aces",
       "notes": "",
@@ -2986,14 +2699,8 @@
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
-        {
-          "name": "Ramprasath M B ",
-          "contact": "9444945015"
-        },
-        {
-          "name": "Raviteja V",
-          "contact": "9840879524"
-        }
+        { "name": "Ramprasath M B ", "contact": "9444945015" },
+        { "name": "Raviteja V", "contact": "9840879524" }
       ],
       "attachments": [],
       "rules": [
@@ -3003,162 +2710,179 @@
         [
           "The second round is an application-oriented one. In this round, each qualified team will be tested on their conceptual and analytical skills. The teams will have to draw a card once again. Based on the card obtained, they will be presented with different engineering-related situations. If the card is an ace, the teams can boost their score by choosing to solve a situation given to any other team. If the team pointed to, has picked a face card, it can pass a question of its own choice. The teams have to analyze the given situations and come up with ideas to solve the issues in the situation. All the teams are expected to deliver their solutions in front of other teams and the organizers. Analyzing their ideas and their excellence in delivering the idea, a winner and runner will be chosen. In order to make the event more enjoyable and interactive,other rules will be strategized."
         ]
-      ]
-    }
-  },
-  "bme": {
-    "biogonize": {
-      "last_updated": "9/11/2018 14:53:54",
-      "isTechnical": true,
-      "eventtype": "Technical",
-      "dept": "bme",
-      "slug": "biogonize",
-      "venue": "BME department,III year classroom",
-      "timing": "22nd,9am",
-      "displayName": "Biogonize",
-      "description": "Totally 3 rounds.\n1.Takku takku takkunu- a fast video clip of pictures related to engineering and u have to identify them.\n2 Innovation out of waste- making models out of miscellaneous items.\n3.Oru kadha solta sir-Should create a story with the given biological words.\nAnd a team of 2 should participate",
-      "tagline": "It's not just your brains that need to play!",
-      "eventname": "Biogonize",
+      ],
+      "isFlagship": false
+    },
+    "hack-hackathon": {
+      "last_updated": "9/13/2018 22:40:02",
+      "isTechnical": false,
+      "eventtype": "Hackathon",
+      "dept": "ece",
+      "slug": "hack-hackathon",
+      "venue": "CDC",
+      "timing": "24 hours ( september 6 12 PM - september 7 4 PM)",
+      "displayName": "Hackinfinity",
+      "description": "Hackinfinity:A university hackathon will be open for students currently pursuing Bachelor’s or Master’s technology degree from various universities/colleges. The competition will provide an avenue for students to put to test their passion for innovation, problem-solving, design thinking, and programming skills while winning amazing prizes in the process. The event will take place for 24 hours where the shortlisted teams will build a completed product which will be put for evaluation. The judgement will be based on various criteria such as design, innovation , scalability and product pitch",
+      "tagline": null,
+      "eventname": "Hackinfinity",
       "notes": "",
-      "prize": "1st-1000,2nd-750,3rd-500",
+      "prize": null,
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
         {
-          "name": "Sivaranjani.M",
-          "email": "siva.rj98@gmail.com",
-          "contact": "9940425108"
+          "name": "Jayanth Prabakaran",
+          "contact": ""
+        }
+      ],
+      "attachments": [],
+      "rules": [],
+      "isFlagship": true
+    }
+  },
+  "bme": {
+    "gizmo-wizard": {
+      "last_updated": "9/11/2018 14:53:54",
+      "isTechnical": true,
+      "eventtype": "Technical",
+      "dept": "bme",
+      "slug": "gizmo-wizard",
+      "venue": "Medical Electronics Lab - First floor BME department",
+      "timing": "6th september 9:00 AM",
+      "displayName": "Gizmo Wizard",
+      "description": "For all those who feel the engineering you studied has never ever been put to use, and if you are someone who likes to breakdown things just to understand how they work? Well then, consider yourselves lucky, for, you can win exciting prizes by bringing out the engineer in you through GIZMO WIZARD.\nAchieve a given task using different scientific principles with the help of different props. The teams will be evaluated based on how many scientific principles they incorporate in achieving the task",
+      "tagline": "It's not just your brains that need to play!",
+      "eventname": "Gizmo Wizard",
+      "notes": "",
+      "prize": null,
+      "intesnship": null,
+      "registrationFee": null,
+      "eventHeads": [
+        {
+          "name": "nanya R",
+          "contact": "9941902144"
         },
         {
-          "name": "Sowmiya.M",
-          "email": "sowmi18997@gmail.com",
-          "contact": "9629043022"
+          "name": "Ishaa S",
+          "contact": "7299962510"
         }
       ],
       "attachments": [],
       "rules": [
         [
-          "Fast video will be played and u have to identify the things in that video.The one who find maximum things wins the game"
+          "The teams are required to create a theoretical/ paper/computer model of how their contraption would work. The most interesting, practical and the feasible ones will be selected for the next round."
         ],
         [
-          "U will be given few points using that points u should buy waste material and to make model out of that waste"
-        ],
-        ["Should form a story using the given biomedical words"]
-      ]
+          "So, here is what you would love to do------yes!!! Make your contraption work!!!! And the team that makes it work with innovative principles would be THE GIZMO WIZARD!!!"
+        ]
+      ],
+      "isFlagship": true
     },
-    "scintelligence-3.0": {
+    "scintelligence": {
       "last_updated": "8/26/2018 9:52:57",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "bme",
-      "slug": "scintelligence-3.0",
-      "venue": "BME seminar hall",
-      "timing": "Prelims \nRound 1 :9:00 to 10:00 am\n\nSemi finals\nRound 2 : 10:00 to 11:00 am\nRound 3 : 11:00 to 12:00 am\n\nFinals\nRound 4 : 1:00 to 2:00 pm\nRound 5 : 2:00 to 3:00 pm\n\nPrize distribution : 3:00 to 3:30 pm",
-      "displayName": "Scintelligence 3.0",
-      "description": "Leggo again!!!!!Expose The scrumdelicious… The hard earned thirst!!\nBecause engineering is complicated enough, we make it much more complicated. Come as good as it gets! To the resurging SCINTELLIGENCE 3.0 bundled up with newer better and bigger rounds.\n\nPrelims:\n1) Bounce OFF.\n\nSem finals:\n1) Tap to cap.\n2) Where do i kept my bits?\n\nFinals\n1) Cap yourself Sherlock.\n2) Wolf of the wall street.",
-      "tagline": "Tighten!! the power is on your side and Don’t leave the house without prize. ",
-      "eventname": "Scintelligence 3.0",
+      "slug": "scintelligence",
+      "venue": "2nd year classroom - ground Floor (BME Dept)",
+      "timing": "6th September at 10:00 AM",
+      "displayName": "Scintelligence",
+      "description": "Feel the adrenaline rush, as we test your technical knowledge and skill with brain games. Get ready to discover some unexplored territory.",
+      "tagline": "Tighten!! the power is on your side and Don\u2019t leave the house without prize. ",
+      "eventname": "Scintelligence",
       "notes": "",
       "prize": "5000rs",
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
         {
-          "name": "Viswanath. S",
-          "email": "viswanath15061@bme.ssn.edu.in",
-          "contact": "7358165357"
+          "name": "Kesavaraj V",
+          "contact": "7358731744"
         },
         {
-          "name": "Arun kumar. K",
-          "email": "arunkumar15010@bme.ssn.edu.in",
-          "contact": "8148837599"
+          "name": "Yohanya",
+          "contact": "7448954911"
         }
       ],
       "attachments": [],
       "rules": [
         [
-          "Bounce OFF!",
-          "Forget pinballs, for we now have bin and balls!",
-          "Time duration: 30mins ",
-          "Scoring: 2pts / answer."
+          "• Crack it up",
+          "1. Each team will have two members.",
+          "2. They will be made to crack the word hidden in pictorial clues.",
+          "3. There will be a total of 5 questions.",
+          "4. Every right answer gets two points.",
+          "5. Duration: 1 hour."
         ],
         [
-          "Tap to cup",
-          "Toss the spoon really soon, get the clue to edge over the crew.",
-          "Time duration: 30mins ",
-          "Scoring: 2pts / answer"
+          "• Knick Knack:",
+          "1. Each team can have two members.",
+          "2. They will have to unscramble the given words and link them up to find the underlying concept.",
+          "3. There will be a total of 3 questions.",
+          "4. Every right answer gets two points.",
+          "5. Duration:30 minutes.",
+          "• Cat's tail:",
+          "1. Each team will have two members.",
+          "2. The team members will be asked to analyze the given picture, and guide their blind folded partner to identify the correct spot.",
+          "3. There will be a total of 2 questions posed.",
+          "4. Every right answer will be awarded 2 points.",
+          "5. Duration: 30 minutes."
         ],
         [
-          "Where do I kept my bit?",
-          "There’s many a slip twixt the cup and the lip…",
-          "Go for it and tap into the pit!",
-          "Time duration: 30mins ",
-          "Scoring: 2pts / answer"
-        ],
-        [
-          "Cap yourself sherlock",
-          "To a great mind, nothing is little. Come! Eliminate the impossible. Let’s see who is the Sherlock of this new generation.",
-          "Time duration: 30mins ",
-          "Scoring: 5pts / answer"
-        ],
-        [
-          "Wolf of the wall street",
-          "“It’s a business, keep your emotions at the doors!”",
-          "Are you the wolf? Show us how loud you can howl!",
-          "Time duration: 30mins ",
-          "Scoring: share based."
+          "• Gravitics:",
+          "1. Each team will have two members",
+          "2. They’ll have to solve the problem within time limit which is decided by their partner's balancing skill.",
+          "3. There will be a total of 3 questions.",
+          "4. Every right answer gets two points.",
+          "5. Duration: 30 minutes.",
+          "• Impulse:",
+          "1. Each team will have two members.",
+          "2. They’ll have to help their partner find the words by giving clues.",
+          "3. Every word is allowed 3 clues.",
+          "4. There will be a total of 5 questions.",
+          "5. Every right answer gets two points",
+          "6. Duration: 30 minutes."
         ]
-      ]
+      ],
+      "isFlagship": false
     },
-    "tellurians": {
+    "biomart": {
       "last_updated": "8/29/2018 12:59:21",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "bme",
-      "slug": "tellurians",
-      "venue": "III year class room -BME department",
-      "timing": "September 21",
-      "displayName": "Tellurians",
-      "description": "Explore, learn and have fun by flying to various planets and decipher the various zestful and intriguing quizzes and puzzles to complete your mission.",
-      "tagline": "TELLURIANS-READY FOR TAKEOFF??",
-      "eventname": "Tellurians",
+      "slug": "biomart",
+      "venue": "Seminar Hall - Ground floor BME department",
+      "timing": "6th september 9:00 AM",
+      "displayName": "BIOMART",
+      "description": "A virtual money game where the ultimate goal is to build and keep the hospital alive even when the spurious accidents do the rounds. Design your very own hospital, tweak every detail and show us that you own all the tricks of business. Become an aspiring manager,a successful planner and an ace practitioner all at the same time!!",
+      "tagline": "Play or bid to keep your stakes high to build your own hospital!!",
+      "eventname": "BIOMART",
       "notes": "",
-      "prize": "1st prize-Rs 1500   2nd prize-Rs 1000",
+      "prize": null,
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
         {
-          "name": "NISSY ELAN SHAJI",
-          "email": "nissyelan15032@bme.ssn.edu.in",
-          "contact": "9790833762"
-        },
-        {
-          "name": "M.Rajalakshmi",
-          "email": "rajalakshmi15041@bme.ssn.edu.in",
-          "contact": "9962863552"
+          "name": "Varsha N K",
+          "contact": "6369668313"
         }
       ],
       "attachments": [],
       "rules": [
         [
-          "A TEAM CAN CONSIST OF 2-4 MEMBERS!!",
-          "Round I: Planet Gliese",
-          "Quiz-o-mania: The participants should answer a set of technical and non-technical questions within the stipulated time.",
-          "The teams who are qualified will be informed and requested to be present for the next rounds which will be held on Day 2."
+          "• A hustle team of 3-5 members will be allocated a base deposit of 50000 virtual bucks and a manual listing the details of machines/equipments available in the hospital will be given!",
+          "• Teams will have to auction to buy certain equipments and raw materials to start designing a particular department of the hospital."
         ],
         [
-          "Round II: Planet Fye",
-          "94%: The goal of “94%” is to find the top 94% of the given answers to a specific question. There are many possible answers to each question, but the trick is to find the most popular answers.",
-          "Logo Quiz: A description of a company or a product will be given; the participants should find the logo.",
-          "Connexions: A total of four pictures will be given and each picture will be linked to each other, the participants should guess the answer.",
-          "4 teams will be selected based on the points they received and qualified for the final round."
+          "• The price of raw materials will inflate and deflate. Some spurious accidents will be posted on the teams and the teams will have to overcome them by earning more and more money either by selling their products and shares or by playing dare games!",
+          "• By the end of the second round, only the top 5 teams with higher number of bucks will be selected for the final showdown!"
         ],
         [
-          "Round III: Planet Kepler",
-          "Who am I? : Clues will be given and the participants have to find the answer.",
-          "Treasure Hunt: Based on the clues from “Who am I?”, the participants will further be given more clues to reach various spots and find a key to unlock the box in the last spot which contains the puzzle which needs to be solved."
+          "Final showdown is fun and frolic! Your stakes might taste profit or might meet accident. It all depends on how well you manage shares and hoe artistic is your design in terms of planning. The team that manages to function the hospital and is able to maintain good figures in terms of shares will be the ultimate business-o-crats!!"
         ]
-      ]
+      ],
+      "isFlagship": false
     },
     "paper-presentation": {
       "last_updated": "9/7/2018 20:37:20",
@@ -3166,318 +2890,211 @@
       "eventtype": "Technical",
       "dept": "bme",
       "slug": "paper-presentation",
-      "venue": "BME Conference Hall",
-      "timing": "Day 1",
+      "venue": "Diagnostic and Therapeutic  Lab - Second Floor (BME Dept)",
+      "timing": "6th September 10:00 AM",
       "displayName": "Paper Presentation",
       "description": "Express your enthusiasm for the biomedical field by presenting your innovations and ideas.",
       "tagline": null,
       "eventname": "Paper Presentation",
       "notes": "",
-      "prize": "4500",
+      "prize": null,
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
         {
-          "name": "Divya Rajagopal ",
-          "email": "rajagopaldivya6@gmail.com",
-          "contact": "9940475358"
+          "name": "Kiruthika",
+          "contact": "8072527312"
         },
         {
-          "name": "Thiyaneshwar ",
-          "email": "thiyamurthy@gmail.com",
-          "contact": "‭+91 93846 51851‬"
+          "name": "Aghil Kavya",
+          "contact": "9176253260"
         }
       ],
-      "attachments": [
-        "https://docs.google.com/document/d/1dXgS0_LCafeacIRFEO4bfG6iJv277N72mFK5Oi0HNfI"
+      "attachments": [],
+      "rules": [
+        [
+          "The following are the domains for paper presentation:",
+          "◦ Healthcare technology",
+          "◦ Nano electronics",
+          "◦ Biosignal processing",
+          "◦ Artificial organs",
+          "◦ Physiological modelling",
+          "◦ Digital image processing",
+          "◦ Artificial neural networks",
+          "◦ VLSI signal processing",
+          "◦ Real time embedded systems",
+          "◦ Robotics"
+        ],
+        [
+          "• Abstract has to be submitted(word document)in not more than 300 words before the due date (2nd September 2019)",
+          "• Based on peer review of the abstracts, contestants will be shortlisted for the next round. If chosen, the hard copy of the paper with the abstract in A4 sheets(not more than 10 pages including references,tables and graphs) has to be submitted on the day of the event. The paper should be in IEEE format and written in Times New Roman font.",
+          "• The ‘Microsoft Powerpoint’ presentation should be mailed to the organizing team on or before the 8th of September and can last for a maximum of 7 minutes. There will be a 3 minute Q&A session following it.",
+          "• Deadline for submission: 2nd September 2019"
+        ]
       ],
-      "rules": [["Abstracts should be sent by 10th September "]]
+      "isFlagship": false
     },
-    "matalino": {
+    "multiverse": {
       "last_updated": "8/29/2018 13:21:59",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "bme",
-      "slug": "matalino",
-      "venue": "Biomedical department, 1st Floor, LS 04 ( final year class room) ",
-      "timing": "9:30 am",
-      "displayName": "Matalino",
-      "description": "4 rounds, 2 members per team\n1.high on volume ( find the word amidst the high volume) \n2.fire the five (Q&A) \n3.music trivia ( musical chair kindof thing) \n4.mathoscience ( equation solving and Bio related Q&A) \n",
+      "slug": "multiverse",
+      "venue": "4th year class room - First floor BME department",
+      "timing": "6th and 7th september 9:00 AM",
+      "displayName": "MULTIVERSE",
+      "description": "A test to awaken the daredevil in you. Whatever doesn't kill you simply makes you stronger! Are you a daring person? Do you like to explore new things? Do you love surprises? Then this the right place for you. Come and explore the craziness within. See you at SSN on September 6 and 7. Be ready for the adrenaline rush.\nIf you are brave enough, enter this game. Beware. There is no looking back once you step in.",
       "tagline": null,
-      "eventname": "Matalino",
+      "eventname": "MULTIVERSE",
       "notes": "",
-      "prize": "1st 🏆 =1500 & 2nd 🏆 =1000",
+      "prize": null,
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
         {
-          "name": "Shylin Sylvia ",
-          "email": "Shylubecky@gmail.com ",
-          "contact": "9791922253"
+          "name": "Jagadesh AS ",
+          "contact": "7358729757"
         },
         {
-          "name": "Jaya Pradha ",
-          "email": "pappusmiley24@gmail.com",
-          "contact": "9566734080"
-        }
-      ],
-      "attachments": [],
-      "rules": [
-        [
-          "Round1:High on volume! ",
-          "Earphones are provided to one member. List of words are given to another. The one with earphones have to find the words amidst the high music..Time limit:2min."
-        ],
-        [
-          "Round2:Fire the five!! ",
-          "Five questions are given. They have to find that five answers. The first letter of the five answers gives the main answer. Time limit:5min"
-        ],
-        [
-          "Round3:Music Trivia",
-          "Similar to musical chair.. Questions are displayed in projector.Answers are pasted on chairs.The team member have to find out answer and sit on the correct chair."
-        ],
-        [
-          "Round4:Mathoscience",
-          "An equation is given. They have to solve the equation and find the number. They have to run to that numbered bench..One technical question will be given there.They have to find answer and again convert it into number."
-        ]
-      ]
-    },
-    "demaxxon": {
-      "last_updated": "9/17/2018 19:57:41",
-      "isTechnical": true,
-      "eventtype": "Technical",
-      "dept": "bme",
-      "slug": "demaxxon",
-      "venue": "BME 2nd year classroom",
-      "timing": "22nd september 2018 @ 9AM-2PM",
-      "displayName": "Demaxxon",
-      "description": "Demaxxon is full of interesting challenges and innovative mind always look up for the challenges,which aids in understanding the secrets of technology.",
-      "tagline": "Try and Fail but don't Fail to Try",
-      "eventname": "Demaxxon",
-      "notes": "No",
-      "prize": "2500",
-      "intesnship": "No",
-      "registrationFee": null,
-      "eventHeads": [
-        {
-          "name": "Anitha.M",
-          "email": "anithamurugan70@gmail.com",
-          "contact": "9003258073"
-        },
-        {
-          "name": "Sowmiya.B",
-          "email": "sowmiya488@gmail.com",
-          "contact": "7708234637"
-        }
-      ],
-      "attachments": ["No"],
-      "rules": [
-        [
-          "Choose one among the collection of domains and answer for that questions duration 1 hour."
-        ],
-        [
-          "Face the technical as well as non technical questions and challenge with the opposite team duration 2 hours."
-        ],
-        [
-          "Find maximum number of things in a technical/non technical video duration 1hour."
-        ]
-      ]
-    },
-    "hospital-hustle": {
-      "last_updated": "8/29/2018 15:55:52",
-      "isTechnical": true,
-      "eventtype": "Technical",
-      "dept": "bme",
-      "slug": "hospital-hustle",
-      "venue": "BME Seminar Hall",
-      "timing": "9 AM",
-      "displayName": "Biomart",
-      "description": "A virtual money game where the ultimate goal is to build and keep the hospital alive even when the spurious accidents do the rounds.  Design your very own hospital, tweak every detail and show us that you own all the tricks of the business. Become an aspiring manager, a successful planner and an ace practioner all at the same time.",
-      "tagline": "Play or bid to keep your stakes high to build your own hospital",
-      "eventname": "Biomart",
-      "notes": "",
-      "prize": "Winner - Rs 3500 First Runner up - Rs 2000 Second Runner up - RS 1500 ",
-      "intesnship": null,
-      "registrationFee": null,
-      "eventHeads": [
-        {
-          "name": "Viswath Narayanan R",
-          "email": "viswathnarayanan15062@bme.ssn.edu.in",
-          "contact": "9790269096"
-        },
-        {
-          "name": "Sucharitha S Prakash",
-          "email": "sucharitha20797@gmail.com",
-          "contact": "9500049271"
-        }
-      ],
-      "attachments": [],
-      "rules": [
-        [
-          "1. A hustle team of minimum 3 and maximum 5 members will be allocated a base deposit of 50000 virtual bucks and a manual listing the details of machines/equipments available in the hospital will be given.",
-          "2. Teams will have to auction to buy certain equipments and raw materials to start designing a particular department of the hospital."
-        ],
-        [
-          "1. The price of the raw materials will inflate and deflate. Some spurious accidents will be posted on the teams and the teams will have to overcome them by earning more and more bucks either by selling their products and shares or by playing dare games.",
-          "2. By the end of the second round, only the top five teams with higher number of bucks will be selected for the final showdown."
-        ],
-        [
-          "Fnal showdown is fun and frolic. Your stakes might taste profit or might meet accident. It all depends on how well you manage shares and how artistic is your design in terms of planning. The team that manages to function the hospital and is able to maintain good figure shares with the administration wins!"
-        ]
-      ]
-    },
-    "sapiens-washout": {
-      "last_updated": "8/29/2018 18:14:09",
-      "isTechnical": false,
-      "eventtype": "Non-Technical",
-      "dept": "bme",
-      "slug": "sapiens-washout",
-      "venue": "BME DEPARTMENT ",
-      "timing": "11:00am-3:00pm",
-      "displayName": "Sapiens Washout",
-      "description": "You may not control all the events that happen to you, but you can decide not to be reduced by them, so shoe yourself and spruce up to show your skills and win exciting prizes",
-      "tagline": null,
-      "eventname": "Sapiens Washout",
-      "notes": "",
-      "prize": "Rs.20-30 per event",
-      "intesnship": null,
-      "registrationFee": null,
-      "eventHeads": [
-        {
-          "name": "G.Aghil Kavya",
-          "email": "aghilkavya@gmail.com",
-          "contact": "9176253260"
-        },
-        {
-          "name": "Praveen",
-          "email": "kumarspraveen57@gmail.com",
+          "name": "Praveen Kumar",
           "contact": "8610421802"
         }
       ],
       "attachments": [],
       "rules": [
         [
-          "Rules ",
-          "1.Finish within the clock to prove your skills .",
-          "2.Solo or Team based depending upon the task."
+          "This is a fun event, where the participants can choose from a wide range of quick games.Well,are you ready to get surprised this invente?"
         ]
-      ]
+      ],
+      "isFlagship": false
     },
-    "misterioso": {
-      "last_updated": "9/11/2018 9:43:11",
+    "biogonize": {
+      "last_updated": "8/29/2018 18:14:09",
       "isTechnical": true,
       "eventtype": "Technical",
       "dept": "bme",
-      "slug": "misterioso",
-      "venue": "BMI Lab",
-      "timing": "",
-      "displayName": "Misterioso",
-      "description": "A Technical Quiz",
+      "slug": "biogonize",
+      "venue": "3rd year class room - Ground floor BME department",
+      "timing": "6th september 10:00 AM",
+      "displayName": "Biogonize",
+      "description": "Are you someone who wants to bring in the creative side of your technical knowledge? If answering boring questions isn’t your forte then save your dates on September 6th and   7th gear up your brains for the most riveting BIOGONIZE.",
+      "tagline": null,
+      "eventname": "Biogonize",
+      "notes": "",
+      "prize": null,
+      "intesnship": null,
+      "registrationFee": null,
+      "eventHeads": [
+        {
+          "name": "Gayathri",
+          "contact": "7550051098"
+        },
+        {
+          "name": "Suhashine S",
+          "contact": "7397266268"
+        }
+      ],
+      "attachments": [],
+      "rules": [
+        [
+          "A video with images of various technical and engineering aspects will be made .Participants should guess the maximum images they can in the given time."
+        ],
+        [
+          "Top 15 teams will be selected to the 2nd round and will have to make a story based on the device or instrument given to them. They will have to make it as interesting as possible. Brownie points for the best stories."
+        ],
+        [
+          "The last round comprises of the top 5 teams who will have to compete to create a model on the given topic with the materials provided to them. They will be given a virtual market to purchase the materials they want to buy."
+        ]
+      ],
+      "isFlagship": false
+    },
+    "game-over": {
+      "last_updated": "9/11/2018 9:43:11",
+      "isTechnical": false,
+      "eventtype": "Non-Technical",
+      "dept": "bme",
+      "slug": "game-over",
+      "venue": "Incubation lab (BME)-First floor",
+      "timing": "6th and 7th September, 9.00AM",
+      "displayName": "GAME OVER",
+      "description": "Game Over is a two-phase event. The Prelims follow the concept of ‘Fun City’ that will comprise of 8-10 mini games like Taboo, Dumb Charades, darts, etc. Participants can form teams of 3-5 players. Each team will be given 1000 points at the beginning. Each of the mini games will be about 100 -150 points. Spend the points to play the games and earn points if you win over a trail. If you win the games, then you get 250 points. The mini games can be played till 1.00 PM.",
       "tagline": "Unlocking mysteries at the speed of thought!",
-      "eventname": "Misterioso",
+      "eventname": "GAME OVER",
       "notes": "",
       "prize": "3500 in total",
       "intesnship": null,
       "registrationFee": null,
       "eventHeads": [
         {
-          "name": "Harshni.V",
-          "email": "harshni29@gmail.com",
-          "contact": "8939171116"
+          "name": "Gurucharan M K",
+          "contact": "9791165672"
         },
         {
-          "name": "Meghna Murali",
-          "email": "meghnakt@gmail.com",
-          "contact": "9619467457"
+          "name": "Haridhra Suresh",
+          "contact": "9444687113"
         }
       ],
       "attachments": [],
       "rules": [
         [
-          "Teams of 2 or 3 will be formed on random basis. ",
-          "Each team will qualify for the subsequent round by enacting the answers to a set of questions in the format of charades"
+          "• Follow basic game rules of mini games.",
+          "• Points cannot be bought, only earned for the preliminary games.",
+          "• No violence will be encouraged during the final games.",
+          "• Stick with the team at all times.",
+          "• The games are truly based on teamwork and coordination, the players are to respect that."
         ],
         [
-          "Sometimes the simplest of concepts can be tricky and nerve wracking to answer. ",
-          "The second round will be a lightning quiz round where teams will be judged on the basis of their speed to answer questions in a short span of time."
-        ],
-        [
-          "Theme Round: ",
-          "Props and items for the selected theme will be displayed.",
-          " Shortlisted teams will be asked a set of questions pertaining to the theme.",
-          " A correct answer will enable them to secure the props and items. ",
-          "The team with the maximum props and items will be declared as the Winner."
+          "In the second round, the top 8 teams will be put into a face-off with another team. The game played will be based on ‘Capture the flag’ and ‘laser tag’, in which each team will be given a flag that they will hide at a point. One player guards the flag, the rest hunt for the other team’s flag. They have to go past the other team members without being seen or being hit by the water guns. The team which captures the flag first wins the ultimate battle. In this way it would continue till the ultimate finale. During the game, teams may come past other gadgets hidden for their use to delay the opponents by using it on them."
         ]
-      ]
-    },
-    "pubg-mobile-tournament": {
-      "last_updated": "9/11/2018 14:17:39",
-      "isTechnical": false,
-      "eventtype": "Non-Technical",
-      "dept": "bme",
-      "slug": "pubg-mobile-tournament",
-      "venue": "BME department DTE lab",
-      "timing": "21st and 22nd September 10am onwards",
-      "displayName": "PUBG Mobile Tournament ",
-      "description": "Classic TPP Squad tournament",
-      "tagline": "Do you have what it takes to be the last man standing? Come battle it out with us at SSNCE!",
-      "eventname": "PUBG Mobile Tournament ",
-      "notes": "Pre-Register for the tournament through the above link. ",
-      "prize": "Prizes upto RS.4000",
-      "intesnship": null,
-      "registrationFee": null,
-      "eventHeads": [
-        {
-          "name": "Bhargav Mohan",
-          "email": "bhargav15013@bme.ssn.edu.in",
-          "contact": "9445436822"
-        },
-        {
-          "name": "Sai Sudhan.R",
-          "email": "saisudhanv@gmail.com",
-          "contact": "7010141458"
-        }
       ],
-      "attachments": [
-        "https://docs.google.com/forms/d/e/1FAIpQLScylKYymZMokd9eWDJ047mdrbu-ba64BcuINQqH1c3IGdBVyw/viewform"
-      ],
-      "rules": [
-        ["Top 5 teams will be selected from 4 games"],
-        [
-          "A bonus round will be held(Arcade matches) to select wild card entries"
-        ],
-        ["The final Classic TPP squad game will decide the winner"]
-      ]
+      "isFlagship": false
     },
-    "augmented-reality-and-virtual-reality": {
+    "WORKSHOP ON PCB DESIGNING USING ALTIUM DESIGNER": {
       "last_updated": "9/11/2018 23:10:26",
       "isTechnical": false,
       "eventtype": "Workshop",
       "dept": "bme",
-      "slug": "augmented-reality-and-virtual-reality",
-      "venue": "DTE Laboratory",
-      "timing": "22nd September, 8.30am",
-      "displayName": "Augmented Reality and Virtual Reality",
-      "description": "• Ever dreamt of becoming a game engineer?! Have an ardent fervor for deploying your own gaming  scenes? Here is an ultimate chance to develop and deploy Virtual Reality games/any varied platform.This workshop basically works on areas of designing and development of an application related to augmented reality and virtual reality.\n• The workshop is handled by professionals from the Digital Meridian.\n• The session starts at eight thirty and ends by three in the evening.\n• There are refreshments and by twelve we will break for lunch, soon the session resumes within forty five minutes.\n• The first one hour of the workshop is an introduction to AR, VR & MR.\n• For the next one hour the various fundamentals of VR are explained.\n• After which the immersive app called \"phobia\" in VR app development using the unity Google unityand VR,c# begins.\n• You can also learn on how to use a VR camera inside UNITY, implementing head rotation, sensors used in VR, lighting, creating a GUI for VR applications and what are all the game objects, materials, transformations and animations using scripting and c#.\n• Then the track turns to interactive student profile generation in AR using SDK's software platform and devices. Then AR APP development is done using VUFORIA & UNITY.\n• The workshop ends with advanced level of app development using c# scripting.\n• The other technologies being used are HTC vive, Microsoft hololens.",
-      "tagline": "Simulate and experience an immersive virtual environment that transcends the physical reality",
-      "eventname": "Augmented Reality and Virtual Reality",
+      "slug": "WORKSHOP ON PCB DESIGNING USING ALTIUM DESIGNER",
+      "venue": "Medical Software Lab, I Floor, Department of Biomedical Engineering.",
+      "timing": "7th September, 9:00 am to 3:30 pm",
+      "displayName": "WORKSHOP ON PCB DESIGNING USING ALTIUM DESIGNER",
+      "description": "Do you feel that taking your projects from the breadboard to something more permanent is tough? Do you struggle with designing your PCB in a neat manner? Have never designed a PCB? Then this workshop on designing PCBs using a software is just what you need! IEEE EMBS is offering you this chance to transform how you design a PCB through this one-day workshop.",
+      "tagline": null,
+      "eventname": "WORKSHOP ON PCB DESIGNING USING ALTIUM DESIGNER",
       "notes": "",
       "prize": null,
       "intesnship": null,
-      "registrationFee": "600 for 1/800 for 2/1200 for 3",
+      "registrationFee": null,
       "eventHeads": [
         {
-          "name": "Divya Rajagopal",
-          "email": "divya15016@bme.ssn.edu.in",
-          "contact": "9940475358"
+          "name": "Anupam B",
+          "contact": "9962759471"
         },
         {
-          "name": "Asha",
-          "email": "ashachennai97@gmail.com",
-          "contact": "+91 81242 23600"
+          "name": "Prem Aravindan J",
+          "contact": "9677569754"
         }
       ],
       "attachments": [],
-      "rules": []
+      "rules": [
+        "Prior knowledge:",
+        "Basic knowledge of electrical engineering is sufficient, no programming knowledge is required.",
+        "Tools Provided (for the session):",
+        "Reference Materials, PCB Fabrication Materials",
+        "Concepts:",
+        "Circuit Designing, Simulation, PCB Design Structure, Component Placement and Design, Testing, Board Analysis, Fabrication output generation.",
+        "Projects:-",
+        "Create a desired Printed circuit board structure Design, Testing and Analysis of Electronic circuit board ",
+        "Agenda:",
+        "Session 1- Computerized capture of electronic designs",
+        "Session 2- Introduction to PCB Layout",
+        "Session 3- Library creation",
+        "Important points:",
+        "• Fee: Rs. 250/- per head.",
+        "• Computer systems will be provided with software pre-installed.",
+        "• Click this link to register: https://forms.gle/42oKm2Kk2RUtMBtB7"
+      ],
+      "isFlagship": false
     }
   }
 }
