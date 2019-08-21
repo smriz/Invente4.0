@@ -9,6 +9,7 @@ import Hospitality from './components/Hospitality';
 import Registration from './components/Registration';
 import Workshop from './components/Workshop';
 import Sidebar from './components/sidebar';
+import Stars from './components/stars';
 
 class App extends Component {
   render() {
