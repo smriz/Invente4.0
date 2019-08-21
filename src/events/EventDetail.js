@@ -1,10 +1,10 @@
-import React from "react";
-import eventdetail from "../data/eventdetail.json";
-import ContactCard from "../components/ContactCard";
-import FA from "react-fontawesome";
-import _ from "lodash";
-import { Link } from "react-router-dom";
-import { Helmet } from "react-helmet";
+import React from 'react';
+import eventdetail from '../data/eventdetail.json';
+import ContactCard from '../components/ContactCard';
+import FA from 'react-fontawesome';
+import _ from 'lodash';
+import { Link } from 'react-router-dom';
+import { Helmet } from 'react-helmet';
 
 class EventDetail extends React.Component {
   constructor(props) {
@@ -34,42 +34,39 @@ class EventDetail extends React.Component {
           <div align="center">
             <h6 className="top">
               {this.props.location.pathname
-                .split("/")
+                .split('/')
                 .splice(1)
                 .map((x, i, arr) => [
-                  <Link to={"/" + _.slice(arr, 0, i + 1).join("/")}>
-                    {i === 1 ? " >" : ""} {i === 2 ? ">" : ""} {x}
+                  <Link to={'/' + _.slice(arr, 0, i + 1).join('/')}>
+                    {i === 1 ? ' >' : ''} {i === 2 ? '>' : ''} {x}
                   </Link>
                 ])}
             </h6>
             <img
               className="headline"
-              style={{ width: "80%" }}
-              src={require("../images/Heading_Line.svg")}
-              alt={""}
+              style={{ width: '80%' }}
+              src={require('../images/Heading_Line.svg')}
+              alt={''}
             />
 
-            <h6 style={{ marginTop: "3%"}}>
-              {event.eventname}
-            </h6>
+            <h6 style={{ marginTop: '3%' }}>{event.eventname}</h6>
             {event.tagline && <h6 className="tagline">{event.tagline}</h6>}
           </div>
           <div className="description">
-            {event.description && event.description.split("\n").map(x => (
-              <div>{x}</div>
-            ))}
+            {event.description &&
+              event.description.split('\n').map(x => <div>{x}</div>)}
           </div>
-          {event.eventtype === "Workshop" && (
+          {event.eventtype === 'Workshop' && (
             <a
               target="_blank"
               className="16m-"
               style={{
-                margin: "16px auto",
-                marginLeft: "auto",
-                background: "purple",
-                display: "inline-block",
-                color: "white",
-                padding: "8px 16px"
+                margin: '16px auto',
+                marginLeft: 'auto',
+                background: 'purple',
+                display: 'inline-block',
+                color: 'white',
+                padding: '8px 16px'
               }}
               className="workshop-register"
               href="https://docs.google.com/forms/d/e/1FAIpQLSecQVbxa6NGzCmZrSp9-Gyqb1Tu1b435rVcRm73_6Aomn6yCg/viewform?usp=sf_link"
@@ -78,11 +75,11 @@ class EventDetail extends React.Component {
             </a>
           )}
 
-          <div style={{marginTop:"3%"}}>
+          <div style={{ marginTop: '3%' }}>
             {event.registrationFee && (
               <Fielder
-			  field="rupee-sign"
-                content={"Registration Fee: " + event.registrationFee}
+                field="rupee-sign"
+                content={'Registration Fee: ' + event.registrationFee}
               />
             )}
             {event.intenship && (
@@ -99,24 +96,24 @@ class EventDetail extends React.Component {
               <a
                 className="8p-16p 8m-8m"
                 style={{
-                  display: "inline-block",
-                  background: "violet",
-                  color: "white"
+                  display: 'inline-block',
+                  background: 'violet',
+                  color: 'white'
                 }}
                 target="_blank"
-                href={"//" + event.attachments[0]}
+                href={'//' + event.attachments[0]}
               >
                 Click to view the Attachment
               </a>
             )}
           </p>
 
-          <div style={{marginTop:"3%"}}>
-            <div className={"row rules-tab-holder"}>
+          <div style={{ marginTop: '3%' }}>
+            <div className={'row rules-tab-holder'}>
               {event.rules.map((x, i) => (
                 <div
                   className={`${
-                    this.state.open === i ? "active" : ""
+                    this.state.open === i ? 'active' : ''
                   } rules-tab`}
                   onClick={() => {
                     this.setState({ open: i });
@@ -126,10 +123,10 @@ class EventDetail extends React.Component {
                 </div>
               ))}
             </div>
-            <div className="rules-pane" >
+            <div className="rules-pane">
               {event.rules &&
                 event.rules[this.state.open] &&
-                event.rules[this.state.open].map(x => <div >{x}</div>)}
+                event.rules[this.state.open].map(x => <div>{x}</div>)}
             </div>
             {
               // 	event.rules.map((round,i) =><div> Round {i+1}
@@ -138,28 +135,31 @@ class EventDetail extends React.Component {
             }
           </div>
           <div>
-            {event.notes !== "" && (
+            {event.notes !== '' && (
               <div className="notes">
                 <strong>
-                  <FA style={{ marginRight: "8px" }} name="bullhorn" />
-                  Note{" "}
+                  <FA style={{ marginRight: '8px' }} name="bullhorn" />
+                  Note{' '}
                 </strong>
                 {event.notes}
               </div>
-			)}
-		
-        <div className="card-set" align="center" style={{marginTop:"5%"}}>
-              <ContactCard contact={event.eventHeads[0]} />
-              <ContactCard contact={event.eventHeads[1]} />
-				{event.eventHeads[2] &&
-				<ContactCard contact={event.eventHeads[2]} />}
+            )}
+
+            <div
+              className="card-set"
+              align="center"
+              style={{ marginTop: '5%' }}
+            >
+              {event.eventHeads.map(head => (
+                <ContactCard contact={head} />
+              ))}
             </div>
-				
-		<br/>
-		<br/>
-		<br/>
-		<br/>
-		<br/>
+
+            <br />
+            <br />
+            <br />
+            <br />
+            <br />
           </div>
         </div>
       </div>
@@ -168,9 +168,13 @@ class EventDetail extends React.Component {
 }
 
 const Fielder = ({ field, content, color }) => (
-  <div style={{ borderColor: color, margin: "8px 0" }} className="fielder row">
+  <div style={{ borderColor: color, margin: '8px 0' }} className="fielder row">
     <div
-      style={{ backgroundColor:"#ff9800", display: "inline-flex", width: "60px" }}
+      style={{
+        backgroundColor: '#ff9800',
+        display: 'inline-flex',
+        width: '60px'
+      }}
       className="row centerify"
     >
       {field}
@@ -179,6 +183,5 @@ const Fielder = ({ field, content, color }) => (
     <div>{content}</div>
   </div>
 );
-
 
 export default EventDetail;
