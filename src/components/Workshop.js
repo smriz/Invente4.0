@@ -60,7 +60,7 @@ class Workshop extends React.Component {
                   <div align="center">
                     <div className="customdiv">
                       <img
-                        src={require('../images/Capsule.svg')}
+                        src={require('../images/events/'+`${x.dept}`+'_'+`${x.event}`+'.svg')}
                         alt={x.event}
                       />
                     </div>

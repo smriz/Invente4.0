@@ -32,7 +32,7 @@ class EventDetail extends React.Component {
           data-aos-duration="1000"
         >
           <div align="center">
-            <h6 className="top">
+            <h6 className="top" style={{width:"90%"}}>
               {this.props.location.pathname
                 .split('/')
                 .splice(1)
