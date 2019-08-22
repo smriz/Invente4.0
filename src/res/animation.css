@@ -468,10 +468,10 @@
 }
 .bulb {
   position: absolute;
-  top: 25vh;
-  left: 30vw;
-  width: 40vw;
-  height: 40vh;
+  top: 25%;
+  left: 30%;
+  width: 40%;
+  height: 40%;
   opacity: 1;
 }
 

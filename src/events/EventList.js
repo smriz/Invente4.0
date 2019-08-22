@@ -23,6 +23,7 @@ class EventList extends React.Component {
       <div className="events">
         <Helmet>
           <title>{dept} | Invente 4.0</title>
+          {/* <style>{'body { background-color: red; }'}</style> */}
         </Helmet>
         <div
           data-aos="fade-zoom-in"

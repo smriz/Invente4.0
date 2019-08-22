@@ -8,17 +8,21 @@
   } */
 @font-face {
   font-family: myFancyFont;
-  src: url('./GillSans-Light-08.ttf'), url('./GillSans-Light-08.ttf');
+  src: url("./GillSans-Light-08.ttf"), url("./GillSans-Light-08.ttf");
 }
 * {
   font-weight: 100;
+  -ms-overflow-style: none;
+  overflow: -moz-scrollbars-none;
+
   /* line-height: 25px; */
 }
-
+*::-webkit-scrollbar { width: 0 !important }
 body {
   color: white;
-  background: #ff9800;
-  background: url('../images/bgg.svg');
+  /* background: #ff9800; */
+  /* background: url('../images/bg2.svg'); */
+  background: url("../images/bg2.svg");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-attachment: fixed;
@@ -27,19 +31,17 @@ body {
   margin: 0px;
   padding: 0px;
   margin-top: 5%;
-  font-family: 'myFancyFont', sans-serif;
+  font-family: "myFancyFont", sans-serif;
   -webkit-user-select: none;
   -moz-user-select: -moz-none;
   -ms-user-select: none;
   user-select: none;
   -webkit-tap-highlight-color: transparent;
 }
-.home{
-  background: url('../images/bgg.svg');
-}
+
 .headline {
   margin: 10px 0;
-  width: 60%;
+  width: 80%;
   text-align: center;
   display: block;
   margin-left: auto;
@@ -320,7 +322,6 @@ a {
   border: 2px solid #ff9800;
 }
 .register-area .align-center {
-
   margin-left: 25%;
   /* margin-right: 10%; */
 }
@@ -328,7 +329,7 @@ a {
 @media screen and (orientation: portrait) {
   .register-area .register-instructions {
     padding: 10%;
-    font-size: 16px
+    font-size: 16px;
   }
   .register-area .align-center {
     padding: 0 0%;
@@ -881,6 +882,7 @@ a {
     left: 7%;
   }
   .headline {
+    height: 2px;
     /* height: 30px; */
   }
 }

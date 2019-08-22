@@ -53,8 +53,8 @@ class Hospitality extends React.Component {
                 </tbody>
               </table>
               <div className="caption">
-                {/* <img src="https://images.ssninvente.com/temp/route2.png" alt="Tamabaram map" /><br/> */}
-                {/* <a href="https://www.google.co.in/maps/dir/Tambaram+Bus+Stop,+Chennai+-+Theni+Hwy,+East+Tambaram,+Tambaram,+Chennai,+Tamil+Nadu+600045/SSN+College+of+Engineering,+Kalavakkam,+Tamil+Nadu/@12.8372581,80.0809294,12z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x3a525f6c4b566143:0x1d18ef6dce68a5d4!2m2!1d80.1166767!2d12.9254344!1m5!1m1!1s0x3a52512f04729e11:0xbc4ea0ae50ca1aaa!2m2!1d80.1972702!2d12.7508651" target="_blank">View Map</a> */}
+                <img src={require("../images/route1.png")} alt="Tamabaram map" /><br/>
+                <a href="https://www.google.co.in/maps/dir/Tambaram+Bus+Stop,+Chennai+-+Theni+Hwy,+East+Tambaram,+Tambaram,+Chennai,+Tamil+Nadu+600045/SSN+College+of+Engineering,+Kalavakkam,+Tamil+Nadu/@12.8372581,80.0809294,12z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x3a525f6c4b566143:0x1d18ef6dce68a5d4!2m2!1d80.1166767!2d12.9254344!1m5!1m1!1s0x3a52512f04729e11:0xbc4ea0ae50ca1aaa!2m2!1d80.1972702!2d12.7508651" target="_blank">View Map</a>
               </div>
               <br />
               <h4>Route 2: Koyambedu to SSN</h4>
@@ -81,8 +81,8 @@ class Hospitality extends React.Component {
                 </tbody>
               </table>
               <div className="caption">
-                {/* <img src="https://images.ssninvente.com/temp/route1.png" alt="Koyambedu map" /><br/> */}
-                {/* <a href="https://www.google.co.in/maps/dir/Koyambedu+bus+terminus,+koyambedu+bus+terminus,+Koyambedu,+Chennai,+Tamil+Nadu/SSN+College+of+Engineering,+Kalavakkam,+Tamil+Nadu/@12.9116421,80.0216208,11z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x3a5267b88ede8dbd:0x6d785091264444de!2m2!1d80.2054082!2d13.0662695!1m5!1m1!1s0x3a52512f04729e11:0xbc4ea0ae50ca1aaa!2m2!1d80.1972702!2d12.7508651" target="_blank">View Map</a> */}
+                <img src={require("../images/route1.png")} alt="Koyambedu map" /><br/>
+                <a href="https://www.google.co.in/maps/dir/Koyambedu+bus+terminus,+koyambedu+bus+terminus,+Koyambedu,+Chennai,+Tamil+Nadu/SSN+College+of+Engineering,+Kalavakkam,+Tamil+Nadu/@12.9116421,80.0216208,11z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x3a5267b88ede8dbd:0x6d785091264444de!2m2!1d80.2054082!2d13.0662695!1m5!1m1!1s0x3a52512f04729e11:0xbc4ea0ae50ca1aaa!2m2!1d80.1972702!2d12.7508651" target="_blank">View Map</a>
               </div>
               <br />
               <h4>Route 3: Central to SSN</h4>
@@ -116,7 +116,7 @@ class Hospitality extends React.Component {
               </table>
               <div className="caption">
                 <img
-                  src="https://images.ssninvente.com/temp/route3.png"
+                  src={require("../images/route1.png")}
                   alt="Central map"
                 />
                 <br />

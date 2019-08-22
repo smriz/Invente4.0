@@ -50,6 +50,7 @@ class Home extends React.Component {
           </div>
         )}
         <div style={{ position: 'fixed' }}>
+       
           <ReactFullpage
             scrollOverflow={false}
             setAllowScrolling={false}
@@ -62,7 +63,7 @@ class Home extends React.Component {
                   <div
                     className="section section1"
                     style={{ overflow: 'hidden' }}
-                  >
+                  > 
                     <Spheres handleLoading={this.handleLoading} show={this.state.show} />
                     <Ring />
                   </div>

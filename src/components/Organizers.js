@@ -117,7 +117,7 @@ class Organizers extends React.Component {
         <Helmet>
           <title>Organizers | Invente 4.0 </title>
         </Helmet>
-        <div
+        {/* <div
           style={{
 			position: "fixed",
             top: 0,
@@ -125,7 +125,9 @@ class Organizers extends React.Component {
             width: "100%",
             height: "100%"
           }}
-        > <Stars/>
+        > 
+        */}
+        <Stars/>
         <div className="stars-overlay">
         <div className="organisers ">
           {/* <Flip  cascade>  */}
@@ -263,7 +265,7 @@ class Organizers extends React.Component {
         </div>
       </div>
       </div>
-      </div>
+      // </div>
 
     );
   }

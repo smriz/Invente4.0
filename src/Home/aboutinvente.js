@@ -8,7 +8,7 @@ class Aboutinvente extends React.Component {
         <img
           className="headline "
           id="headline"
-          src={require('../images/heading_line_thin.svg')}
+          src={require('../images/Heading_Line.svg')}
           alt={''}
         />
         <div className="container" align="center">
