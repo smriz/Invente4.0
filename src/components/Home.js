@@ -62,10 +62,12 @@ class Home extends React.Component {
                   <div
                     className="section section1"
                     style={{ overflow: 'hidden' }}
-                  >    <img
+                  >    
+                  {/* <img
                   src={require('../images/load.gif')}
               
-              />
+              /> */}
+
                     <Spheres handleLoading={this.handleLoading} show={this.state.show} />
                     <Ring />
                   </div>
