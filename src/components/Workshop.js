@@ -51,7 +51,7 @@ class Workshop extends React.Component {
 
               <h6 style={{ color: '#ff9800', marginTop: '3%' }}>Technical</h6>
             </div>
-            <div className="card-set">
+            <div className="card-set" style={{marginTop:"7%"}}>
               {this.obj.map(x => (
                 <Link
                   to={`/events/${x.dept}/${x.event}`}
@@ -64,7 +64,7 @@ class Workshop extends React.Component {
                         alt={x.event}
                       />
                     </div>
-                    <p className="dept-name" style={{ textAlign: 'center' }}>
+                    <p className="dept-name" style={{ textAlign: 'center',letterSpacing:"1px" }}>
                       {eventlist[x.dept][x.event]}
                     </p>
                   </div>

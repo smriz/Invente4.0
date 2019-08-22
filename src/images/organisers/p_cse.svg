@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 308.5 255.9" style="enable-background:new 0 0 308.5 255.9;" xml:space="preserve">
+	 viewBox="0 0 175 175" style="enable-background:new 0 0 175 175;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#F09633;stroke-miterlimit:10;}
+	.st0{fill:none;stroke:#F09333;stroke-miterlimit:10;}
 </style>
 <g id="p_x5F_cse">
-	<circle class="st0" cx="158.3" cy="153.2" r="63.1"/>
-	<g>
+	<circle id="XMLID_891_" class="st0" cx="87.5" cy="87.5" r="63.1"/>
+	<g id="XMLID_877_">
 		<defs>
-			<circle id="XMLID_182_" cx="158.3" cy="153.2" r="59.3"/>
+			<circle id="XMLID_182_" cx="87.5" cy="87.5" r="59.3"/>
 		</defs>
 		<use xlink:href="#XMLID_182_"  style="overflow:visible;fill:#7F7F7F;"/>
-		<clipPath id="XMLID_68_">
+		<clipPath id="XMLID_3_">
 			<use xlink:href="#XMLID_182_"  style="overflow:visible;"/>
 		</clipPath>
-		<g transform="matrix(1 -8.881784e-16 8.881784e-16 1 0 3.814697e-06)" style="clip-path:url(#XMLID_68_);">
+		<g transform="matrix(1 -8.881784e-16 8.881784e-16 1 0 0)" style="clip-path:url(#XMLID_3_);">
 			
-				<image style="overflow:visible;" width="4608" height="2112" xlink:href="data:image/jpeg;base64,/9j/4WNgRXhpZgAATU0AKgAAAAgADAEAAAMAAAABEgAAAAEBAAMAAAABCEAAAAEPAAIAAAAIAAAA
+				<image style="overflow:visible;" width="4608" height="2112" id="XMLID_879_" xlink:href="data:image/jpeg;base64,/9j/4WNgRXhpZgAATU0AKgAAAAgADAEAAAMAAAABEgAAAAEBAAMAAAABCEAAAAEPAAIAAAAIAAAA
 ngEQAAIAAAAOAAAApgESAAMAAAABAAYAAAEaAAUAAAABAAAAtAEbAAUAAAABAAAAvAEoAAMAAAAB
 AAIAAAEyAAIAAAAUAAAAxAITAAMAAAABAAEAAIdpAAQAAAABAAAA2IglAAQAAAABAAAC8AAAA85P
 bmVQbHVzAE9ORVBMVVMgQTYwMTAAAAAASAAAAAEAAABIAAAAATIwMTk6MDg6MTkgMTI6MTY6MTQA
@@ -51672,7 +51672,7 @@ Bwy9iajMZZhGBld2c01XhTc8jBiT90UQHlpnyqsCBkcUNpoB0jgwlWj2jd+tNVwMoHUsh6n0pjSM
 qlC2R2JFMdvIQ7ELhuCaFZIB4UtHukC7gcgCmtlXEsjE+qqaVzAxG7IYrwM1FIyeUsYyCW5INK9y
 nFJDZiAgf5vvcYpxc4JyN7DgnpTHYqdhAZM5HPNMRiXEjJtB+6WPakSTytKz4AVcD5dvSoCHGWwr
 EnBLHmpHBYpyy46HHU1HKoEisJAwVuQPWgBroqRmVHIYkBlprRllWMRlgDkAVLOqOQHfbnrkcU2V
-XMYEYCqOcq2c0AEbDyQOVwPnDCpGKIVCsTzzmoixSMsVGHI4J7VLt2kHJwQNoNAH/9k=" transform="matrix(1.263185e-09 0.1059 -0.1059 1.263185e-09 247.9874 63.3746)">
+XMYEYCqOcq2c0AEbDyQOVwPnDCpGKIVCsTzzmoixSMsVGHI4J7VLt2kHJwQNoNAH/9k=" transform="matrix(1.263185e-09 0.1059 -0.1059 1.263185e-09 177.1501 -2.3097)">
 			</image>
 		</g>
 	</g>

@@ -394,14 +394,14 @@ a {
 }
 
 #guest-of-honor {
-  background: #eee;
+  /* background: #eee; */
   padding: 6% 6%;
 }
 #guest-of-honor #guest-content {
   text-align: center;
   width: 60%;
   margin: 0px 16%;
-  border: 2px solid #ff9800;
+  /* border: 2px solid #ff9800; */
   border-radius: 10px;
   padding: 0px 5%;
 }
@@ -413,6 +413,8 @@ a {
 #guest-of-honor #guest-content #photo {
   padding-top: 20px;
   padding-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
 }
 #guest-of-honor #guest-content #content {
   padding-top: 20px;

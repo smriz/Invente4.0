@@ -2722,7 +2722,7 @@
       "venue": "CDC",
       "timing": "24 hours ( september 6 12 PM - september 7 4 PM)",
       "displayName": "Hackinfinity",
-      "description": "Hackinfinity:A university hackathon will be open for students currently pursuing Bachelor’s or Master’s technology degree from various universities/colleges. The competition will provide an avenue for students to put to test their passion for innovation, problem-solving, design thinking, and programming skills while winning amazing prizes in the process. The event will take place for 24 hours where the shortlisted teams will build a completed product which will be put for evaluation. The judgement will be based on various criteria such as design, innovation , scalability and product pitch",
+      "description": "Hackinfinity:A university hackathon will be open for students currently pursuing Bachelor’s or Master’s technology degree from various universities/colleges. The competition will provide an avenue for students to put to test their passion for innovation, problem-solving, design thinking, and programming skills while winning amazing prizes in the process.",
       "tagline": null,
       "eventname": "Hackinfinity",
       "notes": "",
@@ -2732,11 +2732,15 @@
       "eventHeads": [
         {
           "name": "Jayanth Prabakaran",
-          "contact": ""
+          "contact": "9444991471"
         }
       ],
       "attachments": [],
-      "rules": [],
+      "rules": [
+        [
+          "The event will take place for 24 hours where the shortlisted teams will build a completed product which will be put for evaluation. The judgement will be based on various criteria such as design, innovation , scalability and product pitch"
+        ]
+      ],
       "isFlagship": true
     }
   },

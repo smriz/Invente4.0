@@ -13,7 +13,7 @@ class ContactCard extends React.Component {
             <p className="title-name">
               {name}
               <br />   <br />          
-              <h3 className="dept-name" style={{color:"#ff9800"}}>{contact}</h3>
+              <h3 className="dept-name" style={{color:"#ff9800",letterSpacing:"1px"}}>{contact}</h3>
             </p>
       </div>
     );

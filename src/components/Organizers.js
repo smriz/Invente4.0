@@ -21,7 +21,7 @@ class Organizers extends React.Component {
         img: 'EEE'
       },
       {
-        name: 'Thiruvenkatesan',
+        name: 'Vaithianathan',
         img: 'ECE'
       },
       {
@@ -43,7 +43,7 @@ class Organizers extends React.Component {
     ];
     this.student = [
       {
-        name: ' ',
+        name: 'Narayanan',
         img: 'IT'
       },
       {
@@ -51,27 +51,27 @@ class Organizers extends React.Component {
         img: 'CSE'
       },
       {
-        name: '',
+        name: 'Nishanth',
         img: 'EEE'
       },
       {
-        name: 'Kaushik',
+        name: 'Sai Kiran',
         img: 'ECE'
       },
       {
-        name: '',
+        name: 'Sooraj',
         img: 'CIVIL'
       },
       {
-        name: ' ',
+        name: 'Aravind',
         img: 'BME'
       },
       {
-        name: ' ',
+        name: 'Navaneeth',
         img: 'MECH'
       },
       {
-        name: ' ',
+        name: 'Sriram',
         img: 'CHEM'
       }
     ];
@@ -102,7 +102,7 @@ class Organizers extends React.Component {
       },
       {
         name: 'Dr. Annamalai',
-        img: 'BME'
+        img: 'MECH'
       },
       {
         name: 'Dr. Parthiban',
