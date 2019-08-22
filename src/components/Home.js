@@ -4,7 +4,6 @@ import Aboutinvente from '../Home/aboutinvente';
 import Flagship from '../Home/flagship';
 import Ring from '../Home/ring';
 import Spheres from '../Home/spheres';
-import { Helmet } from 'react-helmet';
 import ReactFullpage from '@fullpage/react-fullpage';
 
 class Home extends React.Component {
@@ -32,40 +31,50 @@ class Home extends React.Component {
     console.log('After load: ' + destination.index);
   }
 
-  componentDidMount() {
-    this.setState({ isLoading: true });
-    console.log(this.state.isLoading);
-  }
+  handleLoading = () => {
+    this.setState({ isLoading: false });
+  };
+
   render() {
-    if (this.state) {
-      return (
-        <div className="home">
-          <Sidebar />
-          <div style={{ position: 'fixed' }}>
-            <ReactFullpage
-              scrollOverflow={true}
-              sectionsColor={['', '', '']}
-              onLeave={this.onLeave.bind(this)}
-              afterLoad={this.afterLoad.bind(this)}
-              render={({ state, fullpageApi }) => {
-                return (
-                  <div id="fullpage-wrapper">
-                    <div
-                      className="section section1"
-                      style={{ overflow: 'hidden' }}
-                    >
-                      <Spheres show={this.state.show} />
-                      <Ring />
-                    </div>
-                    <div className="section section1">
-                      <Aboutinvente show={this.state.show} />
-                    </div>
+    return (
+      <div>
+        {this.state.isLoading && (
+          <div style={{ backgroundColor: 'black' }}>
+            <img
+              style={{
+                height: '100vh',
+                width: '100%',
+                src: require('../images/loadd.gif')
+              }}
+            />
+          </div>
+        )}
+        <div style={{ position: 'fixed' }}>
+          <ReactFullpage
+            scrollOverflow={false}
+            setAllowScrolling={false}
+            sectionsColor={['', '', '']}
+            onLeave={this.onLeave.bind(this)}
+            afterLoad={this.afterLoad.bind(this)}
+            render={({ state, fullpageApi }) => {
+              return (
+                <div id="fullpage-wrapper">
+                  <div
+                    className="section section1"
+                    style={{ overflow: 'hidden' }}
+                  >
+                    <Spheres handleLoading={this.handleLoading} show={this.state.show} />
+                    <Ring />
+                  </div>
+                  <div className="section section1">
+                    <Aboutinvente />
+                  </div>
 
-                    <div className="section section1">
-                      <Flagship />
-                    </div>
+                  <div className="section section1">
+                    <Flagship />
+                  </div>
 
-                    {/* <div className="section">
+                  {/* <div className="section">
                   <div id="guest-of-honor">
                     <div id="guest-content">
                       <div id="head">
@@ -86,16 +95,13 @@ class Home extends React.Component {
                     Move top
                   </button>
                 </div> */}
-                  </div>
-                );
-              }}
-            />
-          </div>
+                </div>
+              );
+            }}
+          />
         </div>
-      );
-    } else {
-      return <p>hello</p>;
-    }
+      </div>
+    );
   }
 }
 export default Home;

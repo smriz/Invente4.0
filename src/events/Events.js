@@ -11,7 +11,6 @@ class Events extends React.Component {
   render() {
     return (
       <div className="holi">
-        <Sidebar />
         <Helmet>
           <title> Events | Invente 4.0</title>
         </Helmet>

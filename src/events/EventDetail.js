@@ -45,7 +45,7 @@ class EventDetail extends React.Component {
             <img
               className="headline"
               style={{ width: '80%' }}
-              src={require('../images/Heading_Line.svg')}
+              src={require('../images/heading_line_thin.svg')}
               alt={''}
             />
 
@@ -109,6 +109,7 @@ class EventDetail extends React.Component {
           </p>
 
           <div style={{ marginTop: '3%' }}>
+          {event.rules &&
             <div className={'row rules-tab-holder'}>
               {event.rules.map((x, i) => (
                 <div
@@ -123,6 +124,7 @@ class EventDetail extends React.Component {
                 </div>
               ))}
             </div>
+          }
             <div className="rules-pane"  style={{lineHeight:"25px"}}>
               {event.rules &&
                 event.rules[this.state.open] &&

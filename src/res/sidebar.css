@@ -33,6 +33,7 @@
   Note: Beware of modifying this element as it can break the animations - you should not need to touch it in most cases
   */
 .bm-menu-wrap {
+  outline: none;
   position: fixed;
   height: 100%;
 }
@@ -42,6 +43,7 @@
   background: #ff9800;
   /* padding: 2.5em 1.5em 0; */
   font-size: 1.15em;
+  outline: none;
 }
 
 /* Morph shape necessary with bubble or elastic */
@@ -51,6 +53,7 @@
 
 /* Wrapper for item list */
 .bm-item-list {
+  outline: none;
   padding-top: 10%;
   color: #000;
   margin-left: 0px;
@@ -91,12 +94,21 @@
 .menu-item:hover {
   cursor: pointer;
 }
+a {
+  outline: 0;
+}
+
+a:hover,
+  a:active,
+  a:focus {
+  outline: none;
+}
+
+input::-moz-focus-inner {
+  border: 0;
+}
 @media only screen and (orientation: portrait) {
-  /* .bm-menu-wrap {
- min-width:100%;
-margin-left: 0px;
-margin-right: 0px; */
-  /* } */
+  
   .bm-burger-button {
     position: absolute;
     width: 36px;
@@ -104,11 +116,8 @@ margin-right: 0px; */
     right: 15px;
     top: 30px;
   }
-  /* .bm-item-list {
-  color: #000;
-  padding: 0.8em;
-  height: 0 !important;
-  font-size: 1.5rem;
-  line-height: 2.5rem;
-} */
+  .bm-menu {
+    min-width: 100%;
+    margin-left:0px;
+  }
 }

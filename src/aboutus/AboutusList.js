@@ -27,7 +27,7 @@ class Aboutus extends React.Component {
           <h6>About Us</h6>
           <img
             className="headline"
-            src={require("../images/Heading_Line.svg")}
+            src={require("../images/heading_line_thin.svg")}
             alt={""}
           />
           <div

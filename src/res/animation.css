@@ -477,11 +477,16 @@
 
 @media only screen and (orientation: portrait) {
   .rball {
-    /* transform: scale(2); */
+    transform: scale(2.5);
+    left:107vw;
+    overflow: hidden;
     /* display: none; */
   }
   .lball {
-    /* transform: scale(2); */
+    transform: scale(2.5);
+    left:-80vw;
+    overflow: hidden;
+
     
   }
   .scale {

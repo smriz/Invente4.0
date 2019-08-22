@@ -28,7 +28,7 @@ class Flagship extends React.Component {
           <img
             className="headline"
             style={{ width: '80%' }}
-            src={require('../images/Heading_Line.svg')}
+            src={require('../images/heading_line_thin.svg')}
             alt={''}
           />
           <br />

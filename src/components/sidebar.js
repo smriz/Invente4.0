@@ -1,4 +1,3 @@
-
 import React from 'react';
 import '../res/sidebar.css';
 import { stack as Menu } from 'react-burger-menu';
@@ -18,9 +17,8 @@ class Sidebar extends React.Component {
         Hospitality: '/hospitality'
       }
     };
-      
   }
-  
+
   render() {
     return (
       <Menu right>
@@ -28,7 +26,7 @@ class Sidebar extends React.Component {
           <a
             className="menu-item"
             // onFocus={blur()}
-            style={{ border: '3px solid #ff9800' }}
+            // style={{ border: '3px solid #ff9800' }}
             href={this.routeMap.main[key]}
           >
             {key}
