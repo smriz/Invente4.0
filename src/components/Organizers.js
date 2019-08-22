@@ -160,9 +160,9 @@ class Organizers extends React.Component {
                   >
                     <img
                       className="img"
-                      src={require('../images/organisers/hod-' +
-                        x.img +
-                        '.jpg')}
+                      src={require('../images/organisers/hod_' +
+                        x.img.toLowerCase() +
+                        '.svg')}
                       alt={'hod-image-' + index}
                     />
                     <p className="staff-name">
@@ -187,7 +187,7 @@ class Organizers extends React.Component {
               <div id="head-of-all">
                 <div className="card" style={[]}>
                   <img
-                    src={require('../images/organisers/asa.jpg')}
+                    src={require('../images/organisers/asa.svg')}
                     alt="studentaffairs"
                   />
                   <p style={{}}>Sunita Nair</p>
@@ -211,9 +211,9 @@ class Organizers extends React.Component {
                     key={'fac-' + index}
                   >
                     <img
-                      src={require('../images/organisers/fac-' +
-                        x.img +
-                        '.jpg')}
+                      src={require('../images/organisers/fac_' +
+                        x.img.toLowerCase() +
+                        '.svg')}
                       alt={'staff-image-' + index}
                     />
                     <p className="staff-name">
@@ -244,7 +244,7 @@ class Organizers extends React.Component {
                     key={'stu-' + index}
                   >
                     <img
-                      src={require('../images/organisers/sc-' + x.img + '.jpg')}
+                      src={require('../images/organisers/p_' + x.img.toLowerCase() + '.svg')}
                       alt={'student-image-' + index}
                     />
                     <p className="staff-name">

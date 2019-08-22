@@ -3,6 +3,8 @@ import Sidebar from './sidebar';
 import Aboutinvente from '../Home/aboutinvente';
 import Flagship from '../Home/flagship';
 import Ring from '../Home/ring';
+import logo from '../images/load.gif'
+
 import Spheres from '../Home/spheres';
 import ReactFullpage from '@fullpage/react-fullpage';
 
@@ -41,11 +43,8 @@ class Home extends React.Component {
         {this.state.isLoading && (
           <div style={{ backgroundColor: 'black' }}>
             <img
-              style={{
-                height: '100vh',
-                width: '100%',
-                src: require('../images/loadd.gif')
-              }}
+                src={require('../images/load.gif')}
+            
             />
           </div>
         )}
@@ -63,7 +62,10 @@ class Home extends React.Component {
                   <div
                     className="section section1"
                     style={{ overflow: 'hidden' }}
-                  > 
+                  >    <img
+                  src={require('../images/load.gif')}
+              
+              />
                     <Spheres handleLoading={this.handleLoading} show={this.state.show} />
                     <Ring />
                   </div>

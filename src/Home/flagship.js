@@ -51,11 +51,11 @@ class Flagship extends React.Component {
                     style={{ pointerEvents: 'none', height: '100px' }}
                     alt={x.event}
                   />
-                  {/* <img
+                  <img
                     className="seemore "
                     src={require('../images/see_more_button.svg')}
                     alt={'see more'}
-                  /> */}
+                  />
                 </div>
               </div>
             </Link>
