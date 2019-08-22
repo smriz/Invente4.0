@@ -2,6 +2,8 @@ import React from "react";
 import Sidebar from "./sidebar";
 import Aboutinvente from "../Home/aboutinvente";
 import Flagship from "../Home/flagship";
+import Spinner from "../Home/spinner";
+import Logo from "../images/ssn.png";
 import Ring from "../Home/ring";
 import Spheres from "../Home/spheres";
 import { Helmet } from "react-helmet";
@@ -55,7 +57,13 @@ class Home extends React.Component {
                       className="section section1"
                       style={{ overflow: "hidden" }}
                     >
-                      <Spheres show={this.state.show} />
+                     {/* <Spinner/> */}
+
+                       <Spheres show={this.state.show} />
+                       <img 
+                        src={Logo}
+                        className="logo"
+                      />
                       <Ring />
                     </div>
                     <div className="section section1">
@@ -79,7 +87,10 @@ class Home extends React.Component {
                               />
                             </div>
                             <div id="head">
-                            <span style={{color:"#ff9800"}}>  Dr. A.K Rawat</span>
+                              <span style={{ color: "#ff9800" }}>
+                                {" "}
+                                Dr. A.K Rawat
+                              </span>
                               <br />
                               Department of biotechnology , DST
                             </div>

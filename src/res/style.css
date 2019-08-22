@@ -17,7 +17,9 @@
 
   /* line-height: 25px; */
 }
-*::-webkit-scrollbar { width: 0 !important }
+*::-webkit-scrollbar {
+  width: 0 !important;
+}
 body {
   color: white;
   /* background: #ff9800; */
@@ -399,7 +401,7 @@ a {
 }
 #guest-of-honor #guest-content {
   text-align: center;
-  width: 60%;
+  width: 70%;
   margin: 0px 16%;
   /* border: 2px solid #ff9800; */
   border-radius: 10px;
@@ -413,8 +415,6 @@ a {
 #guest-of-honor #guest-content #photo {
   padding-top: 20px;
   padding-bottom: 20px;
-  margin-left: auto;
-  margin-right: auto;
 }
 #guest-of-honor #guest-content #content {
   padding-top: 20px;
@@ -502,6 +502,21 @@ a {
   }
 }
 
+.logo {
+  position: absolute;
+  top: 0;
+  left: 2%;
+  width: 10%;
+}
+
+@media screen and (orientation: portrait) {
+  .logo {
+    position: absolute;
+    top: 3%;
+    left: 2%;
+    width: 20%;
+  }
+}
 /* Star Events*/
 /* Home page*/
 #page-main {
