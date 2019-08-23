@@ -69,7 +69,7 @@ class EventDetail extends React.Component {
                 padding: '8px 16px'
               }}
               className="workshop-register"
-              href="https://docs.google.com/forms/d/e/1FAIpQLSecQVbxa6NGzCmZrSp9-Gyqb1Tu1b435rVcRm73_6Aomn6yCg/viewform?usp=sf_link"
+              // href="https://docs.google.com/forms/d/e/1FAIpQLSecQVbxa6NGzCmZrSp9-Gyqb1Tu1b435rVcRm73_6Aomn6yCg/viewform?usp=sf_link"
             >
               Register Here
             </a>
