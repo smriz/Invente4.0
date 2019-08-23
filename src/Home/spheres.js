@@ -89,11 +89,12 @@ class Animation extends React.Component {
             id="bulb"
           />
           <img
-          style={{transform:"scale(.5)"}}
-            src={require("../images/home/logo-with-tagline.svg")}
+          style={{}}
+            src={require("../images/home/logo_with_tagline.svg")}
             alt="title"
             id="title"
           />
+         
            <img
                     src={require("../images/Thirst for tech.svg")}
                     alt="thirst"
@@ -131,19 +132,18 @@ class Animation extends React.Component {
             }}
           >
             <img
-              src={require("../images/Logo_bulb.svg")}
               alt="logo"
               // className="bulb"
               id="bulb"
             />
             <img
-            style={{transform:"scale(.5)"}}
+            style={{transform:"scale(5)",width:"100%"}}
               src={require("../images/home/logo-with-tagline.svg")}
               alt="title"
               id="title"
             />
              <img
-                      src={require("../images/Thirst for tech.svg")}
+                      // src={require("../images/Thirst for tech.svg")}
                       alt="thirst"
                       id="thirst"
                       style={{
