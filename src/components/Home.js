@@ -57,7 +57,7 @@ class Home extends React.Component {
                       className="section section1"
                       style={{ overflow: "hidden" }}
                     >
-                     <Spinner/>
+                     {/* <Spinner/> */}
 
                        <Spheres show={this.state.show} />
                        <img 

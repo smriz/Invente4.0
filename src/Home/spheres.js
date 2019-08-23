@@ -90,7 +90,7 @@ class Animation extends React.Component {
           />
           <img
           style={{transform:"scale(.5)"}}
-            src={require("../images/logo_with_tagline.svg")}
+            src={require("../images/home/logo-with-tagline.svg")}
             alt="title"
             id="title"
           />
