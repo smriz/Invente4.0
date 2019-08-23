@@ -1,8 +1,13 @@
 import React from 'react';
 import '../res/animation.css';
 import Fade from 'react-reveal/Roll';
+
 class Animation extends React.Component {
   componentDidMount() {
+    setTimeout(() => {
+      document.querySelector('#balls').style =
+        'transition:ease-in 1s;animation: enter 1s;';
+    }, 25);
     setTimeout(() => {
       document.querySelector('#thirst').style =
         'position: absolute;top: 30vh;left:25vw;width:50vw;height:50vh;opacity: 1;transit' +
@@ -45,58 +50,69 @@ class Animation extends React.Component {
     }, 6000);
   }
   render() {
-    return (
-      <div>
-        <div>
-          <Fade right>
-            <img src={require('../images/Right_ball.svg')} className="rball" />
+    let show = this.props.show;
+    if (window.innerWidth) {
+      return (
+        <div style={{ background: '#ddd111' }}>
+          <Fade left when={show}>
+            <div id="balls">
+              <img
+                src={require('../images/Left_ball.svg')}
+                className="lball"
+                id="balls"
+                onLoad={() => this.props.handleLoading()}
+              />
+            </div>
           </Fade>
-          <Fade left>
-            <img
-              src={require('../images/Left_ball.svg')}
-              className="lball"
-              onLoad={() => this.props.handleLoading()}
-            />
+          <Fade right when={show}>
+            <div id="balls">
+              <img
+                src={require('../images/Right_ball.svg')}
+                className="rball"
+                id="balls"
+              />
+            </div>
           </Fade>
-        </div>
-        <div
-          style={{
-            position: 'fixed',
-            top: 0,
-            left: 0,
-            width: '100%',
-            height: '100%'
-          }}
-        >
-          <img
-            src={require('../images/Logo_bulb.svg')}
-            alt="logo"
-            // className="bulb"
-            id="bulb"
-          />
-          <img
-            style={{ transform: 'scale(.5)' }}
-            src={require('../images/logo_with_tagline.svg')}
-            alt="title"
-            id="title"
-          />
-          <img
-            src={require('../images/Thirst for tech.svg')}
-            alt="thirst"
-            id="thirst"
+
+          <div
             style={{
-              opacity: '0',
-              position: 'absolute',
-              top: '30vh',
-              left: '25vw',
-              width: '50vw',
-              height: '50vh',
-              transform: 'translateZ(100px)'
+              position: 'fixed',
+              top: 0,
+              left: 0,
+              width: '100%',
+              height: '100%'
             }}
-          />
+          >
+            <img
+              src={require('../images/Logo_bulb.svg')}
+              alt="logo"
+              // className="bulb"
+              id="bulb"
+            />
+            <img
+              style={{ transform: 'scale(.5)' }}
+              src={require('../images/logo_with_tagline.svg')}
+              alt="title"
+              id="title"
+            />
+            <img
+              src={require('../images/Thirst for tech.svg')}
+              alt="thirst"
+              id="thirst"
+              style={{
+                opacity: '0',
+                position: 'absolute',
+                top: '30vh',
+                left: '25vw',
+                width: '50vw',
+                height: '50vh',
+                transform: 'translateZ(100px)'
+              }}
+            />
+          </div>
         </div>
-      </div>
-    );
+      );
+    }
   }
 }
 export default Animation;

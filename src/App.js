@@ -9,14 +9,13 @@ import Hospitality from './components/Hospitality';
 import Registration from './components/Registration';
 import Workshop from './components/Workshop';
 import Sidebar from './components/sidebar';
-import Stars from './components/stars';
 
 class App extends Component {
   render() {
     return (
       <BrowserRouter>
-        <Sidebar />
         <div className="App">
+          <Sidebar />
           <Route exact path="/" component={Home} />
           <Route path="/events" component={Events} />
           <Route path="/about-us" component={Aboutus} />
@@ -30,8 +29,4 @@ class App extends Component {
     );
   }
 }
-// temporary one just for nav purpose
-
-// const Default = ()=><div>Component has not yet created. From the navbar branch</div>
-
 export default App;

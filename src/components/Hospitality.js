@@ -2,6 +2,7 @@ import React from 'react';
 import '../res/hosp.css';
 import Sidebar from './sidebar';
 import Stars from './stars';
+
 import { Helmet } from 'react-helmet';
 class Hospitality extends React.Component {
   render() {

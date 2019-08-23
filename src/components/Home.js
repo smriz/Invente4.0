@@ -46,12 +46,14 @@ class Home extends React.Component {
                 width: '100%',
                 src: require('../images/loadd.gif')
               }}
+              alt="loader"
             />
           </div>
         )}
         <div style={{ position: 'fixed' }}>
           <ReactFullpage
-            scrollOverflow={true}
+            scrollOverflow={false}
+            setAllowScrolling={false}
             sectionsColor={['', '', '']}
             onLeave={this.onLeave.bind(this)}
             afterLoad={this.afterLoad.bind(this)}
@@ -62,7 +64,10 @@ class Home extends React.Component {
                     className="section section1"
                     style={{ overflow: 'hidden' }}
                   >
-                    <Spheres handleLoading={this.handleLoading} />
+                    <Spheres
+                      handleLoading={this.handleLoading}
+                      show={this.state.show}
+                    />
                     <Ring />
                   </div>
                   <div className="section section1">
