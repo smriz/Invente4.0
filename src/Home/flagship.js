@@ -33,7 +33,7 @@ class Flagship extends React.Component {
           />
           <br />
         </div>
-        <div className="card-set">
+        <div className="card-set" style={{top:"-50px"}}>
           {this.obj.map(x => (
             <Link
               to={`/events/${x.dept}/${x.event}`}
@@ -43,7 +43,7 @@ class Flagship extends React.Component {
                 <div className="customdiv">
                   <img
                     className="img"
-                    src={require('../images/events/' +
+                    src={require('../images/flag/' +
                       x.dept +
                       '_' +
                       x.eventname +

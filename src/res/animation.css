@@ -490,6 +490,10 @@
   .scale {
     transform: scale(0.5);
   }
+  .bulb{
+    transform: scale(0.5);
+  }
+
 }
 
 /* Smartphones (landscape) ----------- */
@@ -504,12 +508,22 @@
 /* Desktops and laptops ----------- */
 @media only screen and (min-width: 1224px) {
 }
-
+/* 
+html, body { margin:0; padding:0; overflow:hidden }
+svg {
+  width: 100vw;
+  height: 100vh;
+} */
+.box1{
+  float:left;
+  height:25em;
+  width:100%;
+}
 .layer {
   left: 0;
   position: fixed;
   top: 0;
-  width: 100%;
+  width: 100vw;
   height: 100vh;
   /* margin: auto; */
   background-repeat: no-repeat;
@@ -526,6 +540,48 @@
   overflow: hidden;
 } */
 
+/* #title {
+  opacity: 1;
+  position: absolute;
+  top: 60vh;
+  left: 32vw;
+  width: 35vw;
+  height: 35vh;
+  animation-delay: 5s;
+}
+
+#bulb {
+  opacity: 1;
+  animation: blink 3s;
+  tranisition: 3s ease-in;
+  position: absolute;
+  top: 38vh;
+  left: 30vw;
+  width: 40vw;
+  height: 40vh;
+  animation-delay: 3s;
+}
+
+#bulb {
+  position: absolute;
+  top: 25vh;
+  left: 30vw;
+  width: 40vw;
+  height: 40vh;
+  animation-delay: 6s;
+  opacity: 1;
+}
+
+#thirst{
+  animation: exit 1s;top: 30vh;left:25vw;width:50vw;height:50vh;
+    animation-delay: 2s
+}
+
+#thirst{
+  display: none;
+  animation-delay: 2s
+
+} */
 .layer {
   /* background: url("../images/home/b.svg"); */
   left: 0;
@@ -555,11 +611,26 @@
 }
 
 .bottom_triangle {
-  position: absolute;
-  /* top: 100%; */
-  animation-name: example;
-  animation-duration: 4s;
+  /* position: absolute; */
+  /* top: 20%; */
+  height:100%;
 }
+
+
+.dia_triangle {
+  /* position: absolute;
+  /* top: 100%; */
+/* left: -5%; */
+/* right: 10%; */
+/* min-width:100%;/ */
+background-size:contain;
+/* height:200px;width:1200px; */
+/* background-size: contain; */
+background-repeat: no-repeat;
+width: 200%;
+background: url("../images/home/left_dia.svg")
+}
+
 
 @keyframes rotate2 {
   0% {
@@ -614,3 +685,47 @@
     top: 50%;
   }
 }
+
+
+.successfully-saved {
+  text-align: center;
+  transition: opacity 3s ease-in-out;
+  -webkit-transition: opacity 3s ease-in-out;
+  -moz-transition: opacity 3s ease-in-out;
+  -ms-transition: opacity 3s ease-in-out;
+  -o-transition: opacity 3s ease-in-out;
+   opacity: 1;
+}
+.bulb_scale{
+  transform:scale(.4)
+}
+
+
+
+@media only screen and (orientation: portrait) {
+.layer{
+bottom: 0;
+}
+.bottom_triangle{
+  bottom:1%
+}
+ .bulb_scale{
+   transform:scale(.2)
+ }
+
+
+}
+
+@media only screen and (max-width:780px) {
+  .layer{
+  bottom: 0;
+  }
+  .bottom_triangle{
+    top:10%
+  }
+   .bulb_scale{
+     transform:scale(.2)
+   }
+  
+  
+  }
