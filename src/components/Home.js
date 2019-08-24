@@ -9,6 +9,7 @@ import Spheres from "../Home/spheres";
 import { Helmet } from "react-helmet";
 import ReactFullpage from "@fullpage/react-fullpage";
 import NewHome from "../Home/NewHome";
+import Cheifguest from "../Home/cheifguest";
 
 class Home extends React.Component {
   state = {
@@ -58,18 +59,18 @@ class Home extends React.Component {
                       className="section section1"
                       style={{ overflow: "hidden" }}
                     >
-                     <React.Fragment>
-                       <NewHome/>
+                     {/* <React.Fragment>
+                       {/* <NewHome/> */}
 
-                     </React.Fragment>
+                     {/* </React.Fragment> */} */}
                      {/* <Spinner/> */}
-{/* 
+
                        <Spheres show={this.state.show} />
                        <img 
                         src={Logo}
                         className="logo"
-                      />  */}
-                      {/* <Ring />  */}
+                      />  
+                      <Ring /> 
                     </div>
                     <div className="section section1">
                       <Aboutinvente show={this.state.show} />
@@ -81,26 +82,7 @@ class Home extends React.Component {
 
                     {
                       <div className="section">
-                        <div id="guest-of-honor">
-                          <div id="guest-content">
-                            <div id="head">Our Chief Guest for Invente 4.0</div>
-                            <div id="photo">
-                              <img
-                                src={require("../images/organisers/Placeholder.svg")}
-                                width="200px"
-                                height="200px"
-                              />
-                            </div>
-                            <div id="head">
-                              <span style={{ color: "#ff9800" }}>
-                                {" "}
-                                Dr. A.K Rawat
-                              </span>
-                              <br />
-                              Department of biotechnology , DST
-                            </div>
-                          </div>
-                        </div>
+                       <Cheifguest/>
                       </div>
                     }
                   </div>

@@ -4,8 +4,9 @@ import "./style.css";
 class NewHome extends Component {
     state = {  }
     render() { 
-        return ( <div>
-            
+        return ( <div className="fit_container">
+       
+
       <img
         className="layer fifth_layer"
         src={require("./images/fifth_layer.svg")}
@@ -41,6 +42,12 @@ class NewHome extends Component {
       src={require("./images/bottom_triangle.svg")}
       alt="bottom_triangle"
     />
+       <img
+      className=" diaglonal_triangle "
+      src={require("./images/left_diagonal.svg")}
+      alt="fifth_layer"
+    />
+
     <img
         className="layer"
         src={require("./images/centre_circle.svg")}
@@ -63,8 +70,7 @@ class NewHome extends Component {
         className=" layer logo_with_tagline"
         src={require("./images/logo_with_tagline.svg")}
         alt="logo_with_tagline"
-      />
-
+      />    
         </div> );
     }
 }

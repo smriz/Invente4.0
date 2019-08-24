@@ -3053,15 +3053,15 @@
       ],
       "isFlagship": false
     },
-    "WORKSHOP ON PCB DESIGNING USING ALTIUM DESIGNER": {
+    "PCB Designing using Altium Designer": {
       "last_updated": "9/11/2018 23:10:26",
       "isTechnical": false,
       "eventtype": "Workshop",
       "dept": "bme",
-      "slug": "WORKSHOP ON PCB DESIGNING USING ALTIUM DESIGNER",
+      "slug": "PCB Designing using Altium Designer",
       "venue": "Medical Software Lab, I Floor, Department of Biomedical Engineering.",
       "timing": "7th September, 9:00 am to 3:30 pm",
-      "displayName": "WORKSHOP ON PCB DESIGNING USING ALTIUM DESIGNER",
+      "displayName": "PCB Designing using Altium Designer",
       "description": "Do you feel that taking your projects from the breadboard to something more permanent is tough? Do you struggle with designing your PCB in a neat manner? Have never designed a PCB? Then this workshop on designing PCBs using a software is just what you need! IEEE EMBS is offering you this chance to transform how you design a PCB through this one-day workshop.",
       "tagline": null,
       "eventname": "WORKSHOP ON PCB DESIGNING USING ALTIUM DESIGNER",

@@ -42,11 +42,14 @@ class Animation extends React.Component {
         .style = "opacity:0";
 
     setTimeout(() => {
+      if(window.innerWidth>900){
+        document.querySelector("#title").style=
+        "opacity:1;position:absolute;top:60vh;width:100vw;height:40vh"
+      }else{
         document
             .querySelector("#title")
-            .style = "opacity:1;position:absolute;top:60vh;left:32vw;width:35vw;" +
-                "height:35vh"
-    }, 5000);
+            .style = "opacity:1;position:absolute;top:60vh;width:100vh;height:20vh"
+              }   }, 5000);
     setTimeout(() => {
         document
             .querySelector("#bulb")
@@ -90,7 +93,7 @@ class Animation extends React.Component {
           />
           <img
           style={{}}
-            src={require("../images/home/logo_with_tagline.svg")}
+            src={require("../images/home/logo-with-tagline.svg")}
             alt="title"
             id="title"
           />
