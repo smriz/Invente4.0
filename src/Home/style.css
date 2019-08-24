@@ -99,12 +99,12 @@
 
 @keyframes Logo_bulb {
   from {
-    display: block;
+    opacity: 0;
     top: 150%;
   }
   to {
     top: 0%;
-    display: block;
+    opacity: 1;
   }
 }
 @keyframes logo_with_tagline {
@@ -192,11 +192,11 @@
   @keyframes logo_with_tagline {
     from {
       top: 150%;
-      display: block;
+      opacity: 0;
     }
     to {
       top: 50%;
-      display: block;
+      opacity: 1;
     }
   }
 }
