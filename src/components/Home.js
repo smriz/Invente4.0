@@ -17,7 +17,7 @@ class Home extends React.Component {
   };
   constructor(props) {
     super(props);
-git 
+
     this.state = { show: true };
     this.state = { isLoading: false };
   }
