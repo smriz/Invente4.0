@@ -33,7 +33,7 @@ class Flagship extends React.Component {
           />
           <br />
         </div>
-        <div className="card-set" style={{top:"-50px"}}>
+        <div className="card-set" style={{marginTop:"-15px"}}>
           {this.obj.map(x => (
             <Link
               to={`/events/${x.dept}/${x.event}`}

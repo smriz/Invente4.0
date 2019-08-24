@@ -42,11 +42,14 @@ class Animation extends React.Component {
         .style = "opacity:0";
 
     setTimeout(() => {
+      if(window.innerWidth>900){
+        document.querySelector("#title").style=
+        "opacity:1;position:absolute;top:60vh;width:100vw;height:40vh"
+      }else{
         document
             .querySelector("#title")
-            .style = "opacity:1;position:absolute;top:60vh;left:32vw;width:35vw;" +
-                "height:35vh"
-    }, 5000);
+            .style = "opacity:1;position:absolute;top:60vh;width:100vh;height:20vh"
+              }   }, 5000);
     setTimeout(() => {
         document
             .querySelector("#bulb")
@@ -89,11 +92,12 @@ class Animation extends React.Component {
             id="bulb"
           />
           <img
-          style={{transform:"scale(.5)"}}
+          style={{}}
             src={require("../images/home/logo-with-tagline.svg")}
             alt="title"
             id="title"
           />
+         
            <img
                     src={require("../images/Thirst for tech.svg")}
                     alt="thirst"
@@ -131,19 +135,18 @@ class Animation extends React.Component {
             }}
           >
             <img
-              src={require("../images/Logo_bulb.svg")}
               alt="logo"
               // className="bulb"
               id="bulb"
             />
             <img
-            style={{transform:"scale(.5)"}}
+            style={{transform:"scale(5)",width:"100%"}}
               src={require("../images/home/logo-with-tagline.svg")}
               alt="title"
               id="title"
             />
              <img
-                      src={require("../images/Thirst for tech.svg")}
+                      // src={require("../images/Thirst for tech.svg")}
                       alt="thirst"
                       id="thirst"
                       style={{
