@@ -42,11 +42,11 @@ class NewHome extends Component {
       src={require("./images/bottom_triangle.svg")}
       alt="bottom_triangle"
     />
-       <img
+       {/* <img
       className=" diaglonal_triangle "
       src={require("./images/left_diagonal.svg")}
       alt="fifth_layer"
-    />
+    /> */}
 
     <img
         className="layer"
