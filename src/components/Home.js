@@ -65,12 +65,12 @@ class Home extends React.Component {
                      </React.Fragment> 
                      {/* <Spinner/> */}
 
-                       {/* <Spheres show={this.state.show} />
+                       {/* <Spheres show={this.state.show} /> */}
                        <img 
                         src={Logo}
                         className="logo"
                       />  
-                      <Ring />  */}
+                      {/* <Ring />  */}
                     </div>
                     <div className="section section1">
                       <Aboutinvente show={this.state.show} />
