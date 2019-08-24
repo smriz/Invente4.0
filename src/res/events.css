@@ -1,3 +1,6 @@
+body{
+  /* background-image: url("../images/bg2.svg"); */
+}
 .events {
   justify-content: center;
   position: relative;
@@ -89,7 +92,7 @@
 .events .tagline{
     color: #ff9800;
      margin-top: 1%;
-     font-size:15px;
+     font-size:18px;
      letter-spacing:0px;
      text-transform:initial
 }
@@ -102,11 +105,11 @@
      text-transform:initial
 }
 .events .card-set .card-set-child .roundimg{
-width: 80px;
-height: 80px;
+width: 100px;
+height: 100px;
 margin-top: 5px;
 margin-left: -1%;
-border:3px solid  #ff9800;
+/* border:3px solid  #ff9800; */
 border-radius: 50%;
 position: relative;
 }
@@ -205,7 +208,7 @@ position: relative;
         margin-top: 5px;
         margin-left: -1%;
         border:3px solid  #ff9800;
-        border-radius: 50%;
+        /* border-radius: 50%; */
         position: relative;
         }
     }  

@@ -32,7 +32,7 @@ class EventDetail extends React.Component {
           data-aos-duration="1000"
         >
           <div align="center">
-            <h6 className="top">
+            <h6 className="top" style={{width:"90%"}}>
               {this.props.location.pathname
                 .split('/')
                 .splice(1)
@@ -45,14 +45,14 @@ class EventDetail extends React.Component {
             <img
               className="headline"
               style={{ width: '80%' }}
-              src={require('../images/Heading_Line.svg')}
+              src={require('../images/heading_line_thin.svg')}
               alt={''}
             />
 
-            <h6 style={{ marginTop: '3%' }}>{event.eventname}</h6>
+            <h6 style={{ marginTop: '3%',letterSpacing:"1px",textTransform:"initial" }}>{event.eventname}</h6>
             {event.tagline && <h6 className="tagline">{event.tagline}</h6>}
           </div>
-          <div className="description">
+          <div className="description" style={{lineHeight:"25px"}}>
             {event.description &&
               event.description.split('\n').map(x => <div>{x}</div>)}
           </div>
@@ -69,7 +69,7 @@ class EventDetail extends React.Component {
                 padding: '8px 16px'
               }}
               className="workshop-register"
-              href="https://docs.google.com/forms/d/e/1FAIpQLSecQVbxa6NGzCmZrSp9-Gyqb1Tu1b435rVcRm73_6Aomn6yCg/viewform?usp=sf_link"
+              // href="https://docs.google.com/forms/d/e/1FAIpQLSecQVbxa6NGzCmZrSp9-Gyqb1Tu1b435rVcRm73_6Aomn6yCg/viewform?usp=sf_link"
             >
               Register Here
             </a>
@@ -109,6 +109,7 @@ class EventDetail extends React.Component {
           </p>
 
           <div style={{ marginTop: '3%' }}>
+          {event.rules &&
             <div className={'row rules-tab-holder'}>
               {event.rules.map((x, i) => (
                 <div
@@ -123,7 +124,8 @@ class EventDetail extends React.Component {
                 </div>
               ))}
             </div>
-            <div className="rules-pane">
+          }
+            <div className="rules-pane"  style={{lineHeight:"25px"}}>
               {event.rules &&
                 event.rules[this.state.open] &&
                 event.rules[this.state.open].map(x => <div>{x}</div>)}

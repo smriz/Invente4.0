@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Route, BrowserRouter } from 'react-router-dom';
 import Events from './events/Events';
 import Organizers from './components/Organizers';
-import Home from './components/Home';
+import newHome from './components/newHome';
 import Aboutus from './aboutus/Aboutus';
 import Footer from './components/Footer';
 import Hospitality from './components/Hospitality';
@@ -16,7 +16,8 @@ class App extends Component {
       <BrowserRouter>
         <div className="App">
           <Sidebar />
-          <Route exact path="/" component={Home} />
+
+          <Route exact path="/" component={newHome} />
           <Route path="/events" component={Events} />
           <Route path="/about-us" component={Aboutus} />
           <Route path="/organizers" component={Organizers} />

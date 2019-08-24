@@ -28,12 +28,12 @@ class Flagship extends React.Component {
           <img
             className="headline"
             style={{ width: '80%' }}
-            src={require('../images/Heading_Line.svg')}
+            src={require('../images/heading_line_thin.svg')}
             alt={''}
           />
           <br />
         </div>
-        <div className="card-set">
+        <div className="card-set" style={{ top: '-50px' }}>
           {this.obj.map(x => (
             <Link
               to={`/events/${x.dept}/${x.event}`}
@@ -43,7 +43,7 @@ class Flagship extends React.Component {
                 <div className="customdiv">
                   <img
                     className="img"
-                    src={require('../images/events/' +
+                    src={require('../images/flag/' +
                       x.dept +
                       '_' +
                       x.eventname +
@@ -51,11 +51,11 @@ class Flagship extends React.Component {
                     style={{ pointerEvents: 'none', height: '100px' }}
                     alt={x.event}
                   />
-                  {/* <img
+                  <img
                     className="seemore "
                     src={require('../images/see_more_button.svg')}
                     alt={'see more'}
-                  /> */}
+                  />
                 </div>
               </div>
             </Link>

@@ -8,16 +8,23 @@
   } */
 @font-face {
   font-family: myFancyFont;
-  src: url('./GillSans-Light-08.ttf'), url('./GillSans-Light-08.ttf');
+  src: url("./GillSans-Light-08.ttf"), url("./GillSans-Light-08.ttf");
 }
 * {
   font-weight: 100;
+  -ms-overflow-style: none;
+  overflow: -moz-scrollbars-none;
+
+  /* line-height: 25px; */
+}
+*::-webkit-scrollbar {
+  width: 0 !important;
 }
 body {
   color: white;
-  background: #ff9800;
-  background: url('../images/bg2.svg');
-
+  /* background: #ff9800; */
+  /* background: url('../images/bg2.svg'); */
+  background: url("../images/bg2.svg");
   background-repeat: no-repeat;
   background-position: 0 0;
   background-attachment: fixed;
@@ -26,7 +33,7 @@ body {
   margin: 0px;
   padding: 0px;
   margin-top: 5%;
-  font-family: 'myFancyFont', sans-serif;
+  font-family: "myFancyFont", sans-serif;
   -webkit-user-select: none;
   -moz-user-select: -moz-none;
   -ms-user-select: none;
@@ -36,7 +43,7 @@ body {
 
 .headline {
   margin: 10px 0;
-  width: 60%;
+  width: 80%;
   text-align: center;
   display: block;
   margin-left: auto;
@@ -145,6 +152,7 @@ a {
 }
 .rules-tab-holder .rules-tab {
   /* border: 1px solid #888; */
+  font-size: 18px;
   margin: auto 0px;
   padding: 8px 16px;
   z-index: 1;
@@ -161,6 +169,7 @@ a {
 }
 
 .rules-pane {
+  font-size: 18px;
   border: 1px solid #ff9800;
   padding: 30px 20px;
   min-height: 150px;
@@ -204,9 +213,9 @@ a {
   margin-right: auto;
   width: 100px;
   height: 100px;
-  border-radius: 50%;
+  /* border-radius: 50%; */
   margin-top: 5px;
-  border: 3px solid #ff9800;
+  /* border: 3px solid #ff9800; */
 }
 
 .organisers h6 {
@@ -245,8 +254,8 @@ a {
   width: 100px;
   height: 100px;
   margin-top: 5px;
-  border: 3px solid #ff9800;
-  border-radius: 50%;
+  /* border: 3px solid #ff9800; */
+  /* border-radius: 50%; */
   position: relative;
 }
 .organisers .card-set .card-set-child .staff-name {
@@ -310,29 +319,27 @@ a {
 .register-area .register-instructions {
   margin: 0 10%;
   padding: 5%;
+  font-size: 18px;
+  line-height: 25px;
   border: 2px solid #ff9800;
 }
 .register-area .align-center {
-  padding: 0 30%;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 25%;
+  /* margin-right: 10%; */
 }
 
 @media screen and (orientation: portrait) {
   .register-area .register-instructions {
     padding: 10%;
-    padding: 10px 0px;
+    font-size: 16px;
   }
   .register-area .align-center {
-    padding: 0 30%;
+    padding: 0 0%;
     margin-left: auto;
     margin-right: auto;
   }
 }
-.register-area .main-register #formdata {
-  width: 1100px;
-  height: 1400px;
-}
+
 @media screen and (orientation: portrait) {
   .register-area .main-register #formdata {
     width: 300px;
@@ -389,14 +396,14 @@ a {
 }
 
 #guest-of-honor {
-  background: #eee;
+  /* background: #eee; */
   padding: 6% 6%;
 }
 #guest-of-honor #guest-content {
   text-align: center;
-  width: 60%;
+  width: 70%;
   margin: 0px 16%;
-  border: 2px solid #ff9800;
+  /* border: 2px solid #ff9800; */
   border-radius: 10px;
   padding: 0px 5%;
 }
@@ -495,6 +502,21 @@ a {
   }
 }
 
+.logo {
+  position: absolute;
+  top: 0;
+  left: 2%;
+  width: 10%;
+}
+
+@media screen and (orientation: portrait) {
+  .logo {
+    position: absolute;
+    top: 3%;
+    left: 2%;
+    width: 20%;
+  }
+}
 /* Star Events*/
 /* Home page*/
 #page-main {
@@ -876,6 +898,10 @@ a {
     height: 100px;
     left: 7%;
   }
+  .headline {
+    height: 2px;
+    /* height: 30px; */
+  }
 }
 .stars-overlay {
   position: fixed;
@@ -891,9 +917,9 @@ a {
 }
 
 .headline {
-  animation: createBox 0.7s;
+  animation: appear 2s;
 }
-@keyframes createBox {
+@keyframes appear {
   from {
     transform: scale(0);
   }

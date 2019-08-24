@@ -23,6 +23,7 @@ class EventList extends React.Component {
       <div className="events">
         <Helmet>
           <title>{dept} | Invente 4.0</title>
+          {/* <style>{'body { background-color: red; }'}</style> */}
         </Helmet>
         <div
           data-aos="fade-zoom-in"
@@ -45,7 +46,7 @@ class EventList extends React.Component {
             <img
               className="headline"
               style={{ width: "80%" }}
-              src={require("../images/Heading_Line.svg")}
+              src={require("../images/heading_line_thin.svg")}
               alt={""}
             />
 

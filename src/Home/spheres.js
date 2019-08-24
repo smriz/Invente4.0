@@ -1,13 +1,8 @@
 import React from 'react';
 import '../res/animation.css';
 import Fade from 'react-reveal/Roll';
-
 class Animation extends React.Component {
   componentDidMount() {
-    setTimeout(() => {
-      document.querySelector('#balls').style =
-        'transition:ease-in 1s;animation: enter 1s;';
-    }, 25);
     setTimeout(() => {
       document.querySelector('#thirst').style =
         'position: absolute;top: 30vh;left:25vw;width:50vw;height:50vh;opacity: 1;transit' +
@@ -23,13 +18,15 @@ class Animation extends React.Component {
       document.querySelector('#thirst').style = 'display: none';
     }, 2000);
 
-    Array.from(document.querySelectorAll('.startspan'))
-      .reverse()
-      .forEach(x => {
-        setTimeout(() => {
-          x.style = `transition: 2.5s ease;opacity:0`;
-        }, 3000);
-      });
+    // Array
+    //     .from(document.querySelectorAll(".startspan"))
+    //     .reverse()
+    //     .forEach((x) => {
+    //         setTimeout(() => {
+
+    //             x.style = `transition: 2.5s ease;opacity:0`;
+    //         }, 3000)
+    //     });
 
     document.querySelector('#title').style = 'opacity:0';
     document.querySelector('#bulb').style = 'opacity:0';
@@ -38,7 +35,7 @@ class Animation extends React.Component {
       document.querySelector('#title').style =
         'opacity:1;position:absolute;top:60vh;left:32vw;width:35vw;' +
         'height:35vh';
-    }, 6000);
+    }, 5000);
     setTimeout(() => {
       document.querySelector('#bulb').style =
         'opacity:1;animation : blink 3s;tranisition: 3s ease-in;position:absolute;top:38v' +
@@ -51,29 +48,20 @@ class Animation extends React.Component {
   }
   render() {
     let show = this.props.show;
-    if (window.innerWidth) {
+    if (window.innerWidth > 675) {
       return (
-        <div style={{ background: '#ddd111' }}>
-          <Fade left when={show}>
-            <div id="balls">
-              <img
-                src={require('../images/Left_ball.svg')}
-                className="lball"
-                id="balls"
-                onLoad={() => this.props.handleLoading()}
-              />
-            </div>
-          </Fade>
-          <Fade right when={show}>
-            <div id="balls">
+        <div>
+          <div>
+            <Fade right when={show}>
               <img
                 src={require('../images/Right_ball.svg')}
                 className="rball"
-                id="balls"
               />
-            </div>
-          </Fade>
-
+            </Fade>
+            <Fade left when={show}>
+              <img src={require('../images/Left_ball.svg')} className="lball" />
+            </Fade>
+          </div>
           <div
             style={{
               position: 'fixed',
@@ -90,13 +78,70 @@ class Animation extends React.Component {
               id="bulb"
             />
             <img
-              style={{ transform: 'scale(.5)' }}
-              src={require('../images/logo_with_tagline.svg')}
+              style={{}}
+              src={require('../images/home/logo_with_tagline.svg')}
+              alt="title"
+              id="title"
+            />
+
+            <img
+              src={require('../images/Thirst for tech.svg')}
+              alt="thirst"
+              id="thirst"
+              style={{
+                opacity: '0',
+                position: 'absolute',
+                top: '30vh',
+                left: '25vw',
+                width: '50vw',
+                height: '50vh',
+                transform: 'translateZ(100px)'
+              }}
+            />
+          </div>
+        </div>
+      );
+    } else {
+      return (
+        <div>
+          <div>
+            {/* <Fade  right when={show}> */}
+            <img
+              src={require('../images/Right_ball.svg')}
+              style={{ transform: 'scale(2)', left: '90%' }}
+              className="rball"
+            />
+            {/* </Fade> */}
+            {/* <Fade left when={show}> */}
+            <img
+              src={require('../images/Left_ball.svg')}
+              style={{ transform: 'scale(2)', left: '-63%' }}
+              className="lball"
+            />
+            {/* </Fade> */}
+          </div>
+          <div
+            style={{
+              position: 'fixed',
+              top: 0,
+              left: 0,
+              width: '100%',
+              height: '100%'
+            }}
+          >
+            <img
+              alt="logo"
+              // className="bulb"
+              id="bulb"
+            />
+            <img
+              style={{ transform: 'scale(5)', width: '100%' }}
+              src={require('../images/home/logo-with-tagline.svg')}
               alt="title"
               id="title"
             />
             <img
-              src={require('../images/Thirst for tech.svg')}
+              // src={require("../images/Thirst for tech.svg")}
               alt="thirst"
               id="thirst"
               style={{

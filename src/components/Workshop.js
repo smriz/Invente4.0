@@ -45,13 +45,13 @@ class Workshop extends React.Component {
               <img
                 className="headline"
                 style={{ width: '80%' }}
-                src={require('../images/Heading_Line.svg')}
+                src={require('../images/heading_line_thin.svg')}
                 alt={''}
               />
 
               <h6 style={{ color: '#ff9800', marginTop: '3%' }}>Technical</h6>
             </div>
-            <div className="card-set">
+            <div className="card-set" style={{marginTop:"7%"}}>
               {this.obj.map(x => (
                 <Link
                   to={`/events/${x.dept}/${x.event}`}
@@ -60,11 +60,11 @@ class Workshop extends React.Component {
                   <div align="center">
                     <div className="customdiv">
                       <img
-                        src={require('../images/Capsule.svg')}
+                        src={require('../images/events/'+`${x.dept}`+'_'+`${x.event}`+'.svg')}
                         alt={x.event}
                       />
                     </div>
-                    <p className="dept-name" style={{ textAlign: 'center' }}>
+                    <p className="dept-name" style={{ textAlign: 'center',letterSpacing:"1px" }}>
                       {eventlist[x.dept][x.event]}
                     </p>
                   </div>
@@ -85,7 +85,7 @@ class Workshop extends React.Component {
             <br />
           </div>
         </div>
-      </div>
+        </div>
     );
   }
 }

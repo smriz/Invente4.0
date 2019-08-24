@@ -1,6 +1,7 @@
 import React from 'react';
 import Sidebar from './Navigator';
 // import Sidebar from "./sidebar";
+import Stars from "./stars";
 import { Helmet } from 'react-helmet';
 import Flip from 'react-reveal/Flip';
 class Organizers extends React.Component {
@@ -20,7 +21,7 @@ class Organizers extends React.Component {
         img: 'EEE'
       },
       {
-        name: 'Thiruvenkatesan',
+        name: 'Vaithianathan',
         img: 'ECE'
       },
       {
@@ -42,7 +43,7 @@ class Organizers extends React.Component {
     ];
     this.student = [
       {
-        name: ' ',
+        name: 'Narayanan',
         img: 'IT'
       },
       {
@@ -50,27 +51,27 @@ class Organizers extends React.Component {
         img: 'CSE'
       },
       {
-        name: '',
+        name: 'Nishanth',
         img: 'EEE'
       },
       {
-        name: 'Kaushik',
+        name: 'Sai Kiran',
         img: 'ECE'
       },
       {
-        name: '',
+        name: 'Sooraj',
         img: 'CIVIL'
       },
       {
-        name: ' ',
+        name: 'Aravind',
         img: 'BME'
       },
       {
-        name: ' ',
+        name: 'Navaneeth',
         img: 'MECH'
       },
       {
-        name: ' ',
+        name: 'Sriram',
         img: 'CHEM'
       }
     ];
@@ -101,7 +102,7 @@ class Organizers extends React.Component {
       },
       {
         name: 'Dr. Annamalai',
-        img: 'BME'
+        img: 'MECH'
       },
       {
         name: 'Dr. Parthiban',
@@ -116,7 +117,19 @@ class Organizers extends React.Component {
         <Helmet>
           <title>Organizers | Invente 4.0 </title>
         </Helmet>
-        <div className="organisers top">
+        {/* <div
+          style={{
+			position: "fixed",
+            top: 0,
+            left: 0,
+            width: "100%",
+            height: "100%"
+          }}
+        > 
+        */}
+        <Stars/>
+        <div className="stars-overlay">
+        <div className="organisers ">
           {/* <Flip  cascade>  */}
 
           <div
@@ -125,39 +138,16 @@ class Organizers extends React.Component {
             data-aos-easing="ease-in-sine"
             data-aos-duration="1000"
           >
-            <div
-              data-aos="fade-zoom-in"
-              data-aos-offset="100"
-              data-aos-easing="ease-in-sine"
-              data-aos-duration="1000"
-            >
-              <div>
-                <h6>Advisor of Student Affairs</h6>
-                <img
-                  className="headline"
-                  style={{ width: '80%' }}
-                  src={require('../images/Heading_Line.svg')}
-                  alt={''}
-                />
-              </div>
-              <div id="head-of-all">
-                <div className="card" style={[]}>
-                  <img
-                    src={require('../images/organisers/asa.jpg')}
-                    alt="studentaffairs"
-                  />
-                  <p style={{}}>Sunita Nair</p>
-                </div>
-              </div>
-            </div>
+           
+             
 
             <div id="hod" className="top">
               <div align="center">
                 <h6>HEAD OF DEPARTMENTS</h6>
                 <img
                   className="headline"
-                  style={{ width: '80%' }}
-                  src={require('../images/Heading_Line.svg')}
+                  // style={{ width: "80%" }}
+                  src={require('../images/heading_line_thin.svg')}
                   alt={''}
                 />
               </div>
@@ -170,9 +160,9 @@ class Organizers extends React.Component {
                   >
                     <img
                       className="img"
-                      src={require('../images/organisers/hod-' +
-                        x.img +
-                        '.jpg')}
+                      src={require('../images/organisers/hod_' +
+                        x.img.toLowerCase() +
+                        '.svg')}
                       alt={'hod-image-' + index}
                     />
                     <p className="staff-name">
@@ -184,20 +174,32 @@ class Organizers extends React.Component {
                 ))}
               </div>
             </div>
-          </div>
-          <div
-            data-aos="fade-zoom-in"
-            data-aos-offset="100"
-            data-aos-easing="ease-in-sine"
-            data-aos-duration="1000"
-          >
-            <div id="staff-coordinator" className="top">
+            <div>
+                <h6>
+                <br/><br/><br/>Advisor of Student Affairs</h6>
+                <img
+                  className="headline"
+                  style={{ width: '50%' }}
+                  src={require('../images/heading_line_thin.svg')}
+                  alt={''}
+                />
+              </div>
+              <div id="head-of-all">
+                <div className="card" style={[]}>
+                  <img
+                    src={require('../images/organisers/asa.svg')}
+                    alt="studentaffairs"
+                  />
+                  <p style={{}}>Sunita Nair</p>
+                </div>
+              </div>
+            <div id="staff-coordinator" className="">
               <div>
-                <h6>Faculty Co-ordinators</h6>
+                <h6><br/><br/><br/>Faculty Co-ordinators</h6>
                 <img
                   className="headline"
                   style={{ width: '80%' }}
-                  src={require('../images/Heading_Line.svg')}
+                  src={require('../images/heading_line_thin.svg')}
                   alt={''}
                 />
               </div>
@@ -209,9 +211,9 @@ class Organizers extends React.Component {
                     key={'fac-' + index}
                   >
                     <img
-                      src={require('../images/organisers/fac-' +
-                        x.img +
-                        '.jpg')}
+                      src={require('../images/organisers/fac_' +
+                        x.img.toLowerCase() +
+                        '.svg')}
                       alt={'staff-image-' + index}
                     />
                     <p className="staff-name">
@@ -223,21 +225,14 @@ class Organizers extends React.Component {
                 ))}
               </div>
             </div>
-          </div>
-
-          <div
-            data-aos="fade-zoom-in"
-            data-aos-offset="100"
-            data-aos-easing="ease-in-sine"
-            data-aos-duration="1000"
-          >
-            <div id="student-coordinator" className="top">
+          
+            <div id="student-coordinator" className="">
               <div>
-                <h6>Association Presidents</h6>
+                <h6><br/><br/><br/>Association Presidents</h6>
                 <img
                   className="headline"
                   style={{ width: '80%' }}
-                  src={require('../images/Heading_Line.svg')}
+                  src={require('../images/heading_line_thin.svg')}
                   alt={''}
                 />
               </div>
@@ -249,7 +244,7 @@ class Organizers extends React.Component {
                     key={'stu-' + index}
                   >
                     <img
-                      src={require('../images/organisers/sc-' + x.img + '.jpg')}
+                      src={require('../images/organisers/p_' + x.img.toLowerCase() + '.svg')}
                       alt={'student-image-' + index}
                     />
                     <p className="staff-name">
@@ -269,6 +264,9 @@ class Organizers extends React.Component {
           {/* </Flip> */}
         </div>
       </div>
+      </div>
+      // </div>
+
     );
   }
 }

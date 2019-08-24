@@ -8,7 +8,8 @@ class Aboutinvente extends React.Component {
         <img
           className="headline "
           id="headline"
-          src={require('../images/Heading_Line.svg')}
+          style={{ width: '50%' }}
+          src={require('../images/heading_line_thin.svg')}
           alt={''}
         />
         <div className="container" align="center">
@@ -19,10 +20,11 @@ class Aboutinvente extends React.Component {
             enthusiasm.This is a space for the tech-savvy, the fun-loving, and
             the puzzle-solvers to flaunt their abilities to the world. Here is a
             platform to put your ideas into action; to test your ability; and to
-            reinvent yourself.SSN's national level technical symposiums of eight
-            departments amalgamate to form this massive technical festival. So
-            keep your planners clean on the 21st and 22nd of September and take
-            a trip down to Kalavakkam. It's time for you to Invente.
+            reinvent yourself. SSN's national level technical symposiums of
+            eight departments amalgamate to form this massive technical
+            festival. So keep your planners clean on the 21st and 22nd of
+            September and take a trip down to Kalavakkam. It's time for you to
+            Invente.
           </p>
         </div>{' '}
       </div>
