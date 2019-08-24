@@ -21,6 +21,12 @@ class Home extends React.Component {
     this.state = { show: true };
     this.state = { isLoading: false };
   }
+  componentWillMount(){
+    setTimeout(() => {
+      document.removeEventListener('scroll', this.handleScroll, false);
+  }, 25)
+  }
+
   onLeave(origin, destination, direction) {
     console.log(
       "Leaving section " + origin.index + "hello" + destination.index
@@ -37,7 +43,7 @@ class Home extends React.Component {
     console.log("After load: " + destination.index);
   }
 
-  componentDidMount() {
+  componentDid() {
     this.setState({ isLoading: true });
     console.log(this.state.isLoading);
   }
@@ -64,13 +70,13 @@ class Home extends React.Component {
 
                      </React.Fragment> 
                      {/* <Spinner/> */}
-
-                       {/* <Spheres show={this.state.show} /> */}
+{/* 
+                       <Spheres show={this.state.show} />
                        <img 
                         src={Logo}
                         className="logo"
                       />  
-                      {/* <Ring />  */}
+                      <Ring />   */}
                     </div>
                     <div className="section section1">
                       <Aboutinvente show={this.state.show} />

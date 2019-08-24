@@ -1,8 +1,3 @@
-* {
-  padding: 0;
-  border: 0;
-  margin: 0;
-}
 
 /* body {
   box-sizing: border-box;
@@ -27,40 +22,41 @@
 }
 
 .second_layer {
-  animation: rotate2 3s ease 0s 1 forwards;
+  animation: rotate2 3s ease 2s 1 forwards;
   /* animation-direction: reverse; */
 }
 
 .third_layer {
-  animation: rotate3 3s ease 0s 1 forwards;
+  animation: rotate3 3s ease 2s 1 forwards;
 }
 
 .fourth_layer {
-  animation: rotate4 3s ease 0s 1 forwards;
+  animation: rotate4 3s ease 2s 1 forwards;
 }
 
 .bottom_triangle {
   width: 100%;
-  height: 100vh;
+  height: 65vh;
   top: 0%;
   margin: auto;
   background-repeat: no-repeat;
   background-size: cover;
   position: absolute;
-  transform: scaleX(1.4);
-  transform: scaleY(1);
+  transform: scale(2);
+  /* transform: scaleY(1); */
 }
 .diagonal_triangle {
   width: 100%;
-  height: 80%;
-  top: 0%;
-  object-fit: cover;
+  height: 100vh;
+  top:0;
+  left:10%;
   margin: auto;
   background-repeat: no-repeat;
   background-size: cover;
   position: absolute;
-  transform: scaleX(1.4);
-  /* transform:scaleY(1); */
+  transform: scale(2);
+ animation: thirst_for_tech 1s ease 1s 1 forwards;
+
 }
 .thirst_for_tech {
   animation: thirst_for_tech 1s ease 3s 1 forwards;
@@ -121,11 +117,9 @@
 @keyframes thirst_for_tech {
   from {
     opacity: 1;
-    display: block;
   }
   to {
     opacity: 0;
-    display: block;
   }
 }
 
@@ -170,7 +164,8 @@
 
 @media only screen and (max-width: 850px) {
   .bottom_triangle {
-    transform: scale(1.8);
+    transform: scale(1.9);
+    height: 50vh;
   }
 
   .diagonal_triangle {
@@ -187,7 +182,9 @@
    transform: scale(.24);
  }
 
-
+.logo_with_tagline{
+  transform: scale(2);
+}
 
   @keyframes logo_with_tagline {
     from {

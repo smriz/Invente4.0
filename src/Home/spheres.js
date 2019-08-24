@@ -24,22 +24,11 @@ class Animation extends React.Component {
             .style = "display: none";
     }, 2000);
 
-    // Array
-    //     .from(document.querySelectorAll(".startspan"))
-    //     .reverse()
-    //     .forEach((x) => {
-    //         setTimeout(() => {
-
-    //             x.style = `transition: 2.5s ease;opacity:0`;
-    //         }, 3000)
-    //     });
 
     document
         .querySelector("#title")
         .style = "opacity:0";
-    document
-        .querySelector("#bulb")
-        .style = "opacity:0";
+ 
 
     setTimeout(() => {
       if(window.innerWidth>900){
