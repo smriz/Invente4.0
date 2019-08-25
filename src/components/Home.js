@@ -13,18 +13,15 @@ import Cheifguest from "../Home/cheifguest";
 
 class Home extends React.Component {
   state = {
-    isLoading: true
+    isLoading: true,
+    canScroll:false
   };
   constructor(props) {
     super(props);
 
-    this.state = { show: true };
+    this.state = { show: false };
+    this.state = { canScroll: true };
     this.state = { isLoading: false };
-  }
-  componentWillMount(){
-    setTimeout(() => {
-      document.removeEventListener('scroll', this.handleScroll, false);
-  }, 25)
   }
 
   onLeave(origin, destination, direction) {
@@ -43,11 +40,16 @@ class Home extends React.Component {
     console.log("After load: " + destination.index);
   }
 
-  componentDid() {
+  componentDidMount() {
     this.setState({ isLoading: true });
     console.log(this.state.isLoading);
+
+    
+
   }
+
   render() {
+   
     if (this.state) {
       return (
         <div>
@@ -55,6 +57,7 @@ class Home extends React.Component {
           <div style={{ position: "fixed" }}>
             <ReactFullpage
               scrollOverflow={true}
+              // autoScrolling={this.state.canScroll}
               sectionsColor={["", "", ""]}
               onLeave={this.onLeave.bind(this)}
               afterLoad={this.afterLoad.bind(this)}
@@ -65,18 +68,14 @@ class Home extends React.Component {
                       className="section section1"
                       style={{ overflow: "hidden" }}
                     >
-                     <React.Fragment>
-                       <NewHome/> 
+                      <React.Fragment>
+                        <NewHome />
+                      </React.Fragment>
+                      {/* <Spinner/> */}
 
-                     </React.Fragment> 
-                     {/* <Spinner/> */}
-
-                       {/* <Spheres show={this.state.show} /> */}
-                       <img 
-                        src={Logo}
-                        className="logo"
-                      />  
-                 {/*     <Ring />   */}
+                      {/* <Spheres show={this.state.show} /> */}
+                      <img src={Logo} className="logo" />
+                      {/*     <Ring />   */}
                     </div>
                     <div className="section section1">
                       <Aboutinvente show={this.state.show} />
@@ -88,7 +87,7 @@ class Home extends React.Component {
 
                     {
                       <div className="section">
-                       <Cheifguest/>
+                        <Cheifguest />
                       </div>
                     }
                   </div>
