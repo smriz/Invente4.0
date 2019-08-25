@@ -5,15 +5,7 @@ class Registration extends React.Component {
   render() {
     return (
       <div align="">
-        <div
-          style={{
-            position: "fixed",
-            top: 0,
-            left: 0,
-            width: "100%",
-            height: "100%"
-          }}
-        >
+      
           <Stars />
           <div className="stars-overlay">
             <div className="register-area">
@@ -80,7 +72,7 @@ class Registration extends React.Component {
             </div>
           </div>
         </div>
-      </div>
+
     );
   }
 }
