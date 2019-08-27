@@ -180,12 +180,20 @@ class Hospitality extends React.Component {
                 </thead>
                 <tbody>
                   <tr>
-                    <td>Rohan</td>
-                    <td>8760725899</td>
+                    <td>Jagadesh</td>
+                    <td>7358729757</td>
                   </tr>
                   <tr>
-                    <td>Sriram</td>
-                    <td>8870062937</td>
+                    <td>Suhshine</td>
+                    <td>7379266268</td>
+                  </tr>
+                  <tr>
+                    <td>Jaha Guru</td>
+                    <td>8754232589</td>
+                  </tr>
+                  <tr>
+                    <td>Mehala R</td>
+                    <td>9488367656</td>
                   </tr>
                 </tbody>
                 <br />

@@ -12,7 +12,7 @@ class Flagship extends React.Component {
         if (eventdetail[dept][event].isFlagship === true) {
           this.obj.push({
             dept,
-            eventname: eventdetail[dept][event].eventname,
+            eventname: eventdetail[dept][event].displayName,
             event
           });
         }

@@ -1,36 +1,36 @@
 {
   "cse": {
     "codolympics": "Codolympics",
-    "yesqueueluck": "YesQueueLuck",
+    "yesqueueluck": "YeSQueueLuck",
     "code-relay": "Code Relay",
     "code-inverse": "Code Inverse",
     "techathlon": "Techathlon",
     "paper-presentation": "Paper Presentation",
     "u-n-i": "U 'n' I",
     "hackers-asylum": "Hacker's Asylum",
-    "quiz": "Quiz",
+    "sci-tech-quiz": "Sci-Tech Quiz",
     "meme-time": "Meme Time"
   },
   "it": {
-    "androider": "Androider",
-    "cryptit": "Cryptit",
-    "mock-recruitment": "Mock Recruitment",
-    "web-development": "Web Development",
-    "data-structures": "Data Structures and Algorithms",
-    "data-analytics": "Data Analytics",
-    "code-obfuscation": "Code Obfuscation",
+    "appology": "APPology",
+    "cryptit": "CryptIT",
+    "hired-or-not-hired": "Hired or not Hired",
+    "webfx": "WebFX",
+    "cup-of-code": "Cup of Code",
+    "data-request": "Data ReQuest",
+    "code-obfuscation-reverse-coding": "Code Obfuscation and Reverse Coding",
     "paper-presentation": "Paper Presentation",
-    "data-analytics-workshop": "Data Analytics Workshop",
+    "data-analytics-workshop": "Who wants to be a data scientist",
     "call-of-duty": "Call of Duty",
-    "smackdown": "SmackDown",
-    "fifa": "FIFA"
+    "smackdown": "WWE SmackDown",
+    "fifa-19": "FIFA 19"
   },
   "chem": {
     "pin_it_up": "Pin It Up",
     "paper-presentation": "Paper Presentation",
-    "chem-connextions": "Chem Connextions",
+    "chem-connextions": "ChemConnexions",
     "breaking_bad": "Breaking Bad",
-    "autochem": "AutoChem",
+    "autochem": "Auto Chem",
     "stranger_things": "Stranger Things",
     "shadow_of_truth": "Shadow of Truth",
     "house_of_cards": "House of Cards",
@@ -52,7 +52,7 @@
   "eee": {
     "line-follower": "Line Follower",
     "bridge-balancio": "Bridge Balancio",
-    "d-sim": "D - Sim",
+    "d-sim": "D-SIM",
     "electronic-maze": "Electronic Maze",
     "pandora-box": "Pandora Box",
     "project-display": "Project Display",
@@ -60,7 +60,7 @@
     "ipl-bidding": "IPL Bidding",
     "tentkotta": "Tentkotta",
     "tech-quiz": "Tech Quiz",
-    "e-vehicles-and-hybrid-vehicles-workshop": "E-Vehicles and Hybrid Vehicles Workshop"
+    "e-vehicles-and-hybrid-vehicles": "E-Vehicles and Hybrid Vehicles"
   },
   "ece": {
     "paper-presentation": "Paper Presentation",
@@ -73,32 +73,31 @@
     "junkyard-jumble": "Junkyard Jumble",
     "triwizard-tournament": "Triwizard Tournament",
     "trump_the_aces": "Trump the Aces",
-    "hack-hackathon": "Hackinfinity"
+    "hackinfinity": "Hackinfinity"
   },
   "bme": {
     "biogonize": "Biogonize",
     "scintelligence": "Scintelligence",
-    "biomart": "BIOMART",
+    "biomart": "Biomart",
     "paper-presentation": "Paper Presentation",
     "game-over": "GAME OVER",
     "gizmo-wizard": "Gizmo Wizard",
     "multiverse": "MULTIVERSE",
-    "PCB Designing using Altium Designer": "PCB Designing using Altium Designer"
+    "pcb-workshop": "PCB Designing using ALTIUM Designer"
   },
   "civil": {
     "word-rush": "Word Rush",
     "minute-to-win-it": "Minute to win it",
     "call-of-builders": "Call of Builders",
-    "arCADe": "Arcade",
+    "arCADe": "arCADe",
     "clash-of-claims": "Clash of Claims",
     "paper-presentation": "Paper Presentation",
-    "qureka": "qureka",
-   
+    "qureka": "Qureka (quiz)",
     "quote-or-quit": "Quote r Quit",
     "gully-cricket": "The Gully Cricket",
-    "soltiare": "Solve-IT-Aire",
-    "dc-marvel-quiz": "DC & Marvel Quiz",
-    "staad-pro": "Staad.Pro Workshop",
+    "soltiare": "Solve-it-aire",
+    "dc-marvel-quiz": "DC & MARVEL Quiz",
+    "staad-pro": "STAAD.Pro Workshop",
     "music-tiles": "Music Tiles"
   }
 }

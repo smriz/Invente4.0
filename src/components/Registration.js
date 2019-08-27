@@ -53,13 +53,10 @@ class Registration extends React.Component {
                       <li>
                         {" "}
                         Students who have registered can take part in the events
-                        on both days, 6
-                      </li>
-                      <li>
-                        {" "}
-                        September and 7 September 2019 (Applicable only for
+                        on both days, 13  September and 14 September 2019 (Applicable only for
                         General Registration)
                       </li>
+
                     </li>
                   </ul>
                 </div>

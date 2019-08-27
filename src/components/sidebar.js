@@ -10,7 +10,7 @@ class Sidebar extends React.Component {
         Home: '/',
         Events: '/events',
         Workshops: '/workshops',
-        Hackathon: '/events/ece/hack-hackathon',
+        Hackathon: '/events/ece/hackinfinity',
         Registration: '/register',
         Organizers: '/organizers',
         AboutUs: '/about-us',

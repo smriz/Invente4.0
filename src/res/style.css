@@ -927,3 +927,9 @@ a {
     transform: scale(1);
   }
 }
+.stars-appear{
+  animation: stars-appear 0s 2s forwards;
+  opacity: 0; }
+@keyframes stars-appear {
+  to   { opacity: 1; }
+}

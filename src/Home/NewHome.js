@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './style.css';
-import bg from './images/b.svg';
+
 
 class NewHome extends Component {
   state = {};
@@ -69,7 +69,7 @@ class NewHome extends Component {
 
         <img
           className=" layer logo_with_tagline"
-          src={require('./images/logo_with_tagline.svg')}
+          src={require('./images/logo_with_tag_date.svg')}
           alt="logo_with_tagline"
         />
       </div>

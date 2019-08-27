@@ -112,7 +112,7 @@ class EventList extends React.Component {
                           alt={x}
                         />: null }
                       </div>
-                      <p className="dept-name" style={{ textAlign: "center" }}>
+                      <p className="dept-name" style={{ textAlign: "center",letterSpacing:"1px" }}>
                         {eventlist[dept][x]}
                       </p>
                     </div>

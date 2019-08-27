@@ -1,12 +1,12 @@
 import React from 'react';
 import { Route } from 'react-router-dom';
 import Sidebar from '../components/sidebar';
+import Workshop from '../components/Organizers';
 import EventDetail from './EventDetail';
 import EventList from './EventList';
 import DepartmentList from './DepartmentList';
 import { Helmet } from 'react-helmet';
 import Stars from '../components/stars';
-import Workshop from '../components/Organizers';
 import bg from "../images/bg2.svg"
 class Events extends React.Component {
   render() {
@@ -30,6 +30,7 @@ class Events extends React.Component {
           <div className="stars-overlay"
           >
             <Route exact path="/events" component={DepartmentList} />
+            <Route exact path="/events/workshops" component={Workshop} />
             <Route exact path="/events/:dept" component={EventList} />
             <Route exact path="/events/:dept/:slug" component={EventDetail} />
             <Route exact path="/events/organizers" component={Workshop} />

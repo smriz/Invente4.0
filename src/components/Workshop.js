@@ -15,6 +15,8 @@ class Workshop extends React.Component {
     Object.keys(eventdetail).forEach(dept => {
       Object.keys(eventdetail[dept]).forEach(event => {
         if (eventdetail[dept][event].eventtype === 'Workshop') {
+          // let {eventname}= eventdetail[dept][event].displayName;
+          // console.log(dept+event+eventname);
           this.obj.push({ dept, event });
         }
       });

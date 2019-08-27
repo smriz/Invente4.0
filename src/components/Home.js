@@ -1,12 +1,10 @@
 import React from "react";
 import Sidebar from "./sidebar";
+import Stars from "./stars";
 import Aboutinvente from "../Home/aboutinvente";
 import Flagship from "../Home/flagship";
 import Spinner from "../Home/spinner";
 import Logo from "../images/ssn.png";
-import Ring from "../Home/ring";
-import Spheres from "../Home/spheres";
-import { Helmet } from "react-helmet";
 import ReactFullpage from "@fullpage/react-fullpage";
 import NewHome from "../Home/NewHome";
 import Cheifguest from "../Home/cheifguest";
@@ -43,6 +41,7 @@ class Home extends React.Component {
   componentDidMount() {
     this.setState({ isLoading: true });
     console.log(this.state.isLoading);
+    
 
     
 
@@ -54,6 +53,10 @@ class Home extends React.Component {
       return (
         <div>
           <Sidebar />
+        <div className="stars-appear"> <Stars/></div> 
+          <div
+          className="stars-overlay"
+          >
           <div style={{ position: "fixed" }}>
             <ReactFullpage
               scrollOverflow={true}
@@ -71,11 +74,9 @@ class Home extends React.Component {
                       <React.Fragment>
                         <NewHome />
                       </React.Fragment>
-                      {/* <Spinner/> */}
 
-                      {/* <Spheres show={this.state.show} /> */}
                       <img src={Logo} className="logo" />
-                      {/*     <Ring />   */}
+                    
                     </div>
                     <div className="section section1">
                       <Aboutinvente show={this.state.show} />
@@ -95,6 +96,7 @@ class Home extends React.Component {
               }}
             />
           </div>
+        </div>
         </div>
       );
     } else {

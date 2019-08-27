@@ -4,6 +4,7 @@ import AboutusList from "./AboutusList";
 import AboutusDetails from "./AboutusDetails";
 import { Helmet } from "react-helmet";
 import Stars from "../components/stars";
+import Home from "../components/Home";
 import Sidebar from "../components/sidebar";
 
 class Events extends React.Component {
@@ -28,7 +29,8 @@ class Events extends React.Component {
           className="stars-overlay"
           >
              <Route exact path="/about-us" component={AboutusList} />
-        <Route exact path="/about-us/:about" component={AboutusDetails} />
+             <Route exact path="/about-us/Home" component={Home} />
+             {/* <Route exact path="/about-us/:about" component={AboutusDetails} /> */}
       </div>
          </div> 
         // </div>
