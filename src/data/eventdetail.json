@@ -2292,7 +2292,7 @@
       "venue": "Medical Software Lab, 1st floor, Biomedical Department ",
       "timing": "14th September 2019 08:30",
       "no_of_rounds": "1",
-      "isTechnical": false,
+      "isTechnical": true,
       "isFlagship": false,
       "eventtype": "Workshop",
       "tagline": "Simulate it before you even see it ",
