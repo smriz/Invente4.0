@@ -7,18 +7,18 @@ class NewHome extends Component {
 
   render() {
     return (
-      <div className="fit_container" style={{ overflow: 'hidden' }} id="">
+      <div className="fit_container" id="">
         <img
           className="layer fifth_layer"
           src={require('./images/fifth_layer.svg')}
           alt="fifth_layer"
         />
-
+ 
         <img
           className="layer fourth_layer"
           src={require('./images/fourth_layer.svg')}
           alt="fourth_layer"
-        />
+        /> 
 
         <img
           className="layer third_layer"
