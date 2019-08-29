@@ -5,14 +5,14 @@
       "dept": "CSE",
       "displayName": "Paper Presentation",
       "venue": "CSE department",
-      "timing": "13th September 2019 10:00",
+      "timing": "13th September 2019 10:00 AM",
       "no_of_rounds": "1",
       "isTechnical": true,
       "isFlagship": false,
       "eventtype": "Technical",
       "tagline": "Beauty of expression is so akin to the voice of sea",
-      "description": "\u201cBe still when you have nothing to say; when genuine passion moves you, say what you have got to say and say it HOT\u201d - D.H.Lawrence\nIf you have the words, there's always a chance that you'll find the way. Take advantage of presenting your paper/research on-site to a panel of fellow researchers and academicians in the field of education.\n",
-      "general_rules": "Submit your papers by September 1,2019 at cse.innovativemind@gmail.com\nMention the Name,Institute,Branch,Year,Contact Number,Email ID for each author of the paper.\nManuscript in IEEE format ,as .pdf/.doc/.docx\nPaper must not have been presented or published anywhere before,or be under consideration for publication any conference or journal.\nMaximum of 3 student authors are allowed.\nParticipants in a team can be from same/different institutes.\nA big NO to plagiarism please.\n",
+      "description": "\u201cBe still when you have nothing to say; when genuine passion moves you, say what you have got to say and say it HOT\u201d - D.H.Lawrence\nIf you have the words, there's always a chance that you'll find the way. Take advantage of presenting your paper/research on-site to a panel of fellow researchers and academicians in the field of education.\nTopics\n1)Blue Eye Technology\n2)Artificial intelligence\n3)block chain technology\n4)Cyber Crime and Security\n5)Augmented and virtual Reality\n6)IoT and Machine Learning\nIntimation of acceptance of paper: 11.09.2019",
+      "general_rules": "Submit your papers by September 8,2019 at cse.innovativemind@gmail.com\nMention the Name,Institute,Branch,Year,Contact Number,Email ID for each author of the paper.\nManuscript in IEEE format ,as .pdf/.doc/.docx\nPaper must not have been presented or published anywhere before,or be under consideration for publication any conference or journal.\nMaximum of 3 student authors are allowed.\nParticipants in a team can be from same/different institutes.\nA big NO to plagiarism please.\n",
       "eventHeads": [
         { "name": "Mourina Murali", "contact": "7358606288" },
         { "name": "Keerthana.K.S", "contact": "9176638547" },
@@ -21,8 +21,8 @@
       "rounds": [
         [
           "Venue : CSE department",
-          "Timing : 13th September 2019 10:00",
-          "Prelims - The received entries from participants will be evaluated based on the following several criteria such as innovation, scope, plagiarism, the format of the paper, etc. Those who are shortlisted will receive an email from the organizing team by September 3, 2019.\n\n The shortlisted participants will be able to attend the Paper Presentation event to be held on September 6, 2019. They must carry the following:\n\u2022\tIdentity Card of each participant in a team\n\u2022\tHard copies of their paper \u2013 2 numbers\n\u2022\tPowerpoint of their presentation\nEach team will be judged by a panel of experienced academicians and researchers. The decision of the panel is final. \n\nPrizes worth 7.5k awaits.\n"
+          "Timing : 13th September 2019 10:00 AM",
+          "Prelims - The received entries from participants will be evaluated based on the following several criteria such as innovation, scope, plagiarism, the format of the paper, etc. Those who are shortlisted will receive an email from the organizing team by September 11th, 2019.\n\n The shortlisted participants will be able to attend the Paper Presentation event to be held on September 13, 2019. They must carry the following:\n\u2022\tIdentity Card of each participant in a team\n\u2022\tHard copies of their paper \u2013 2 numbers\n\u2022\tPowerpoint of their presentation\nEach team will be judged by a panel of experienced academicians and researchers. The decision of the panel is final. \n\nPrizes worth 7.5k awaits.\n"
         ]
       ]
     },
@@ -99,7 +99,7 @@
       "eventtype": "Non-Technical",
       "tagline": "Meme with a Theme",
       "description": "It\u2019s Meme Time this invente season. Memes have become an integral part of life since the advent of social media. They have played a significant role in creating strong opinions among people in various domains like politics, culture etc. We at SSN, recognize the power of memes in communicating messages to people all around the world. Come and make us laugh and think with innovative and fulfilled memes. Keep calm and meme on.Original, unpublished memes only will be awarded.",
-      "general_rules": "1. Maximum 2 in a team.\n2. We will provide a PC and Wi-Fi. Bring Templates and Video Editing tools(if needed).",
+      "general_rules": "Maximum 2 in a team.\nWe will provide a PC and Wi-Fi. Bring Templates and Video Editing tools(if needed).",
       "eventHeads": [
         { "name": "Nishanthi K", "contact": "9952155570" },
         { "name": "Swetha K", "contact": "8870597714" },
@@ -161,7 +161,7 @@
       "eventtype": "Non-Technical",
       "tagline": "General Quiz with a Sci-Tech flavour",
       "description": "Get your minds whirring and your pounce sheets ready, and gear up for the third annual Invent\u00e9 CSE quiz! This is a general quiz with a hint of SciTech, so whether you're someone who lives, eats and breathes computer-science or you're someone who's just learning about binary, the Sci-Tech quiz has something for everyone!",
-      "general_rules": "1. Maximum team size of 2, Lonewolf is allowed\n2. Registration Fees for a team- \u20b950",
+      "general_rules": "Maximum team size of 2, Lonewolf is allowed\nRegistration Fees for a team- \u20b950",
       "eventHeads": [
         { "name": "Tejas Sivan", "contact": "9884189899" },
         { "name": "Nanda H Krishna", "contact": "9841022137" },
@@ -210,13 +210,13 @@
       "dept": "CSE",
       "displayName": "Codolympics",
       "venue": "CSE Department",
-      "timing": "13th September 2019 10:00",
+      "timing": "13th and 14th of September 2019 10:00",
       "no_of_rounds": "3",
       "isTechnical": true,
       "isFlagship": true,
       "eventtype": "Technical",
       "tagline": "Code away to glory",
-      "description": "Do you speak in Parser tongue? Do you Map Reduce sheep while you sleep? Does O3 optimised code get your adrenaline pumping? If you have answered YES to any of these questions then you have to come to the right place!.\n\nWelcome to Codolympics, the flagship event of the CSE department. Prove yourself to be the best coder and take home an opportunity to intern at MOTORQ with a stipend of 1.2 Lakhs.",
+      "description": "Do you speak in Parser tongue? Do you Map Reduce sheep while you sleep? Does O3 optimised code get your adrenaline pumping? If you have answered YES to any of these questions then you have to come to the right place!.\n\nWelcome to Codolympics, the flagship event of the CSE department. Prove yourself to be the best coder and take home an opportunity to intern at MOTORQ with a stipend of 1.2 Lakhs/month.",
       "general_rules": "Teams size: Maximum 3 members",
       "eventHeads": [
         { "name": "K Sundar Rajan", "contact": "9500141644" },
@@ -283,7 +283,7 @@
       "eventtype": "Technical",
       "tagline": "Call yourself a hacker ??  come let\u2019s see what you\u2019ve got !! ",
       "description": "To hack is human, but to do so ethically is divine! To all those who are more than intrigued by the white mask, fret not, because we're here to present you the best way to get about it. All you've to do is register, pack up your thinking hats and be here.",
-      "general_rules": "1) Can partispate as a team of 2. Lone wolfs are also welcome. \n2) There are no other rules , you are allowed to use internet or any other reference throughout the event.",
+      "general_rules": "Can participate as a team of 2. Lone wolfs are also welcome. \nThere are no other rules , you are allowed to use internet or any other reference throughout the event.",
       "eventHeads": [
         { "name": "Tarun Ganesh K", "contact": "8056285357" },
         { "name": "Omprakash R ", "contact": "9551788692" }

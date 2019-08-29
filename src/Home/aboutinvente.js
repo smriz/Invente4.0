@@ -23,7 +23,7 @@ class Aboutinvente extends React.Component {
             platform to put your ideas into action; to test your ability; and to
             reinvent yourself. SSN's national level technical symposiums of eight
             departments amalgamate to form this massive technical festival. So
-            keep your planners clean on the 21st and 22nd of September and take
+            keep your planners clean on the 13th and 14th of September and take
             a trip down to Kalavakkam. It's time for you to Invente.
           </p>
         </div>{' '}
