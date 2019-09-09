@@ -11,9 +11,8 @@ class ContactCard extends React.Component {
               alt={name}
             />
             <p className="title-name">
-              {name}
-              <br />   <br />          
-              <h3 className="dept-name" style={{color:"#ff9800",letterSpacing:"1px"}}>{contact}</h3>
+              {name}    <br/>
+              <span className="dept-name" style={{color:"#ff9800",letterSpacing:"1px"}}>{contact}</span>
             </p>
       </div>
     );

@@ -159,7 +159,7 @@ class Hospitality extends React.Component {
                   ID Card while availing accomodation. Without the copy,
                   accomodation cannot be provided
                 </li>
-                <li>Accomodation Fees of Rs.150/- per day per person</li>
+                {/* <li>Accomodation Fees of Rs.150/- per day per person</li> */}
                 <li>Caution Deposit of Rs.100/-</li>
                 <li>
                   Rooms will be allocated on shared basis only, with 2 people in

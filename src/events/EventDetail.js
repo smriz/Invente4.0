@@ -65,15 +65,21 @@ class EventDetail extends React.Component {
             {event.description &&
               event.description.split("\n").map(x => <div>{x}</div>)}
           </div>
-          <div className="description" style={{ lineHeight: "25px",marginTop: "3%" }}>
-            <h6 className="tagline" style={{color:"#ff9800",textTransform:"initial"}}>General Rules <br/></h6>
-        
-          
+          <div
+            className="description"
+            style={{ lineHeight: "25px", marginTop: "3%" }}
+          >
+            <h6
+              className="tagline"
+              style={{ color: "#ff9800", textTransform: "initial" }}
+            >
+              General Rules <br />
+            </h6>
+
             {event.general_rules &&
               event.general_rules
                 .split("\n")
                 .map(x => (x !== "" ? <div>* {x}</div> : ""))}
-                 
           </div>
           {event.eventtype === "Workshop" && (
             <a
@@ -94,12 +100,33 @@ class EventDetail extends React.Component {
             </a>
           )}
 
-          <div style={{marginTop:"2%"}}>
-            {event.timing && <Fielder field="DATE" content={event.timing} />}
-            {event.venue && <Fielder field="VENUE" content={event.venue}  />}
-             </div>
+          {event.eventtype === "Hackathon" && (
+            <a
+              target="_blank"
+              className="16m-"
+              style={{
+                margin: "16px auto",
+                marginLeft: "auto",
+                background: "purple",
+                display: "inline-block",
+                color: "white",
+                padding: "8px 16px"
+              }}
+              className="workshop-register"
+              href="http://hack-infinity.github.io"
+            >
+              Register Here
+            </a>
+          )}
 
-          <p className="tagline" style={{marginTop:"2%"}}>Number of Rounds : {event.no_of_rounds}    <br/> </p>
+          <div style={{ marginTop: "2%" }}>
+            {event.timing && <Fielder field="DATE" content={event.timing} />}
+            {event.venue && <Fielder field="VENUE" content={event.venue} />}
+          </div>
+
+          <p className="tagline" style={{ marginTop: "2%" }}>
+            Number of Rounds : {event.no_of_rounds} <br />{" "}
+          </p>
 
           <div style={{ marginTop: "3%" }}>
             {event.rounds && (
@@ -114,7 +141,6 @@ class EventDetail extends React.Component {
                     }}
                   >
                     Round {i + 1}
-                
                   </div>
                 ))}
               </div>

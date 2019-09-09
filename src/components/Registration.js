@@ -52,9 +52,7 @@ class Registration extends React.Component {
                       </li>
                       <li>
                         {" "}
-                        Students who have registered can take part in the events
-                        on both days, 13  September and 14 September 2019 (Applicable only for
-                        General Registration)
+                        Students have to register (General registration – Rs.150 / person) themselves on each day.(13 September and 14 September 2019)
                       </li>
 
                     </li>

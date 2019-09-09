@@ -4,10 +4,11 @@ import Stars from "./stars";
 import Aboutinvente from "../Home/aboutinvente";
 import Flagship from "../Home/flagship";
 import Spinner from "../Home/spinner";
-import Logo from "../images/ssn.png";
+import Logo from "../images/SSN.svg";
 import ReactFullpage from "@fullpage/react-fullpage";
 import NewHome from "../Home/NewHome";
 import Cheifguest from "../Home/cheifguest";
+import Sponsors from "../Home/sponsors.js";
 
 class Home extends React.Component {
   state = {
@@ -68,7 +69,7 @@ class Home extends React.Component {
                 return (
                   <div id="fullpage-wrapper">
                     <div
-                      className="section section1"
+                      className="section "
                       style={{ overflow: "hidden" }}
                     >
                       <React.Fragment>
@@ -82,7 +83,7 @@ class Home extends React.Component {
                       <Aboutinvente show={this.state.show} />
                     </div>
 
-                    <div className="section section1">
+                    <div className="section ">
                       <Flagship />
                     </div>
 
@@ -91,6 +92,9 @@ class Home extends React.Component {
                         <Cheifguest />
                       </div>
                     }
+                        <div className="section">
+                        <Sponsors/>
+                      </div>
                   </div>
                 );
               }}

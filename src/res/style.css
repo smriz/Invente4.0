@@ -41,6 +41,8 @@ body {
   -webkit-tap-highlight-color: transparent;
 }
 
+
+
 .headline {
   margin: 10px 0;
   width: 80%;
@@ -246,6 +248,23 @@ a {
   align-content: center;
   display: inline-block;
   height: 10%;
+  margin: 25px 0;
+  padding: 0 20px;
+  border-radius: 15px;
+}
+.organisers .card-set .card-set-childs {
+  align-content: center;
+  display: inline-block;
+  height: 10%;
+  width: 50%;
+  margin: 25px 0;
+  padding: 0 20px;
+  border-radius: 15px;
+}
+.organisers .card-set .card-set-child .adjust{
+  align-content: center;
+  display: inline-block;
+  height: 50%;
   margin: 25px 0;
   padding: 0 20px;
   border-radius: 15px;
@@ -506,7 +525,7 @@ a {
   position: absolute;
   width: 36px;
   left: 36px;
-  top: 36px;
+  top: 20px;
   width: 10%;
 }
 
@@ -515,7 +534,7 @@ a {
     position: absolute;
     width: 36px;
     left: 15px;
-    top: 30px;
+    top: 25px;
     width: 20%;
   }
 }

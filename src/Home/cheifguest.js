@@ -35,10 +35,10 @@ class Aboutinvente extends React.Component {
               <br />
               <br />
               <br />
-              Dr. A K Rawat
+              Ms. P. Gomathy 
             </div>
             <div className="pos" style={{ fontSize: "18px" }}>
-              Department of Biotechnology, DST
+            Senior Manager - IoT and Strategy, Tata Elxsi, Chennai
             </div>
           </div>
           <p className="text" style={{ width: "100%" }}>

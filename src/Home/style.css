@@ -180,7 +180,7 @@
   }
   .logo_with_tagline {
     margin-top:-10%;
-    transform: scale(0.6);
+    /* transform: scale(0.6); */
 
   }
   
@@ -267,6 +267,8 @@
   }
  
 }
+
+
 
 @media only screen and (max-width: 430px) {
   .bottom_triangle {
