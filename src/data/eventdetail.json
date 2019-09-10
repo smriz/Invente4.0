@@ -31,7 +31,7 @@
       "dept": "CSE",
       "displayName": "Techathlon",
       "venue": "CSE Department",
-      "timing": "14th September 2019 09:00",
+      "timing": "13th September 2019",
       "no_of_rounds": "2",
       "isTechnical": true,
       "isFlagship": false,
@@ -47,12 +47,12 @@
       "rounds": [
         [
           "Venue : CSE Department",
-          "Timing : 14th September 2019 09:00",
+          "Timing : 13th September 2019 ",
           "Participants must choose 3 domains out of available 8. Each domain will have a question set with 20 MCQs."
         ],
         [
           "Venue : CSE Department",
-          "Timing : 14th September 2019 13:00",
+          "Timing : 13th September 2019",
           "The Qualified Teams will choose one set from the available sets. Each set will have two coding questions from 2 different domains. The participants are required to solve them in the given time."
         ]
       ]
@@ -130,7 +130,7 @@
       "eventtype": "Technical",
       "tagline": "Query Your Luck",
       "description": "The Most Simplest yet Fruitful of all the events is back for it's 2nd venture. Colossal Rewards are @ Stake. No Worries, Just Queries!",
-      "general_rules": "1. Maximum two members per team",
+      "general_rules": "Maximum two members per team",
       "eventHeads": [
         { "name": "Mohammed Rizwan S", "contact": "9444943440" },
         { "name": "Chandramouli R", "contact": "9566208519" },
@@ -255,7 +255,7 @@
       "general_rules": "Participants must come in teams of three.",
       "eventHeads": [
         { "name": "Eshwar Krishnan S", "contact": "9962022236" },
-        { "name": "Mevin Fernando", "contact": "8754835574" },
+        { "name": "Antony Mevin Fernando", "contact": "8754835574" },
         { "name": "Kevin Shelton", "contact": "8056103882" }
       ],
       "rounds": [
@@ -297,7 +297,7 @@
         [
           "Venue : CSE department ",
           "Timing : 14th September 2019 13:00",
-          "This is going to be a Capture the Flag (CTF) challenge, in which all the teams will be given with a multi stage digital puzzle to solve. This round would last upto 3 hrs. Each team will be assigned with 2 systems, one with internet connection can use it to refer any online resource to solve our challenge. "
+          "This is going to be a Capture the Flag (CTF) challenge, in which all the teams will be given with a multi stage digital puzzle to solve. This round would last upto 3 hrs. Each team will be assigned with 2 systems, one with internet connection which can be used to refer online resources and another to solve our challenge. "
         ]
       ]
     }
@@ -318,7 +318,8 @@
       "general_rules": "1. Each team can contain a maximum of 2 members",
       "eventHeads": [
         { "name": "Preethi S", "contact": "8220563575" },
-        { "name": "Ramya L", "contact": "9884512499" }
+        { "name": "Ramya L", "contact": "9884512499" },
+        { "name": "Karthik Raja", "contact": "9941420236" }
       ],
       "rounds": [
         [
@@ -375,7 +376,7 @@
       "eventtype": "Technical",
       "tagline": "Everything begins with an Idea",
       "description": "Are you a group of budding innovators who come up with creative ideas but not provided with a platform to showcase your ideas ? Join us in presenting your ideas at Paper Presentation and getting your ideas recognised which paves  way  for creating a better tomorrow.",
-      "general_rules": "Present your ideas on the topics -\nQuantum computing \nAR/VR \nCyber Security/Information Security\n5G Technology\nArtificial Neural Networks\nFog Computing \nBlockchain\nAugmented Analytics\nBlue Brain Technology\nBig Data\nAI & ML\nBusiness Intelligence\nSpeech & Image Processing\nAmbient Intelligence \nAnd topics relevant to Information Technology",
+      "general_rules": "Submit your paper to paperpresentationinvente2k19@gmail.com\nlast Date for submission :7th September,2019",
       "eventHeads": [
         { "name": "Ishwarya R", "contact": "9176631098" },
         { "name": "Aishwarya V", "contact": "9840613892" }
@@ -646,18 +647,11 @@
       "isFlagship": false,
       "eventtype": "Workshop",
       "tagline": "A Comprehensive guideline to the hottest job in the industry ",
-      "description": "We stand today at a place of battle, a battle between technology and development, one that began 40 years ago and still a continuous one.\nIt\u2019s 2020 and the prime soldiers are IoT, Machine Learning, VR, Cognitive Technology and the chief among them Data Science.\nHolding the battlefield together and enhancing the growth of modern tech, is what is the trump card. The time is in dire need of it to move into the forward lines battling across foes and emerging successful.\nWhy Data Science, is a pondering question amongst even our most budding minds. It isn\u2019t the chief for nothing\u2026.\nData is the unit cell of the development of our current world into the Star Trek Visionary of tomorrow. Robots need training data, an AI machine data, a VR needs data to analyze surrounding. Data this and Data that. Data Science is the ace that you need to win the prolonging war. The epitome of expansion beyond the visible horizon, the modern-day trappings of success \u2013 DATA SCIENCE.\nINTERESTED??? WANNA KNOW MORE ??!!\nTo enlighten your minds, in lieu of Invente4.0 , SSN in collaboration with Hexaware Technologies , giants in the field of data science after conquering several wars and still the chieftain amongst its competitors,  is staging a talk on \u201cWho wants to be a Data Scientist ? \u201c, by the firm\u2019s lead on Data Science practices who has been involved in several of the aiding sectors such as SPC, ML, AI, Data Analytics etc..",
-      "general_rules": "We stand today at a place of battle, a battle between technology and development, one that began 40 years ago and still a continuous one.\nIt\u2019s 2020 and the prime soldiers are IoT, Machine Learning, VR, Cognitive Technology and the chief among them Data Science.\nHolding the battlefield together and enhancing the growth of modern tech, is what is the trump card. The time is in dire need of it to move into the forward lines battling across foes and emerging successful.\nWhy Data Science, is a pondering question amongst even our most budding minds. It isn\u2019t the chief for nothing\u2026.\nData is the unit cell of the development of our current world into the Star Trek Visionary of tomorrow. Robots need training data, an AI machine data, a VR needs data to analyze surrounding. Data this and Data that. Data Science is the ace that you need to win the prolonging war. The epitome of expansion beyond the visible horizon, the modern-day trappings of success \u2013 DATA SCIENCE.\nINTERESTED??? WANNA KNOW MORE ??!!\nTo enlighten your minds, in lieu of Invente4.0 , SSN in collaboration with Hexaware Technologies , giants in the field of data science after conquering several wars and still the chieftain amongst its competitors,  is staging a talk on \u201cWho wants to be a Data Scientist ? \u201c, by the firm\u2019s lead on Data Science practices who has been involved in several of the aiding sectors such as SPC, ML, AI, Data Analytics etc..\nEntry Fee Rs300",
+      "description": "We stand today at a place of battle, a battle between technology and development, one that began 40 years ago and still a continuous one.\nIt\u2019s 2020 and the prime soldiers are IoT, Machine Learning, VR, Cognitive Technology and the chief among them Data Science.\nHolding the battlefield together and enhancing the growth of modern tech, is what is the trump card. The time is in dire need of it to move into the forward lines battling across foes and emerging successful.\nWhy Data Science, is a pondering question amongst even our most budding minds. It isn\u2019t the chief for nothing\u2026.\nData is the unit cell of the development of our current world into the Star Trek Visionary of tomorrow. Robots need training data, an AI machine data, a VR needs data to analyze surrounding. Data this and Data that. Data Science is the ace that you need to win the prolonging war. The epitome of expansion beyond the visible horizon, the modern-day trappings of success \u2013 DATA SCIENCE.\nINTERESTED??? WANNA KNOW MORE ??!!\nTo enlighten your minds, in lieu of Invente4.0 , SSN in collaboration with Hexaware Technologies , giants in the field of data science after conquering several wars and still the chieftain amongst its competitors,  is staging a talk on \u201cWho wants to be a Data Scientist ? \u201c, by the firm\u2019s lead on Data Science practices who has been involved in several of the aiding sectors such as SPC, ML, AI, Data Analytics etc..\nEntry fee Rs.300",
+      "general_rules": "",
       "eventHeads": [
         { "name": "Ramkumar", "contact": "7373073223" },
         { "name": "Gautham Krishna", "contact": "9789036498" }
-      ],
-      "rounds": [
-        [
-          "Venue : Justice Pratap Singh Auditorium",
-          "Timing : 13th September 2019 09:00",
-          "Gather. Get Enlightened."
-        ]
       ]
     }
   },
@@ -685,14 +679,14 @@
       "dept": "CHEM",
       "displayName": "Paper Presentation",
       "venue": "Department of chemical engineering",
-      "timing": "13th September 2019 09:00",
+      "timing": "13th and 14th of September 2019 10:00",
       "no_of_rounds": "1",
       "isTechnical": true,
       "isFlagship": false,
       "eventtype": "Technical",
       "tagline": "Let your mind write the paper not your hand",
       "description": "The stage is up and ready to take your novel, ground-breaking ideas in this edition's Paper \nPresentation event, because it's understood that the world's best ideas are birthed not due \nto the invention of them, but more so their sharing.\nTopics include:\n\u2022 Waste water\n\u2022 Environmental Engineering\n\u2022 Material Technology\n\u2022 Nanotechnology\n\u2022 Process Optimisation\n\u2022 Biochemical and Biotechnology\n\u2022 Fuels and Petrochemicals\n\u2022 Separation",
-      "general_rules": "\u2022 Maximum of 3 members per team\n\u2022 World limit of abstract: 200\n\u2022 Presentation time: 5-6 minutes\n\u2022 Email the abstract to: pp2019invente4.0@gmail.com with the file name as the title \nof the paper and subject of the mail as \"Paper Presentation - {Participants' names}\"\n\u2022 Judge's decision is final",
+      "general_rules": " Maximum of 3 members per team\n World limit of abstract: 200\n Presentation time: 5-6 minutes\n Email the abstract to: pp2019invente4.0@gmail.com with the file name as the title of the paper and subject of the mail as \"Paper Presentation - {Participants' names}\"\n Judge's decision is final\nLast Day to submit Abstract : 7th september 2019\n",
       "eventHeads": [
         { "name": "Samuel V", "contact": "9566749889" },
         { "name": "Praveen C", "contact": "9940204565" },
@@ -701,7 +695,6 @@
       "rounds": [
         [
           "Venue : Department of chemical engineering",
-          "Timing : 13th September 2019 09:00",
           "\u2022 Maximum of 3 members per team\n\u2022 World limit of abstract: 200\n\u2022 Presentation time: 5-6 minutes\n\u2022 Judge's decision is final"
         ]
       ]
@@ -711,14 +704,14 @@
       "dept": "CHEM",
       "displayName": "Pin It Up",
       "venue": "Fluid Mechanics Laboratory, Department of Chemical Engineering.",
-      "timing": "13th September 2019 09:00",
+      "timing": "13th and 14th September 2019",
       "no_of_rounds": "1",
       "isTechnical": true,
       "isFlagship": false,
       "eventtype": "Technical",
       "tagline": "Inhale possibility and Explore creativity!",
       "description": "Hit the metaphorical bull's eye with our poster presentation event Pin It Up because if there were to only be two truths in this world, they are these:\nCreativity is imaginative intelligence having fun and,\nDesign isn't some button on the Photoshop software but the turning of the gears in your brain to make the bells in them ding.\nTeams with members of 3 will be given the chance to illuminate their research work with a dash of aesthete in the form of a poster which will be tested based on novelty in project and creativity in presentation. So surprise us with creative and constructive posters and we\u2019ll return you with exciting cash prizes!",
-      "general_rules": "\u2022 Maximum 3 members per team\n\u2022 Minimum size of the poster:A2 \n\u2022Email your abstracts to: posterpresentationinvente@gmail.com\n\u2022 Abstract should be not less than 100 words and must not exceed 200 words.\n\u2022 The file name should be the title of your paper.\n\u2022 The subject of the mail should be \u2018 POSTER PRESENTATION \u2013Registration \u2018\n\u2022 The first page of abstract should contain the Title of the paper, Author\u2019s name and institution\u2019s name.\n\u2022 A Display board of size 75*60 cm2 will be provided. The poster and the materials that are required to fix the poster (tapes, Clips, etc.) are expected to be brought by the participants. No material other than the display board will be provided for the presentation.",
+      "general_rules": " Maximum 3 members per team\n Minimum size of the poster:A2 \nEmail your abstracts to: posterpresentationinvente@gmail.com\n Abstract should be not less than 100 words and must not exceed 200 words.\n The file name should be the title of your paper.\n The subject of the mail should be \u2018 POSTER PRESENTATION \u2013Registration \u2018\n The first page of abstract should contain the Title of the paper, Author\u2019s name and institution\u2019s name.\n A Display board of size 75*60 cm2 will be provided. The poster and the materials that are required to fix the poster (tapes, Clips, etc.) are expected to be brought by the participants. No material other than the display board will be provided for the presentation.\nLast Day to submit Abstract : 7th september 2019\n",
       "eventHeads": [
         { "name": "Jahnavi Nandakumar ", "contact": "9566202366" },
         { "name": "Madhumitha.S", "contact": "9790776785" },
@@ -727,7 +720,6 @@
       "rounds": [
         [
           "Venue : Fluid Mechanics Laboratory, Department of Chemical Engineering.",
-          "Timing : 13th September 2019 09:00",
           "Two judges will be viewing your poster. You\u2019ll be given 6-7 minutes for presenting followed by 2-3 minutes of Q&A session. The selection criteria will be based on novelty in project, way of presenting, scope of project and creativity in poster design. The top three posters will be chosen and awarded with exciting cash awards!"
         ]
       ]
@@ -895,8 +887,11 @@
       "eventtype": "Technical",
       "tagline": "Ever wondered what happens when chemical reaction meets formula one?",
       "description": "In our flagship event AUTOCHEM, the participants will be made to build their dream car using their imagination, a bottle, a couple of caps and a chemical reaction that is , as the academic say, 'explosive'. The chemicals will be provided by us and the perfect composition should made by the participants. The car should be made to move within the marked area. This event is full of surprises and a combination of fun elements.",
-      "general_rules": "1) Maxkmum of 3 members per team\n2) The stationary for the event will be provided by us\n3) Maximum of 30 minutes for preparing your model",
-      "eventHeads": [{ "name": "M.Tharun Vijay", "contact": "9962518221" }],
+      "general_rules": "Maximum of 3 members per team\nThe stationary for the event will be provided by us\nMaximum of 30 minutes for preparing your model",
+      "eventHeads": [
+        { "name": "M.Tharun Vijay", "contact": "9962518221" },
+        { "name": "Harish", "contact": "9941457908" }
+      ],
       "rounds": [
         [
           "Venue : Chemical Department",
@@ -940,18 +935,19 @@
       "slug": "blitz-gp",
       "dept": "MECH",
       "displayName": "Blitz Gp",
-      "venue": "Open Air Theater (OAT)",
+      "venue": "InFront of Fountain",
       "timing": "14th September 2019 09:00",
       "no_of_rounds": "2",
       "isTechnical": true,
       "isFlagship": false,
       "eventtype": "Technical",
       "tagline": "Unleash your beast in our road to hell !!",
-      "description": "Are you a racing enthusiast, does your adrenaline level pump up when you see an empty track? then this is the event for you. Blitz GP is known to have one of the toughest tracks for an RC Car to maneuver through and this year it just got tougher. Come and witness the most insane track ever at Blitz GP 2019.",
+      "description": "Are you a racing enthusiast, does your adrenaline level pump up when you see an empty track? then this is the event for you. Blitz GP is known to have one of the toughest tracks for an RC Car to maneuver through and this year it just got tougher. Come and witness the most insane track ever at Blitz GP 2019 @INVENTE 2k19.",
       "general_rules": "1. Maximum Team Size - 4\n2. The same car must be used for all rounds.\n3. Penalties will be specified on spot.\n4. No tools will be provided. ",
       "eventHeads": [
         { "name": "Karthik Ramesh", "contact": "7401111284" },
-        { "name": "Amutha Geethan T", "contact": "9994193987" }
+        { "name": "Amutha Geethan T", "contact": "9994193987" },
+        { "name": "Deepak S", "contact": "7550184108" }
       ],
       "rounds": [
         [
@@ -971,17 +967,18 @@
       "dept": "MECH",
       "displayName": "Auto Quiz",
       "venue": "Mechanical Department , LH3 ,LH4.",
-      "timing": "13th September 2019 09:30",
+      "timing": "13th and 14th of September 2019 09:30",
       "no_of_rounds": "2",
       "isTechnical": true,
       "isFlagship": false,
       "eventtype": "Technical",
-      "tagline": "Fond of automobiles? Gear up for an exhilerating experience ",
+      "tagline": "Fond of automobiles? Gear up for an exhilarating experience ",
       "description": "Auto quiz is back with a bang and invites all the Auto maniacs! This quiz is all about Automobiles! Engage your grey cells and accelerate your answers as we have cash prizes and certificates waiting for the winners! Display your technical skills and conquer the title of Auto Wizard!",
-      "general_rules": "Each team can consist maximum 3 or minimum as your wish and you can also participate alone. \nThe prelims will be written round consisting of 20 MCQ questions based on cars , bikes , engines , current news  \nAbout automobiles and add racing car parts. Five questions will be starred and it will be used in the event tie breaker . The top 8 teams will be admitted to final round.",
+      "general_rules": "Each team can consist maximum 3 or minimum as your wish and you can also participate alone. \nThe prelims will be written round consisting of 20 MCQ questions based on cars , bikes , engines , current news about automobiles and racing car parts. Five questions will be starred and it will be used in the event tie breaker . The top 8 teams will be admitted to final round.",
       "eventHeads": [
         { "name": "Sivanesan C", "contact": "8610426335" },
-        { "name": "Harish A", "contact": "8637466967" }
+        { "name": "Harish A", "contact": "8637466967" },
+        { "name": "Deepak S", "contact": "7358376467" }
       ],
       "rounds": [
         [
@@ -1002,7 +999,7 @@
       "displayName": "Robo Wars",
       "venue": "Mechanical Department",
       "timing": "14th September 2019 09:00",
-      "no_of_rounds": "3",
+      "no_of_rounds": "1",
       "isTechnical": true,
       "isFlagship": false,
       "eventtype": "Technical",
@@ -1011,7 +1008,8 @@
       "general_rules": "A team may consist of a maximum of 3 participants. Design and construct a wired or remote controlled bot capable of fighting in a one on one tournament.\nGeneral Rules:\nThe competition will be played on a knock-out basis consisting of 2 players at a time. The maximum duration of each round will be 5 minutes. Any team that is not ready at the time specified will be disqualified from the competition. The machine will be checked for safety before the competition. Any robot found unsafe to other participants and spectators will be disqualified. The organizers reserve the rights to change any or all of the above rules as they deem fit. Change in rules, if any, will be highlighted on the website and notified to the registered teams. Violation of any rule will lead to disqualification. Judges\u2019 decision shall be treated as final and binding on all.\nNote: The bot should conform to the specified conditions.\nSafety Rules:\nCompliance with all event rules is mandatory. It is expected that competitors stay within the rules and procedures of their own accord and do not require constant policing. If you have a robot or weapon design that does not fit within the categories set forth in these rules or is in some way ambiguous or borderline, please contact the event organizers. All weapons must have a safety cover on any sharp edges\nDimensions and Fabrications:\nThe bot should fit in a 40 cm x 40 cm x 40 cm box with all mechanisms fully executing motions. Length and width is measured to the extremities of the Robot, i.e. includes any overhanging bodywork, weaponry or protrusions. The external device used to control the bot is not included in the size constraint. Maximum weight of the bot should not exceed 10 kgs. (including battery)\nMobility: \nAll bots must have easily visible and controlled mobility in order to compete. Movement of robot must be rolling of wheels only. Jumping and hopping is not allowed. Flying (using air foil, helium balloons, ornithopters, etc.) is not allowed\n",
       "eventHeads": [
         { "name": "Balaji S", "contact": "7358275670" },
-        { "name": "Suraj M", "contact": "9788853276.0" }
+        { "name": "Suraj M", "contact": "9788853276" },
+        { "name": "Bala kumar S s", "contact": "9884311696" }
       ],
       "rounds": [
         [
@@ -1033,10 +1031,11 @@
       "eventtype": "Technical",
       "tagline": "We Go full Throttle",
       "description": "Get ready to show off your agile Nitro Car as it speeds through an exciting off-road obstacle course.Navigate through the blind spots, sharp turns and much more, as quickly as possible to win exciting Cash prizes and Certificate of Merit.",
-      "general_rules": "1. A Team can have a maximum of 4 members.\n2. The track will be off-road with obstacles, slopes and tunnels. The width of the \n    track will be revealed on spot. Only cars powered by internal combustion \n    engines are allowed to compete.\n3. Electric or solar powered cars will not be allowed under any circumstances.\n4. Maximum allowable displacement for IC engines is 4.6 cc. Only nitro-based \n    fuels or gasoline should be used in the cars.\n5. For nitro-based fuels, the amount of nitro compounds in the mixture should \n     not exceed 25%.\n6. Fuel and Batteries will not be provided by the organizers.\n7. Teams must bring their own supplies. Only buggy type cars are allowed. The \n    cars should fit in a 500mm x 400mm x300mm box. The antenna used for radio \n    control is exempted from height restrictions.\n8. Participants are advised to have multi-channel radio controllers to prevent \n    frequency clashes.\n9. FHSS Transmitters (Frequency Hop Spread Spectrum) are allowed.\n10.Organizers will not be responsible for any interference in frequencies.\n11.Both ready-to-run kit cars and custom fabricated cars are allowed to \n      compete.",
+      "general_rules": "1. A Team can have a maximum of 4 members.\n2. The track will be off-road with obstacles, slopes and tunnels. The width of the track will be revealed on spot. Only cars powered by internal combustion engines are allowed to compete.\n3. Electric or solar powered cars will not be allowed under any circumstances.\n4. Maximum allowable displacement for IC engines is 4.6 cc. Only nitro-based fuels or gasoline should be used in the cars.\n5. For nitro-based fuels, the amount of nitro compounds in the mixture should not exceed 25%.\n6. Fuel and Batteries will not be provided by the organizers.\n7. Teams must bring their own supplies. Only buggy type cars are allowed. The cars should fit in a 500mm x 400mm x300mm box. The antenna used for radio control is exempted from height restrictions.\n8. Participants are advised to have multi-channel radio controllers to prevent frequency clashes.\n9. FHSS Transmitters (Frequency Hop Spread Spectrum) are allowed.\n10.Organizers will not be responsible for any interference in frequencies.\n11.Both ready-to-run kit cars and custom fabricated cars are allowed to compete.\n",
       "eventHeads": [
         { "name": "Gnana Selvan P", "contact": "9791977451" },
-        { "name": "Subash M", "contact": "9524242518" }
+        { "name": "Subash M", "contact": "9524242518" },
+        { "name": "sirajudeen H", "contact": "7299123417" }
       ],
       "rounds": [
         [
@@ -1061,17 +1060,18 @@
       "dept": "MECH",
       "displayName": "Treasure Hunt",
       "venue": "Mechanical Department",
-      "timing": "13th September 2019 10:30",
+      "timing": "13th and 14th of September 2019 10:30",
       "no_of_rounds": "3",
       "isTechnical": false,
       "isFlagship": false,
       "eventtype": "Non-Technical",
       "tagline": "Seek the treasure that awaits you",
-      "description": "Have you ever wanted to solve mysteries like Sherlock Holmes,then put on your thinking cap and find your way to Invente 4.0's treasure hunt event.\nNo Technical Knowledge Required,Open to All\nAttractive Cash Prizes To Be Won\nhttps://docs.google.com/forms/d/e/1FAIpQLSfUOHRNtsCQ3UFaYjeq0eqpk6fRVPpTNHLeUnCDn-Pth_KEEA/viewform?usp=sf_link\n",
+      "description": "Have you ever wanted to solve mysteries like Sherlock Holmes,then put on your thinking cap and find your way to Invente 4.0's treasure hunt event.\nNo Technical Knowledge Required,Open to All\nAttractive Cash Prizes To Be Won\n",
       "general_rules": "Registration fees for the event- Rs. 50 per team\nMaximum strength of 2 per team",
       "eventHeads": [
         { "name": "Anirudh PB", "contact": "9940639143" },
-        { "name": "Akshit Kalantri", "contact": "8939044228" }
+        { "name": "Akshit Kalantri", "contact": "8939044228" },
+        { "name": "Sanjeet Choudhary", "contact": "8870180496" }
       ],
       "rounds": [
         [
@@ -1099,14 +1099,15 @@
       "timing": "14th September 2019 09:00",
       "no_of_rounds": "3",
       "isTechnical": true,
-      "isFlagship":true,
+      "isFlagship": true,
       "eventtype": "Technical",
       "tagline": "Penetrate Air! And Defy Gravity!",
-      "description": "Flying has amused us for ages! And to fly better, requires meticulous engineering! Bottle Rocketrix aims to bring out the engineer in you. Apply the concepts of Aerodynamics and Center of Gravity to make your modified pressurized bottle fly the farthest. If you wonder how much distance does a perfect bottle rocket can travel, it will be over 150 meters. Are you ready for the launch...\n\nRegistration link:\nhttps://docs.google.com/forms/d/e/1FAIpQLSfUOHRNtsCQ3UFaYjeq0eqpk6fRVPpTNHLeUnCDn-Pth_KEEA/viewform?usp=sf_link\n\nPrize Amount :\n\u2756 1st Prize: \u20b93,000\n\u2756 2nd Prize: \u20b92,000\n\u2756 3rd Prize: \u20b91,000\n",
+      "description": "Flying has amused us for ages! And to fly better, requires meticulous engineering! Bottle Rocketrix aims to bring out the engineer in you. Apply the concepts of Aerodynamics and Center of Gravity to make your modified pressurized bottle fly the farthest. If you wonder how much distance does a perfect bottle rocket can travel, it will be over 150 meters. Are you ready for the launch...\nPrize Amount :\n\u2756 1st Prize: \u20b93,000\n\u2756 2nd Prize: \u20b92,000\n\u2756 3rd Prize: \u20b91,000\n",
       "general_rules": "Rules:\n\u25cf Teams of 1-3 members are allowed.\n\u25cf A compressor, a launch-pad and water will be provided.\n\u25cf Maximum bottle capacity is 2500 ml (violation of which will result in disqualification).\n\u25cf Only single stage rockets are allowed, any modifications must be validated by the event head.\n\u25cf Information regarding the modifications must be intimated well in advance.\n\u25cf Pressure range is pre-determined (40-45 psi).\n\u25cf Time allotted to each team is 3 minutes.\n\u25cf Judgement will be based on the distance travelled by the rocket and the deviation from the fixed trajectory.\n\u25cf Use of sheet metal for the rockets is prohibited.\n\u25cf The decision of the event coordinators will be final.",
       "eventHeads": [
         { "name": "Joseph Anand Raj I G", "contact": "7867029872" },
-        { "name": "Arun Prakash M", "contact": "8608452778" }
+        { "name": "Arun Prakash M", "contact": "8608452778" },
+        { "name": "Magizh Mani M L", "contact": "7904751081" }
       ],
       "rounds": [
         [
@@ -1138,7 +1139,7 @@
       "eventtype": "Technical",
       "tagline": "Transpire Knowledge",
       "description": "Don't stop with marks! SSN provides you a platform to acclaim and honor your projects. Participate in this Exhibition and add more value to your work with cash prizes!!",
-      "general_rules": "Each team can have a maximum of 4 members. Multiple teams are allowed from a college. Participants cannot be a part of more than one team. A team cannot exhibit more than one project.\nEach team must submit their Project abstract to projectexpo@mech.ssn.edu.in\nLast date for submitting your abstract is 31st August 2019\nFill your details in the Pre-registration form(below) after submitting your abstracts :\nhttps://docs.google.com/forms/d/e/1FAIpQLSfUOHRNtsCQ3UFaYjeq0eqpk6fRVPpTNHLeUnCDn-Pth_KEEA/viewform?usp=sf_link",
+      "general_rules": "Each team can have a maximum of 4 members. Multiple teams are allowed from a college. Participants cannot be a part of more than one team. A team cannot exhibit more than one project.\nEach team must submit their Project abstract to projectexpo@mech.ssn.edu.in\nLast date for submitting your abstract is 6th September 2019\nFill your details in the Pre-registration form(below) after submitting your abstracts :\n",
       "eventHeads": [
         { "name": "KAUSHIK", "contact": "9176309084" },
         { "name": "MATHIAZHAGAN", "contact": "7538828848" },
@@ -1192,24 +1193,24 @@
       "slug": "paper-presentation",
       "dept": "MECH",
       "displayName": "Paper presentation",
-      "venue": "Ssn College of Engineering ",
+      "venue": "Mechnical Department",
       "timing": "13th September 2019 10:00",
-      "no_of_rounds": "2",
+      "no_of_rounds": "1",
       "isTechnical": true,
       "isFlagship": false,
       "eventtype": "Technical",
       "tagline": "If you can explain it simple, you understood it well enough!!",
-      "description": "Be a part of research orbit and propel yourself to success! Get guidance and appreciation from leading researchers!! Strengthen your resume! Win exciting cash prizes! Papers under the following categories are invited: \nThermal \nDesign \nManufacturing \nThe last for submitting the Abstracts is 31st AUGUST and the abstracts should be mailed to paperppt@mech.ssn.edu.in \nSpot registrations are strictly not allowed.\nRegistration link : https://docs.google.com/forms/d/e/1FAIpQLSfUOHRNtsCQ3UFaYjeq0eqpk6fRVPpTNHLeUnCDn-Pth_KEEA/viewform?usp=sf_link",
+      "description": "Be a part of research orbit and propel yourself to success! Get guidance and appreciation from leading researchers!! Strengthen your resume! Win exciting cash prizes! Papers under the following categories are invited: \nThermal \nDesign \nManufacturing \nThe last for submitting the Abstracts is 5th September and the abstracts should be mailed to paperppt@mech.ssn.edu.in \nSpot registrations are strictly not allowed.\n",
       "general_rules": "Maximum members per team is 3\n A confirmation mail will be sent to the participants regarding the event details once the abstract is selected",
       "eventHeads": [
         { "name": "Rohith N", "contact": "9962543403" },
-        { "name": "Prasad L", "contact": "9094129338" }
+        { "name": "Prasad L", "contact": "9094129338" },
+        { "name": "Sashank C", "contact": "9486603787" }
       ],
       "rounds": [
         [
-          "Venue : Ssn College of Engineering ",
           "Timing : 13th September 2019 10:00",
-          "The presentation should not exceed 7 minutes and the participants must carry a soft copy of their presentations.\nPlease be at the venue prior to the scheduled time "
+          "The final paper should be made in the form of powerpoint presentation, not exceeding 7 minutes.Participants are requested to carry a soft copy of their presentations during the event day.\nPlease be at the venue prior to the scheduled time "
         ]
       ]
     },
@@ -1218,17 +1219,18 @@
       "dept": "MECH",
       "displayName": "Mystery Event",
       "venue": "Mechanical Department",
-      "timing": "13th September 2019 10:00",
-      "no_of_rounds": "3",
+      "timing": "13th and 14th of September 2019 10:00",
+      "no_of_rounds": "1",
       "isTechnical": false,
       "isFlagship": false,
       "eventtype": "Non-Technical",
       "tagline": "Set the stakes, Bet on your skills and play against time!",
-      "description": "Fun filled and dynamic event which brings out the kid in you. Race against time and use your skills. If you win, you make money!!, if you lose, you can always try again! \n\nhttps://docs.google.com/forms/d/e/1FAIpQLSfUOHRNtsCQ3UFaYjeq0eqpk6fRVPpTNHLeUnCDn-Pth_KEEA/viewform?usp=sf_link",
+      "description": "Fun filled and dynamic event which brings out the kid in you. Race against time and use your skills. If you win, you make money!!, if you lose, you can always try again! \n",
       "general_rules": "Participate as a team of 2. \nEntry Fee - min - Rs 30 per person /max - your wish.",
       "eventHeads": [
         { "name": "Raghul Kanna S", "contact": "9445277492" },
-        { "name": "Sachin Abishek ", "contact": "9629295299" }
+        { "name": "Sachin Abishek ", "contact": "9629295299" },
+        { "name": "Laxmanan C J", "contact": "9791029682" }
       ],
       "rounds": [
         ["Venue : Mechanical Department", "Timing : 13th September 2019 10:00"]
@@ -1247,7 +1249,7 @@
       "isFlagship": false,
       "eventtype": "Technical",
       "tagline": "Make it or break it",
-      "description": "Hear Hear Hear!!Yes you! Are you the one among many who always wanted to make a block of code come to life? Well the magic word is MATLAB! How about we tell you that you will get actually rewarded for the  coding? Sounds exciting right? Do you wanna show us who is the BOSS here? Just jump a few hurdles and the Holy Grail(pun not\nintended) is yours .Lets visualize the world together in a new way, with chef de-ouvre software of modeling \u2013MAKE-a-THON (CODING  BOSS)not like ( BIGG BOSS) .Can\u2019t wait to meet\nyou all! Meet us there!!!!\n",
+      "description": "Hear Hear Hear!!Yes you! Are you the one among many who always wanted to make a block of code come to life? Well the magic word is Python! How about we tell you that you will get actually rewarded for the  coding? Sounds exciting right? Do you wanna show us who is the BOSS here? Just jump a few hurdles and the Holy Grail(pun not\nintended) is yours .Lets visualize the world together in a new way, with chef de-ouvre software of modeling \u2013MAKE-a-THON (CODING  BOSS)not like ( BIGG BOSS) .Can\u2019t wait to meet\nyou all! Meet us there!!!!\n",
       "general_rules": "RULES:\n1)There are 2 rounds in total\n2) The participants can contest individually or in teams of 2.\nPRELIMS :ROUND 1\nThe first round is pen and paper round where the teams are required to answer the MCQs.\nROUND 2: \nIn the second round, the participants are expected to do Hacker rank coding.\nThe teams would have to produce the output for the given problem statement's test cases. \n\n",
       "eventHeads": [
         { "name": "Santhosh", "contact": "9042117796" },
@@ -1257,7 +1259,7 @@
         [
           "Venue : ECE ANNEXURE BLOCK",
           "Timing : 13th September 2019 10:00",
-          "Make-a-thon event round 1 starts sharply at  10.00 AM. \nPRELIMS :ROUND 1\n1)The first round is pen and paper round which will consist questions of MCQ type from basic programming and MATLAB, C ,C++,python  coding. Team will be given 45 mins to solve these questions.\n2)Top performing teams will be shortlisted to the next rounds based on the points they score in this round.\n3)In case of tie between teams, starred questions will be used to eliminate teams.\n\n\nDisqualification:\nAny act of plagiarism will lead to disqualification of the team.\n\nTentatively 8 teams will qualify for the 2nd round but subject to change according to the performance in the first round.\n"
+          "Make-a-thon event round 1 starts sharply at  10.00 AM. \nPRELIMS :ROUND 1\n1)The first round is pen and paper round which will consist questions of MCQ type from basic programming and C ,C++,python coding. Team will be given 45 mins to solve these questions.\n2)Top performing teams will be shortlisted to the next rounds based on the points they score in this round.\n3)In case of tie between teams, starred questions will be used to eliminate teams.\n\n\nDisqualification:\nAny act of plagiarism will lead to disqualification of the team.\n\nTentatively 8 teams will qualify for the 2nd round but subject to change according to the performance in the first round.\n"
         ],
         [
           "Venue : DSP Lab",
@@ -1285,7 +1287,7 @@
       ],
       "rounds": [
         [
-          "Venue : Electronics Lab - 1",
+          "Venue : ECE Annexure Block",
           "Timing : 14th September 2019 09:30",
           "The first round is a written test that is comprised of aptitude, fundamental engineering (Electronics,Coding etc) and also some riddles to test the participants' problem solving ability. The event will start at 9.30 am and half an hour will be provided for the teams to solve their question paper. Top 4 - 5 teams will be qualified to move on to the final round."
         ],
@@ -1337,7 +1339,7 @@
       "isFlagship": false,
       "eventtype": "Technical",
       "tagline": "Designers alert! Rules, constraints and limits. Will your design still flair? Think,Create,Design.",
-      "description": "Just be mindful as much you can that's how the event works.\nRemember NO prerequisite. The judging criteria will be based on the participant's creativity.",
+      "description": "Design is a dangerously obscure term.Especially in the Age of Design in which “good design” mark might be a highway to success for any product and “bad design” may doom anything .Diving deep into the nature of design can give us some kind of clear view for the matter ,so here comes the perfect chance for you to showcase your creativity here at INVENTE.",
       "general_rules": "+ The participants are not requested to edit the given shapes or alter the shapes given \n+ The participants are requested to be on Time of round 2.\n+ NO property are allowed in the event \n+ All the necessary properties are provided.\n+ The qualified participants are requested to stay for round 2 ",
       "eventHeads": [
         { "name": "Shibikannan.T.M", "contact": "8903005562" },
@@ -1348,12 +1350,12 @@
         [
           "Venue : ANNEXURE BLOCK, ECE",
           "Timing : 14th September 2019 09:00",
-          "+ The participants are requested to be on Time of round 1.\n+ NO property are allowed in the event \n+ All the necessary properties are provided.\n+ The qualified participants are requested to stay for round 2 "
+          "Round one is simple. It is based on MCQ, It is an elimination round consisting of the Engineered design question, the perspective of things around,how much the un-attentive mind paid attention over the designful Things around you. The pattern followed in MCQ is Engineered Design. (It's fun ) With 15 min frame"
         ],
         [
           "Venue : DSP LAB, ECE",
           "Timing : 14th September 2019 11:00",
-          "+ The participants are not requested to edit the given shapes or alter the shapes given \n+ The participants are requested to be on Time of round 2.\n+ NO property are allowed in the event \n+ All the necessary properties are provided.\n"
+          "You are given with a particular set of tools, acrobats, shapes(Adobe illustrator ) which is not meant to be edited. The one who comes out with the best creative product with these shapes and tools will be the winner. With a time period of 45 min at max."
         ]
       ]
     },
@@ -1376,12 +1378,12 @@
       ],
       "rounds": [
         [
-          "Venue : ECE dept , Annexure Block , LH -1",
+          "Venue : ECE dept.Annexure block,EC-3",
           "Timing : 13th September 2019 09:00",
           "Test Type: Pen and Paper Quiz\nTest Duration: 15 min\nTest Topic : Cricket Related\nTest can be taken anytime between 9AM-1PM.\n4 Teams with the highest points in the test will qualify for the final round"
         ],
         [
-          "Venue : ECE Dept , Annexure Block , LH-1",
+          "Venue :  ECE dept.Annexure block,EC-3",
           "Timing : 13th September 2019 14:00",
           "Final Round will consist of 3 matches ( 2 Semifinals and a Final)\n --Each match will consist of 2 innings, where the 2 teams will have to bat as well as field. \n--The two players from the fielding team has to stand near the stumps in the strikers end and non-strikers end and the batting team will run between the wickets while the fielding team tries to answer the quiz and run the batsman out.\n--Runs run by the batting team is their score.More time the fielding team takes to finish each round of answers, the more runs the opposite team scores by running between the wickets.\n --Each innings will consist of 6 balls and each ball will consist of 3 questions.\n--The total runs run by the batting team is their points.Both the teams switch their roles for their second innings, the batting team tries to chase down the target. \n--the winning team goes to the finals and the same rules are followed in the finals."
         ]
@@ -1414,37 +1416,6 @@
           "Venue : LIC LABORATORY",
           "Timing : 14th September 2019 13:00",
           "FINALS: \nTeams will be shortlisted based on the pen and paper test .\nThis where the actual hunt begins. Here the teams will be given clues to find out the components necessary to design the circuit and its location.\nThe team which finishes first with the correctly designed circuit will be the winner ! "
-        ]
-      ]
-    },
-    "hackinfinity": {
-      "slug": "hackinfinity",
-      "dept": "ECE",
-      "displayName": "Hackinfinity",
-      "venue": "Online submissions ",
-      "timing": "14th September 2019 12:00",
-      "no_of_rounds": "2",
-      "isTechnical": true,
-      "isFlagship": true,
-      "eventtype": "Hackathon",
-      "tagline": "Explore yourself",
-      "description": "A university hackathon will be open for students currently pursuing Bachelor\u2019s or Master\u2019s technology degree from various universities/colleges. The competition will provide an avenue for students to put to test their passion for innovation, problem-solving, design thinking, and programming skills while winning amazing prizes in the process. The event will take place for 24 hours where the shortlisted teams will build a completed product which will be put for evaluation. The judgement will be based on various criteria such as design, innovation , scalability and product pitch. \nVenue : library ",
-      "general_rules": "Team size : Maximum of 3 members and no single person entries. \nThings to be brought : things as per the requisite of your problem statement.\n\nSubmit your abstracts on or before 3-09-19\nFrom which 10-15 teams will be shortlisted for the hackaton.\n",
-      "eventHeads": [
-        { "name": "Jayanth S P", "contact": "9444991471" },
-        { "name": "Vekatesh M S ", "contact": "9597165034" },
-        { "name": "Sundar S", "contact": "9790916450" }
-      ],
-      "rounds": [
-        [
-          "Venue : Online submissions ",
-          "Timing : 14th September 2019 12:00",
-          "Submit your abstracts for the hackaton on or before 03-09-2019. The shortlisted teams will participate in the hackaton on 06-09-2019 at the SSN library. \nThe problem statements can be in the domain of IoT , ML , AI , App development.\nThe shortlisted teams will participate in a 24 hour hackaton from 12PM on 06-09-2019 till 12PM 07-09-2019. \nThe judging will be based on product feasibility , scalability and product pitch which will be evaluated by professionals from the industry.\nPrice  : The top 2 teams will win lucrative price money and internship opportunities.\n"
-        ],
-        [
-          "Venue : SSN library",
-          "Timing : 13th September 2019 12:00",
-          "Submit your abstracts for the hackaton on or before 03-09-2019. The shortlisted teams will participate in the hackaton on 06-09-2019 at the SSN library. \nThe problem statements can be in the domain of IoT , ML , AI , App development.\nThe shortlisted teams will participate in a 24 hour hackaton from 12PM on 06-09-2019 till 12PM 07-09-2019. \nThe judging will be based on product feasibility , scalability and product pitch which will be evaluated by professionals from the industry.\nPrice  : The top 2 teams will win lucrative price money and internship opportunities."
         ]
       ]
     },
@@ -1534,12 +1505,12 @@
         [
           "Venue : EC -1, ECE Annexure block, Ground Floor",
           "Timing : 14th September 2019 13:30",
-          "1. Five words will be given\n2. Numbers or letters should not be drawn"
+          "1. The goal of this round is to guess what word your team member is trying to communicate through the pictures that they draw. You’ll pick a card that’ll make you draw either free handedly; blindly; using only one hand; not taking your hand off the paper. You will be given a maximum of one minute per word.\nTime: 1.30 pm\nRules:\n1. You cannot draw numbers or letters.\n2. Having pre-arranged clues or secrets within the team is against Pictionary rules.\n3. Spelling does not matter, meaning that a player can draw clues for the word “chute” even though the card says “shoot”."
         ],
         [
           "Venue : EC-1, ECE Annexure block, Ground Floor",
           "Timing : 14th September 2019 14:15",
-          "1. Rapid fire round\n2. Top three will be given prizes"
+          "Round 3: Rapid fire\nThis is the final round where 10 questions will be asked in a span of 1 minute. The team that gets the maximum number of questions right becomes the winner!\nTime: 2.15 pm\nRules:\n1. Every team will be asked to nominate one member from their team.\n2. Nominated member will be asked to answer the questions"
         ]
       ]
     },
@@ -1569,8 +1540,37 @@
           "· Teams will have to bring full paper on the day of presentation. Each team would be given a time span of 10 minutes to explain their ideas.",
           "· The judges’ decisions shall be binding and final.",
           "IMPORTANT DATES:",
-          "Last date for submission of paper: 01.09.2019",
-          "Intimation of acceptance of abstract: 04.09.2019"
+          "Last date for submission of paper: 06.09.2019",
+          "Intimation of acceptance of paper: 09.09.2019"
+        ]
+      ]
+    },
+    "hackinfinity": {
+      "slug": "hackinfinity",
+      "dept": "ECE",
+      "displayName": "Hackinfinity",
+      "venue": "The Central Library",
+      "timing": "13th and 14th of September 2019",
+      "no_of_rounds": "2",
+      "isTechnical": true,
+      "isFlagship": true,
+      "eventtype": "Hackathon",
+      "tagline": "Explore yourself",
+      "description": "A university hackathon will be open for students currently pursuing Bachelor\u2019s or Master\u2019s technology degree from various universities/colleges. The competition will provide an avenue for students to put to test their passion for innovation, problem-solving, design thinking, and programming skills while winning amazing prizes in the process. The event will take place for 24 hours where the shortlisted teams will build a completed product which will be put for evaluation. The judgement will be based on various criteria such as design, innovation , scalability and product pitch. \n",
+      "general_rules": "Team size : Maximum of 3 members and no single person entries. \nThings to be brought : things as per the requisite of your problem statement.\n\nSubmit your abstracts on or before 09-09-19\nFrom which 10-15 teams will be shortlisted for the hackaton.\n",
+      "eventHeads": [
+        { "name": "Jayanth S P", "contact": "9444991471" },
+        { "name": "Vekatesh M S ", "contact": "9597165034" },
+        { "name": "Sundar S", "contact": "9790916450" }
+      ],
+      "rounds": [
+        [
+          "Submit your abstracts for the hackathon on or before 09-09-2019. The shortlisted teams will participate in the hackaton on 13-09-2019 at the SSN library. \nThe problem statements can be in the domain of IoT , ML , AI , App development for the application in environment, surveillance, security, logistics and assistances\n"
+        ],
+        [
+          "Venue : SSN central Library",
+          "Timing : 13th September 2019 12:00 PM",
+          "The shortlisted teams will participate in a 24 hour hackatohn from 12PM on 13-09-2019 till 12PM 14-09-2019. \nThe judging will be based on product feasibility , scalability and product pitch which will be evaluated by professionals from the industry.\nPrice  : The top 2 teams will win lucrative price money and internship opportunities.\n"
         ]
       ]
     }
@@ -1627,7 +1627,7 @@
         [
           "Venue : Seminar hall (Ground floor)",
           "Timing : 13th September 2019 10:00",
-          "ROUND 1:\nThe papers should be sent to invente2019paperpresentation@gmail.com.\nThe selected teams will be intimidated through the mail.\nLast date of submission: 1 September 2019.\nThe papers will be shortlisted based on Innovative ideas, Plagiarism, Novelty and Style of writing.\n\nTOPICS:\nTRACK 1: Power Electronics, Drives, Renewable energy, Power systems, Microgrid and Smart grid wireless power transmission system.\nTRACK 2: Electrical machines, Electric traction, Electric vehicles, Special electrical machines, Special motor drives.\nTRACK 3: DSP, Embedded systems, Control and Automation, Fuzzy and Neural Networks, Industry4.0, IoT.\n"
+          "ROUND 1:\nThe papers should be sent to invente2019paperpresentation@gmail.com.\nThe selected teams will be intimidated through the mail.\nLast date of submission: 8th September 2019.\nThe papers will be shortlisted based on Innovative ideas, Plagiarism, Novelty and Style of writing.\n\nTOPICS:\nTRACK 1: Power Electronics, Drives, Renewable energy, Power systems, Microgrid and Smart grid wireless power transmission system.\nTRACK 2: Electrical machines, Electric traction, Electric vehicles, Special electrical machines, Special motor drives.\nTRACK 3: DSP, Embedded systems, Control and Automation, Fuzzy and Neural Networks, Industry4.0, IoT.\n"
         ],
         [
           "Venue : Ground floor - Seminar Hall",
@@ -1651,7 +1651,7 @@
       "isFlagship": false,
       "eventtype": "Technical",
       "tagline": "\"Rectify\" the world with your Invention!",
-      "description": "Are you looking for a platform to showcase your invention? Do you have a project that is a wonder and will make heads turn in admiration? Then, PROJECT DISPLAY is the right platform for you. This is your opportunity to steal the spotlight and make some good money! Flaunt your project and win exciting prizes.",
+      "description": "Are you looking for a platform to showcase your invention? Do you have a project that is a wonder and will make heads turn in admiration? Then, PROJECT DISPLAY is the right platform for you. This is your opportunity to steal the spotlight and make some good money! Flaunt your project and win exciting prizes.\nCash prizes worth 6500 up for grabs!",
       "general_rules": "A team can consist of a maximum of 4 members.\nThe project must be within the realm of Electrical and Electronics engineering.\nMust be original.\nShould have a legitimate title. Titles copied from existing projects will not be allowed.\nMust be a working model.\nRequired components are to be brought by the participants. No components will be provided.",
       "eventHeads": [
         { "name": "Pratyusha Ravi", "contact": "9962602807" },
@@ -1659,9 +1659,12 @@
       ],
       "rounds": [
         [
+          "ROUND 1:\nRegistration must be done online.\nDeadline for abstract submission is 8th September 2019 Late entries will not be entertained.\nAn abstract of around 150 words with an apt project title is to be sent as a pdf attachment to the mail.\nThe mail must consist of the following details of each team member: Name, Phone number, email ID, College name.\nAbstracts must be mailed to projectdisplay2k19@gmail.com\nThe abstracts will be scrutinised by a panel and, the shortlisted teams will be notified.\n"
+        ],
+        [
           "Venue : Electrical machines-2 lab",
           "Timing : 13th September 2019 09:00",
-          "ROUND 1:\nRegistration must be done online.\nDeadline for abstract submission is 31.08.19 Late entries will not be entertained.\nAn abstract of around 150 words with an apt project title is to be sent as a pdf attachment to the mail.\nThe mail must consist of the following details of each team member: Name, Phone number, email ID, College name.\nAbstracts must be mailed to projectdisplay2k19@gmail.com\nThe abstracts will be scrutinised by a panel and, the shortlisted teams will be notified.\nROUND 2:\nThe working model is to be displayed during Invente 2019.\nEach project will be judged by a panel of experienced judges.\nThe decision of the judges will be final.\nCash prizes worth 6500 up for grabs!"
+          "ROUND 2:\nThe working model is to be displayed during Invente 2019.\nEach project will be judged by a panel of experienced judges.\nThe decision of the judges will be final.\n"
         ]
       ]
     },
@@ -1707,7 +1710,7 @@
       "eventtype": "Non-Technical",
       "tagline": "Entertainment termed as event",
       "description": "Ever come to a technical symposium and wondered where the movie related event is? Then this is the event for you! Anything related to movies, song lyrics, drama, banta, is going to be the key to get the win in this event. Just by being a non-tech event in Invente, Tentkotta stands out as the tea kada bench of the EEE department events. Come on down, participate, win, and most importantly, have fun",
-      "general_rules": "1) No. Of members per team: 2-3\n2) No electronic devices to be used during the progress of the event",
+      "general_rules": "1) No. Of members per team: 2-3\n2) No electronic devices to be used during the progress of the event\nRegistration will be done onspot outside the department",
       "eventHeads": [
         { "name": "Chandru ", "contact": "9787275518" },
         { "name": "Surekha", "contact": "8072444199" }
@@ -1729,7 +1732,7 @@
       "slug": "bridge-balancio",
       "dept": "EEE",
       "displayName": "Bridge Balancio",
-      "venue": "EEE Dept - SSN college of engineering",
+      "venue": "Power Electronics Lab",
       "timing": "14th September 2019 09:00",
       "no_of_rounds": "2",
       "isTechnical": true,
@@ -1737,7 +1740,7 @@
       "eventtype": "Technical",
       "tagline": "Balance the unbalanced without weights",
       "description": "Maximum participants 3 and minimum participants 2. Balancing the bridge is not as difficult as balancing life. We stick on to encouraging new methods of balancing and bringing up innovative ideas.",
-      "general_rules": "1. No electronics gadgets are allowed \n2. Participants must bring their calculators",
+      "general_rules": "1. No electronic gadgets are allowed \n2. Participants must bring their calculators",
       "eventHeads": [
         { "name": "Subhiksha Sivasubramanian", "contact": "9789019903" },
         { "name": "Aswinkumar R", "contact": "9597355275" }
@@ -1842,7 +1845,7 @@
         [
           "Venue : Simulation lab",
           "Timing : 13th September 2019 13:00",
-          "This round has three questions which involves design and debugging  of logical circuits and simulating it\n1. Design and simulation of solution to the given problem statement \n2. Reduce the given logical expression and validate it using simulation \n3. Debugging the logical circuit with given constraints "
+          "This round has three questions which involves design and debugging  of logical circuits and simulating it\n1. Design and simulation of solution to the given problem statement \n2. Reduce the given logical expression using k-map and validate it using simulation \n3. Debugging the logical circuit with given constraints (Winner will be selected based on their time taken to solve the three problems)"
         ]
       ]
     },
@@ -1893,13 +1896,6 @@
         { "name": "Dinesh Ram Kumar Murugan", "contact": "9629470915" },
         { "name": "Arshad Mohamed M A", "contact": "7904071076" },
         { "name": "Nishanth T", "contact": "9566057799" }
-      ],
-      "rounds": [
-        [
-          "Venue : Main Auditorium",
-          "Timing : 14th September 2019 09:00",
-          "Entry Fee Rs 300"
-        ]
       ]
     }
   },
@@ -1949,8 +1945,7 @@
           "Venue : Civil Department",
           "Timing : 13th September 2019 10:00",
           "1)Participants can form groups of maximum 3 people.\n2)There are 8 different games, each to be played for one minute.\n3)Participants should choose a minimum of 5 games to win prizes.\n4)Best 5 of all the games played wil be taken for evaluation.\n5)Players will be evaluated based on their performance and effectiveness.\n"
-        ],
-        ["Venue : Civil department", "Timing : 13th September 2019 10:00"]
+        ]
       ]
     },
     "gully-cricket": {
@@ -1958,7 +1953,7 @@
       "dept": "CIVIL",
       "displayName": "The Gully Cricket",
       "venue": "Hostel basketball ground",
-      "timing": "13th September 2019 10:00",
+      "timing": "13th and 14th of September 2019 10:00",
       "no_of_rounds": "1",
       "isTechnical": false,
       "isFlagship": false,
@@ -1974,7 +1969,6 @@
       "rounds": [
         [
           "Venue : Hostel basketball ground",
-          "Timing : 13th September 2019 10:00",
           "1. Every team must consist of 5 members each.\n2. Two teams will face off with each team playing 5 overs.\n3. Winner of the team will get the prize money as well as their registration fee back."
         ]
       ]
@@ -1991,7 +1985,7 @@
       "eventtype": "Technical",
       "tagline": "Gotta connect them all",
       "description": "\nHey there, It\u2019s time for your brain to train!\nIf you are interested in word games, then this event is exclusively for you.\nThis event is going to test your love for word games along with your exposure to technical terms of various engineering disciplines.",
-      "general_rules": "\n1.This event consists of three rounds.\n2 Only 2-3 participants are allowed in a team.\n3.Students must carry their college id-card.",
+      "general_rules": "\nThis event consists of three rounds.\nOnly 2-3 participants are allowed in a team.\nStudents must carry their college id-card.",
       "eventHeads": [
         { "name": "S Santhosh", "contact": "8056054259" },
         { "name": "G.Gayathri", "contact": "9566015302" },
@@ -2012,31 +2006,6 @@
           "Venue : Civil Deptartment",
           "Timing : 14th September 2019 10:00",
           "ROUND 3: FINAL ROUND\n     \t1. This round is based on the famous television show \u2013 CONNEXIONS.\n    \t2. Picture clues will be provided and participants should guess theword.\n 3. Based on the final score, judges will choose the winner."
-        ]
-      ]
-    },
-    "staad-pro": {
-      "slug": "staad-pro",
-      "dept": "CIVIL",
-      "displayName": "STAAD.Pro Workshop",
-      "venue": "Department of Civil Engineering",
-      "timing": "14th September 2019 11:00",
-      "no_of_rounds": "0",
-      "isTechnical": true,
-      "isFlagship": false,
-      "eventtype": "Workshop",
-      "tagline": "-",
-      "description": "Are you a design enthusiast? Do you want to learn to work with the most widely used software in the construction industry for structural design and analysis? Here is a chance for you all to learn STAAD.Pro from the most renowned training institute, \u201cCADD centre , Porur\u201d.\n\nSo what if STAAD.Pro isn\u2019t part of the 2017-reg Curriculum? Take advantage of the STAAD.Pro workshop this INVENTE- 4.0 and move a step forward in the process of becoming an industry ready candidate",
-      "general_rules": "Bring your College ID.\n\n Entry Fee Rs300",
-      "eventHeads": [
-        { "name": "Aaditya Jagadeesh", "contact": "9840323164" },
-        { "name": "Kavya L", "contact": "9500692217" }
-      ],
-      "rounds": [
-        [
-          "Venue : Department of Civil Engineering",
-          "Timing : 14th September 2019 11:00",
-          "Register separately for the workshop by paying Rs.300"
         ]
       ]
     },
@@ -2082,7 +2051,7 @@
       "eventtype": "Technical",
       "tagline": "The Launchpad to Liberate",
       "description": "The world out there isn't a silent place, but is shockingly beginning to get a silent crowd around. Enough of staying lost in thoughts, it's time for you to present them and what better place for you to do it than here.  It's time to break the shackles and VOICE- for our technology , for our ecosystems, for us. \nDepartment of Civil Engineering presents its flagship 'Engineering debate' event, tailormade for those who wish to present their perspectives and talk about matters that matter. This event tests your logical thinking ability, technical knowledge, factual accuracy and spontaneity to answer and counter your opponent's question. It is open for all departments.",
-      "general_rules": "\u2022 Event Type: Both On-spot and Online. \n\u2022 Maximum no of persons per team: Two. \n\u2022 Cross College teams (except SSN Students teams) are allowed.",
+      "general_rules": "Event Type: Both On-spot and Online. \nMaximum no of persons per team: Two. \nCross College teams (except SSN Students teams) are allowed.",
       "eventHeads": [
         { "name": "J Gokul Krishna", "contact": "9840094897" },
         { "name": "Sai Likitha Krishna", "contact": "7339376767" },
@@ -2106,13 +2075,13 @@
       "dept": "CIVIL",
       "displayName": "arCADe",
       "venue": "CAD Lab, Department of Civil Engineering",
-      "timing": "14th September 2019 11:00",
+      "timing": "13th September 2019 11:00",
       "no_of_rounds": "2",
       "isTechnical": true,
       "eventtype": "Technical",
       "tagline": "From dreams to design",
       "description": "\u2018Every existing structure was once a design.\u2019\nBe it an ordinary apartment building or an amazing structure, Design decides everything. So, we present you the arCADe, an opportunity to groom your ingenious design skills.\n\nNote: Exciting internship opportunity at Indus instruments.",
-      "general_rules": "1. A maximum of two people are allowed in a team.\n2. Cross-college teams are allowed\n3. Students must bring their college ID-Cards.\n4. Electronic devices are strictly prohibited inside the venue.\n5. Paper for rough work shall be provided.\n6. Decision of the judges will be final.",
+      "general_rules": "A maximum of two people are allowed in a team.\nCross-college teams are allowed\nStudents must bring their college ID-Cards.\nElectronic devices are strictly prohibited inside the venue.\nPaper for rough work shall be provided.\nDecision of the judges will be final.",
       "eventHeads": [
         { "name": "Aaditya Jagadeesh", "contact": "9840323164" },
         { "name": "Aparna", "contact": "7538806408" }
@@ -2150,13 +2119,13 @@
       "rounds": [
         [
           "Venue : Civil department",
-          "Timing : 13th September 2019 11:30",
-          "Round 1:\nTime:11.30 AM\nPaper pen test (msq,fill ups,Two mark qs)\nQualification criteria: Top scorers are qualified for the next round.\nDuration:45 mins \nTopics: All disciplines of civil engineering and some Non technical questions.\nDisqualification criteria:Usage of mobile phones , Malfunctioning during the test,Disobeying the rules."
+          "Timing : 13th September 2019 11:00",
+          "Round 1:\nTime:11.30 AM\nPaper pen test (mcq,fill ups,Two mark qs)\nQualification criteria: Top scorers are qualified for the next round.\nDuration:45 mins \nTopics: All disciplines of civil engineering and some Non technical questions.\nDisqualification criteria:Usage of mobile phones , Malpractice during the test"
         ],
         [
           "Venue : Civil department",
           "Timing : 13th September 2019 13:00",
-          "Time:1.00 PM\nRapidfire round  (buzzer round)\n10 questions displayed on the projector\nQualificatiom :spontaneity of answering.\nDisqualification:Malfunctioning,\nDisobeying the rules.\nTopics: Same Topics as round 1  (level of difficulty is more)"
+          "Time:1.00 PM\nRapidfire round  (buzzer round)\n10 questions displayed on the projector\nQualification :spontaneity of answering.\nDisqualification:Malpractice,\nDisobeying the rules.\nTopics: Same Topics as round 1  (level of difficulty is more)"
         ]
       ]
     },
@@ -2172,15 +2141,15 @@
       "eventtype": "Technical",
       "tagline": "Design to perform, Build to last",
       "description": "\t\"Each type of knowledge has value; however, from an engineering point of view, practical knowledge seems to be more valuable than theoretical knowledge.\"\n\tEngineering is the art of modelling materials that have never been made and creating things that has never been thought of in the first place.It\u2019s time for the engineer within you to venture out in the numerous possibilities this field offers!  INVENTE 4.0 offers you a platform to express  your creative thinking , so come & join us at \u2018CALL OF BUILDERS\u2019\n\n\n\n\nNOTE: \n#  Exciting internship opportunities for the winners at INDUS INSTRUMENTS",
-      "general_rules": "# Only\u00a0two participants\u00a0are allowed in a team(cross college teams are allowed)               # Participants must carry their college ID card\n# Participants will be tested on their knowledge of basic civil engineering\n# All the materials for the event will be provided by us. The model must be made only from given materials as no extra material will be provided.\n# Any model deviating from the mentioned specifications will be eliminated.",
+      "general_rules": "Only\u00a0two participants\u00a0are allowed in a team(cross college teams are allowed)\nParticipants must carry their college ID card\nParticipants will be tested on their knowledge of basic civil engineering\nAll the materials for the event will be provided by us. The model must be made only from given materials as no extra material will be provided.\nAny model deviating from the mentioned specifications will be eliminated.",
       "eventHeads": [
-        { "name": "BIJIVEMULA SRUTHI REDDY", "contact": "7871102749" },
-        { "name": "HEMA NAGA SRI PUSHPA SWETHA T", "contact": "9176708880" },
+        { "name": "SRUTHI REDDY", "contact": "7871102749" },
+        { "name": "SWETHA T", "contact": "9176708880" },
         { "name": "SUDHAKAR V", "contact": "9566887506" }
       ],
       "rounds": [
         [
-          "This is a questionnaire round.&nbsp;Questions related to basic civil engineering will be asked. The question type is multiple choice questions."
+          "This is a questionnaire round.Questions related to basic civil engineering will be asked. The question type is multiple choice questions."
         ],
         [
           "In round 2, a model of given specifications should be made. Any model deviating from the specified requirements will be eliminated. All the materials required for the event will be provided by us. The structure should be made within the given materials as no extra materials will be provided. The structure will be tested for loading capacity. The structure which holds more load will be declared as winner."
@@ -2199,7 +2168,7 @@
       "eventtype": "Technical",
       "tagline": "Let's care for the voids",
       "description": "Hey there, are you concerned about the many crises the world faces and do you have a solution for those crises? Here is \u201cSOLVE-IT-aire\u201d! - An event being launched at the INVENTE 4.0. This event is a platform for all the genius to showcase their quick-wit and problem solving skills. SOLVE-IT-aire promises to serve as a testimonial for your talent!",
-      "general_rules": "RULES:\n1.\tThe event consists of three rounds.\n2.\tOnly 2 participants are allowed in a team.\n3.\tStudents must carry their college id-card.",
+      "general_rules": "RULES:\n\tThe event consists of three rounds.\n\tOnly 2 participants are allowed in a team.\n\tStudents must carry their college id-card.",
       "eventHeads": [
         { "name": "Swarna Varshini D", "contact": "9751796499" },
         { "name": "Ahalya S", "contact": "9952071080" }
@@ -2226,15 +2195,15 @@
       "slug": "paper-presentation",
       "dept": "CIVIL",
       "displayName": "Paper Presentation",
-      "venue": "Online submission of abstracts",
-      "timing": "14th September 2019 00:00",
+      "venue": "Civil Department",
+      "timing": "14th September 2019 10:00",
       "no_of_rounds": "2",
       "isTechnical": true,
       "isFlagship": false,
       "eventtype": "Technical",
       "tagline": "Floating Idea to Attention",
       "description": "\u201cEvery once in a while a new technology, an old problem and a big idea turn into an innovation.\u201d\nBelieve it or not ! Presentation unleashes Innovation and ignites Inspiration \u2018cause until and unless an idea is tested or questioned, it can\u2019t be approved or be accepted as an Innovation. We are offering you a forum to showcase your presentation skills and in-depth knowledge of your research area in which your work will be weighed and evaluated by seasoned academic professionals.\n\nTopic :  \nAny topic related to Civil Engineering is welcome. Preferably, \u201cRecent Advances in Civil Engineering\u201d \n\nNote :\n1.Chance to win The Best Innovation Award & The Best Presenter Award apart from the 1st, 2nd and 3rd prizes.\n2.The Paper winning the first place will directly be selected for National Level Conference held at SSN College of Engineering.",
-      "general_rules": "1.A maximum of 3 participants are encouraged. \n2.Cross College teams are allowed. ( Excluding SSN Students) \n3.Published as well as on-going projects will be considered. (Camera-ready paper for on-going projects is optional.)\n4.Selected participants must bring their college ID cards.\n\nPaper Format :\n\n1.Paper should be in Microsoft Word Format or PDF Format.\n2.It should be written in Single Column format using \"Times New Roman\" Font with font size as \"12\".\n3.Keep the layout of the text as simple as possible.\n4.Equations and formulae should be legible, preferably written using equation.\n5.The affiliations of the author and co-author should be enclosed in the title page of the abstract.",
+      "general_rules": "A maximum of 3 participants are encouraged. \nCross College teams are allowed. ( Excluding SSN Students) \nPublished as well as on-going projects will be considered. (Camera-ready paper for on-going projects is optional.)\nSelected participants must bring their college ID cards.\n\nPaper Format :\n\n1.Paper should be in Microsoft Word Format or PDF Format.\n2.It should be written in Single Column format using \"Times New Roman\" Font with font size as \"12\".\n3.Keep the layout of the text as simple as possible.\n4.Equations and formulae should be legible, preferably written using equation.\n5.The affiliations of the author and co-author should be enclosed in the title page of the abstract.",
       "eventHeads": [
         { "name": "Kavya L", "contact": "9500692217" },
         { "name": "Vishvaa R S", "contact": "9003736566" },
@@ -2243,13 +2212,13 @@
       "rounds": [
         [
           "Venue : Online submission of abstracts",
-          "Timing : 14th September 2019 00:00",
-          "1.An abstract (150 to 300 words) of the topic is to be sent to the organising team through mail [ paper4invente@gmail.com ] on or before 30th August, 2019 (11:59 PM).\n2.The Selection Criteria will be based on the Uniqueness of the topic.\n3.After selection, the participant(s) should mail [ paper4invente@gmail.com ] the camera-ready paper to the organising team on or before 3rd September, 2019 (11:59 PM)."
+          "Timing : 14th September 2019 10:00",
+          "1.An abstract (150 to 300 words) of the topic is to be sent to the organising team through mail [ paper4invente@gmail.com ] on or before 8th September, 2019 (11:59 PM).\n2.The Selection Criteria will be based on the Uniqueness of the topic.\n3.After selection, the participant(s) should mail [ paper4invente@gmail.com ] the camera-ready paper to the organising team on or before 11th September, 2019 (11:59 PM)."
         ],
         [
           "Venue : EEE Seminar hall",
           "Timing : 14th September 2019 10:00",
-          "1.The selected participants should report at the venue on 7th September 2019, with camera-ready paper (Hard copy) and a presentation (PPT) in a pen drive at 9:30 am as the event will begin at 10 am.\n2.The duration provided to each team will be 10 minutes (7 mins for presentation and 3 mins for panel discussion). Presentation is to be prepared accordingly.\n3.Participants will be judged on their creativity, presentation skills and format.\n4.The Judging Panel's decision will be considered final."
+          "1.The selected participants should report at the venue on 14th September 2019, with camera-ready paper (Hard copy) and a presentation (PPT) in a pen drive at 9:30 am as the event will begin at 10 am.\n2.The duration provided to each team will be 10 minutes (7 mins for presentation and 3 mins for panel discussion). Presentation is to be prepared accordingly.\n3.Participants will be judged on their creativity, presentation skills and format.\n4.The Judging Panel's decision will be considered final."
         ]
       ]
     },
@@ -2282,6 +2251,31 @@
           "In this round, a building plan accompanied by set of tasks will be given. The closest estimate will be awarded based on set of criteria."
         ]
       ]
+    },
+    "staad-pro": {
+      "slug": "staad-pro",
+      "dept": "CIVIL",
+      "displayName": "STAAD.Pro Workshop",
+      "venue": "Department of Civil Engineering",
+      "timing": "14th September 2019 11:00",
+      "no_of_rounds": "0",
+      "isTechnical": true,
+      "isFlagship": false,
+      "eventtype": "Workshop",
+      "tagline": "-",
+      "description": "Are you a design enthusiast? Do you want to learn to work with the most widely used software in the construction industry for structural design and analysis? Here is a chance for you all to learn STAAD.Pro from the most renowned training institute, \u201cCADD centre , Porur\u201d.\n\nSo what if STAAD.Pro isn\u2019t part of the 2017-reg Curriculum? Take advantage of the STAAD.Pro workshop this INVENTE- 4.0 and move a step forward in the process of becoming an industry ready candidate",
+      "general_rules": "Bring your College ID.\n",
+      "eventHeads": [
+        { "name": "Aaditya Jagadeesh", "contact": "9840323164" },
+        { "name": "Kavya L", "contact": "9500692217" }
+      ],
+      "rounds": [
+        [
+          "Venue : Department of Civil Engineering",
+          "Timing : 14th September 2019 11:00",
+          "Register separately for the workshop by paying Rs.300"
+        ]
+      ]
     }
   },
   "bme": {
@@ -2297,7 +2291,7 @@
       "eventtype": "Workshop",
       "tagline": "Simulate it before you even see it ",
       "description": "Do you feel that taking your projects from the breadboard to something more permanent is tough? Do you struggle with designing your PCB in a neat manner? Have never designed a PCB virtually? Then this workshop on designing  PCBs using the recent and high rated software is just what you need! Department of Biomedical Engineering &  IEEE EMBS is offering you this chance to transform how you design a PCB through this one-day workshop.",
-      "general_rules": "Prior knowledge:\nBasic knowledge of electrical engineering is sufficient, no programming knowledge is required.\n\nTools Provided (for the session): \nReference Materials, PCB Fabrication Materials\nConcepts: \nCircuit Designing, Simulation, PCB Design Structure, Component Placement and Design, Testing, Board Analysis, Fabrication output generation.\n\nProjects: -\nCreate a desired Printed circuit board structure      \nDesign, Testing and Analysis of Electronic circuit board     \n\n\nAgenda: \nSession 1- Computerized capture of electronic designs\nSession 2- Introduction to PCB Layout & Library creation\n\nImportant points:\nFee: Rs. 250/- per head.\nComputer systems will be provided with software pre-installed. \n Entry Fee Rs300",
+      "general_rules": "Prior knowledge:\nBasic knowledge of electrical engineering is sufficient, no programming knowledge is required.\n\nTools Provided (for the session): \nReference Materials, PCB Fabrication Materials\nConcepts: \nCircuit Designing, Simulation, PCB Design Structure, Component Placement and Design, Testing, Board Analysis, Fabrication output generation.\n\nProjects: -\nCreate a desired Printed circuit board structure      \nDesign, Testing and Analysis of Electronic circuit board     \n\n\nAgenda: \nSession 1- Computerized capture of electronic designs\nSession 2- Introduction to PCB Layout & Library creation\n\nImportant points:\nFee: Rs. 250/- per head.\nComputer systems will be provided with software pre-installed.",
       "eventHeads": [
         { "name": "Prem Aravindan J", "contact": "9677569754" },
         { "name": "Anupam.B", "contact": "9962759471" },
@@ -2492,7 +2486,7 @@
         [
           "Venue : Diagnostic and therapeutic lab-second floor ( BME dept)",
           "Timing : 13th September 2019 10:00",
-          "The following are the domains for paper presentation:\nHealthcare technology\nNano electronics\nBiosignal processing\nArtificial organs\nPhysiological modelling\nDigital image processing\nArtificial neural networks\nVLSI signal processing\nReal time embedded systems\nRobotics\n\nAbstract has to be submitted(word document)in not more than 300 words before the due date (2nd September 2019) to the mail id : papersbme4.0@gmail.com\n\nBased on peer review of the abstracts, contestants will be shortlisted for the next round. \n\nIf chosen, the hard copy of the paper with the abstract in A4 sheets(not more than 10 pages including references,tables and graphs) has to be submitted on the day of the event. The paper should be in IEEE format and written in Times New Roman font.\n\nThe \u2018Microsoft Powerpoint\u2019 presentation should be mailed to the organizing team on or before the 6th of September and can last for a maximum of 7 minutes. There will be a 3 minute Q&A session following it.\n\nDeadline for submission: 2nd September 2019"
+          "The following are the domains for paper presentation:\nHealthcare technology\nNano electronics\nBiosignal processing\nArtificial organs\nPhysiological modelling\nDigital image processing\nArtificial neural networks\nVLSI signal processing\nReal time embedded systems\nRobotics\n\nAbstract has to be submitted(word document)in not more than 300 words before the due date (9th September 2019) to the mail id : papersbme4.0@gmail.com\n\nBased on peer review of the abstracts, contestants will be shortlisted for the next round. \n\nIf chosen, the hard copy of the paper with the abstract in A4 sheets(not more than 10 pages including references,tables and graphs) has to be submitted on the day of the event. The paper should be in IEEE format and written in Times New Roman font.\n\nThe \u2018Microsoft Powerpoint\u2019 presentation should be mailed to the organizing team on or before the 13th of September and can last for a maximum of 7 minutes. There will be a 3 minute Q&A session following it.\n\nDeadline for submission: 9th September 2019"
         ]
       ]
     },

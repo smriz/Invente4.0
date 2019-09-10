@@ -134,6 +134,9 @@ class Hospitality extends React.Component {
               <p className="note">
                 Note: From Kelambakkam to SSN board any share auto or bus going
                 to Thiruporur
+
+              <br/>
+               <br/><strong>CLick here to download SSN college bus routes: </strong><span style={{color:"#FF9800"}}><a href="https://drive.google.com/open?id=1Zpol3ygS3o9nx34tnx1v_PerRaUPMGNF"> Bus.pdf</a></span> 
               </p>
 
               <div align="center">
