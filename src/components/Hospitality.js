@@ -184,7 +184,7 @@ class Hospitality extends React.Component {
                     <td>7358729757</td>
                   </tr>
                   <tr>
-                    <td>Suhshine</td>
+                    <td>Suhashine</td>
                     <td>7379266268</td>
                   </tr>
                   <tr>

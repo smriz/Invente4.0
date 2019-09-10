@@ -257,9 +257,12 @@ a {
   display: inline-block;
   height: 10%;
   width: 50%;
-  margin: 25px 0;
-  padding: 0 20px;
+  margin: 0px 0;
+  padding: 0 2px;
   border-radius: 15px;
+}
+.organisers .card-set .card-set-childs .adjust{
+ transform: scale(2);
 }
 .organisers .card-set .card-set-child .adjust{
   align-content: center;
@@ -292,6 +295,9 @@ a {
 }
 
 @media only screen and (orientation: portrait) {
+  .organisers .card-set .card-set-childs .adjust{
+    transform: scale(1);
+   }
   .organisers {
     max-width: 90%;
   }

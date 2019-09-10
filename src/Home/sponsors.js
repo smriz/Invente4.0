@@ -78,7 +78,35 @@ class Sponsor extends React.Component {
                       />
 
                     </div>
+
+                    </div>
+                    <div className="card-set">
+                
+                <div
+                  className="card-set-childs"
+                  align="center"
+                >
+                  <img className="adjust"
+                    style={{transform:"scale(.7)"}}
+                    src={require("../images/sponsors/kaaylabs.jpg")}
+                  />
+
                 </div>
+      
+                <div
+                  className="card-set-childs"
+                  align="center"
+                >
+              <img
+              className="adjust"
+               style={{transform:"scale(.7)"}}
+                    src={require("../images/sponsors/motorq_logo.png")}
+                  />
+
+                </div>
+
+                </div>
+
               </div>
 
             <br />
