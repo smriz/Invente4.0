@@ -136,7 +136,7 @@ class Hospitality extends React.Component {
                 to Thiruporur
 
               <br/>
-               <br/><strong>CLick here to download SSN college bus routes: </strong><span style={{color:"#FF9800"}}><a href="https://drive.google.com/open?id=1Zpol3ygS3o9nx34tnx1v_PerRaUPMGNF"> Bus.pdf</a></span> 
+               <br/><strong>CLick here to download SSN college bus routes: </strong><span style={{color:"#FF9800"}}><a href="https://drive.google.com/open?id=1Zpol3ygS3o9nx34tnx1v_PerRaUPMGNF" target="_blank"> Bus.pdf</a></span> 
               </p>
 
               <div align="center">

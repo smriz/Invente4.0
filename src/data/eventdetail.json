@@ -550,7 +550,7 @@
       "dept": "IT",
       "displayName": "WebFX",
       "venue": "IT Department ",
-      "timing": "14th September 2019 09:00",
+      "timing": "13th & 14th September 2019",
       "no_of_rounds": "2",
       "isTechnical": true,
       "isFlagship": false,
@@ -565,12 +565,12 @@
       "rounds": [
         [
           "Venue : IT Department ",
-          "Timing : 14th September 2019 09:00",
+          "Timing : 13th September 2019",
           "1. Paper Pen Round consisting of 20 MCQs and 5 Subjective Questions about Web Technologies. \n2. Each team be given 1 hour for the same."
         ],
         [
           "Venue : IT Department",
-          "Timing : 14th September 2019 01:00",
+          "Timing : 14th September 2019",
           "1. Top 5 teams will be selected for Development round which demands a web app where each team should choose 1 topic of the three given topics on spot.\n2.  3 hours will be given to each team and 10 mins to explain their product."
         ]
       ]
